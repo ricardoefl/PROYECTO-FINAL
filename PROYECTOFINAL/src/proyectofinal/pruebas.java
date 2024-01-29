@@ -1,17 +1,14 @@
 package proyectofinal;
-//AUTOR: Ricardo Espinosa Y Juan Diego Camargo
-/*
-Los datos se presentan en consola bien tabulados pero algunos
-no son correctos, esta es solo una maqueta para empezar a trabajar 
-con archivos.
-*/
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.time.LocalDate;
 import java.util.Random;
-public class presentar_data {
+public class pruebas {
     public static void main(String[] args) {
-        int filas = 5;
+        int filas = 50;
         int columnas = 11;
-        String [][]principal = new String [filas][columnas];
+        String[][] principal = new String[filas][columnas];
         generarCedulas(principal, filas);
         generarNombresPPL(principal, filas);
         generaredades(principal, filas);
@@ -23,15 +20,24 @@ public class presentar_data {
         generarCelda(principal, filas);
         generarVisita(principal, filas);
         generardelitos(principal, filas);
-        presentarData(principal, filas);
+        guardarEnCSV(principal, filas, "datitaCarcel.csv");
     }
     
-    public static void presentarData(String principal[][], int filas){ //Presentar datos en la consola
-        System.out.println("Cedula\t\t| Nombres\t\t\t\t| Edad(Anios)\t| Pena(anios)\t|Fecha(Ingreso)\t| Fecha(Salida)\t| Pabellon\t| Celda\t\t| Clasificacion\t| Visitas semanales(Horas)\t| Delito");
-        for (int i = 0; i < filas; i++) {
-            System.out.printf("%s\t%s\t\t%s\t\t%s\t\t%s\t%s\t%s\t\t%s\t\t%s\t\t%s\t\t\t%s\n",
-            principal[i][0], principal[i][1], principal[i][2], principal[i][3], principal[i][4], principal[i][5], 
-            principal[i][6], principal[i][7], principal[i][8], principal[i][9], principal[i][10] );
+    public static void guardarEnCSV(String[][] principal, int filas, String nombreArchivo) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(nombreArchivo))) {
+            // Escribir encabezados
+            writer.write("Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso); Fecha(Salida); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+
+            // Escribir datos
+            for (int i = 0; i < filas; i++) {
+                writer.write(String.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",
+                        principal[i][0], principal[i][1], principal[i][2], principal[i][3], principal[i][4], principal[i][5],
+                        principal[i][6], principal[i][7], principal[i][8], principal[i][9], principal[i][10]));
+            }
+
+            System.out.println("Datos guardados en " + nombreArchivo);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
     
