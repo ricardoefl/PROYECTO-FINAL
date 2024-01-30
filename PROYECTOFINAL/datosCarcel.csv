@@ -1,0 +1,33 @@
+Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes; Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito
+8251355923; Roberto Diego Paredes Espinosa; 34; 19; 12/06/2012; 12/06/2031; 7; 1(A); 64; A; 1 Hora(s); Narcotrafico
+5978843538; Dario Angel Cuenca Hidalgo; 58; 40; 04/05/1986; 04/05/2026; 2; 1(A); 64; A; 1 Hora(s); Narcotrafico
+2595393949; Carlos Angel Garcia Roman; 51; 12; 01/04/2016; 01/04/2028; 4; 3(C); 27; M; 2 Hora(s); Hurto
+8662465079; Roberto Cesar Paredes Hidalgo; 27; 27; 02/11/2019; 02/11/2046; 22; 3(C); 73; M; 2 Hora(s); Robo
+4049422620; Dario Paulo Perero Morales; 57; 29; 27/04/2007; 27/04/2036; 12; 5(E); 3; B; 4 Hora(s); Invacion de Propiedad Privada
+8087726604; Roberto Antonio Perero Gomez; 65; 46; 10/12/1980; 10/12/2026; 2; 3(C); 76; M; 2 Hora(s); Hurto
+2350036755; Michael Antonio Gonzales Roman; 47; 29; 23/01/1999; 23/01/2028; 4; 1(A); 45; A; 1 Hora(s); Narcotrafico
+6511418388; Carlos Antonio Paredes Morales; 63; 47; 18/03/1980; 18/03/2027; 3; 5(E); 14; B; 4 Hora(s); Estafa
+2652656126; Dario Sergio Torres Espinosa; 35; 20; 02/02/2010; 02/02/2030; 6; 5(E); 72; B; 4 Hora(s); Invacion de Propiedad Privada
+2500713226; Roberto Angel Romero Rivera; 50; 30; 16/03/1996; 16/03/2026; 2; 1(A); 24; A; 1 Hora(s); Narcotrafico
+5214183097; Gonzalo Julian Cevallos Gomez; 33; 16; 16/05/2013; 16/05/2029; 5; 1(A); 59; A; 1 Hora(s); Narcotrafico
+3601069077; Fabian Antonio Cuenca Espinosa; 60; 46; 25/02/1983; 25/02/2029; 5; 3(C); 19; M; 2 Hora(s); Robo
+4787397987; Pedro Pablo Paredes Hidalgo; 56; 33; 26/01/1995; 26/01/2028; 4; 3(C); 61; M; 2 Hora(s); Hurto
+9538219857; Michael Cesar Paredes Hidalgo; 40; 25; 26/03/2012; 26/03/2037; 13; 1(A); 77; A; 1 Hora(s); Narcotrafico
+4119260867; Carlos Julian Perero Rivera; 41; 30; 31/02/2005; 31/02/2035; 11; 1(A); 40; A; 1 Hora(s); Narcotrafico
+7338421391; Carlos Cesar Paredes Roman; 60; 45; 28/01/1984; 28/01/2029; 5; 1(A); 53; A; 1 Hora(s); Narcotrafico
+6665679687; Victor Antonio Torres Reyes; 41; 24; 02/05/2004; 02/05/2028; 4; 3(C); 41; M; 2 Hora(s); Robo
+6377252737; Victor Angel Torres Reyes; 36; 23; 01/07/2007; 01/07/2030; 6; 5(E); 61; B; 4 Hora(s); Escandalo Publico
+3483428263; Michael Angel Cevallos Reyes; 45; 28; 07/08/1998; 07/08/2026; 2; 1(A); 63; A; 1 Hora(s); Narcotrafico
+4399011789; Victor Julian Paredes Ramirez; 36; 24; 06/10/2007; 06/10/2031; 7; 5(E); 65; B; 4 Hora(s); Escandalo Publico
+8126797519; Victor Paulo Guerrero Gomez; 56; 40; 14/02/1987; 14/02/2027; 3; 3(C); 80; M; 2 Hora(s); Robo
+1514344313; Roberto Antonio Paredes Hidalgo; 40; 26; 30/04/2009; 30/04/2035; 11; 5(E); 41; B; 4 Hora(s); Estafa
+5012019290; Victor Antonio Cevallos Gomez; 54; 39; 09/05/1990; 09/05/2029; 5; 3(C); 86; M; 2 Hora(s); Hurto
+2224155109; Dario Adrian Paredes Espinosa; 40; 25; 24/06/2003; 24/06/2028; 4; 1(A); 57; A; 1 Hora(s); Narcotrafico
+8978461056; Victor Pablo Guerrero Morales; 60; 42; 14/09/1986; 14/09/2028; 4; 5(E); 47; B; 4 Hora(s); Invacion de Propiedad Privada
+5365541182; Carlos Antonio Romero Roman; 27; 8; 01/03/2019; 01/03/2027; 3; 3(C); 37; M; 2 Hora(s); Hurto
+7198988040; Michael Antonio Garcia Rivera; 53; 35; 07/04/1991; 07/04/2026; 2; 5(E); 35; B; 4 Hora(s); Estafa
+8204539522; Fabian Paulo Cuenca Sanchez; 55; 40; 17/11/1988; 17/11/2028; 4; 1(A); 70; A; 1 Hora(s); Narcotrafico
+9062765754; Fabian Sergio Perero Hidalgo; 52; 23; 05/07/2005; 05/07/2028; 4; 3(C); 14; M; 2 Hora(s); Robo
+7694297671; Pedro Julian Cuenca Sanchez; 29; 26; 16/03/2017; 16/03/2043; 19; 3(C); 53; M; 2 Hora(s); Robo
+8145721390; Roberto Julian Guerrero Sanchez; 56; 40; 12/08/1990; 12/08/2030; 6; 5(E); 11; B; 4 Hora(s); Invacion de Propiedad Privada
+4306186186; Fabian Pablo Paredes Hidalgo; 58; 34; 03/08/1995; 03/08/2029; 5; 1(A); 86; A; 1 Hora(s); Narcotrafico
