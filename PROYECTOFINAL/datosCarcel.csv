@@ -1,33 +1,801 @@
-Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes; Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito
-8251355923; Roberto Diego Paredes Espinosa; 34; 19; 12/06/2012; 12/06/2031; 7; 1(A); 64; A; 1 Hora(s); Narcotrafico
-5978843538; Dario Angel Cuenca Hidalgo; 58; 40; 04/05/1986; 04/05/2026; 2; 1(A); 64; A; 1 Hora(s); Narcotrafico
-2595393949; Carlos Angel Garcia Roman; 51; 12; 01/04/2016; 01/04/2028; 4; 3(C); 27; M; 2 Hora(s); Hurto
-8662465079; Roberto Cesar Paredes Hidalgo; 27; 27; 02/11/2019; 02/11/2046; 22; 3(C); 73; M; 2 Hora(s); Robo
-4049422620; Dario Paulo Perero Morales; 57; 29; 27/04/2007; 27/04/2036; 12; 5(E); 3; B; 4 Hora(s); Invacion de Propiedad Privada
-8087726604; Roberto Antonio Perero Gomez; 65; 46; 10/12/1980; 10/12/2026; 2; 3(C); 76; M; 2 Hora(s); Hurto
-2350036755; Michael Antonio Gonzales Roman; 47; 29; 23/01/1999; 23/01/2028; 4; 1(A); 45; A; 1 Hora(s); Narcotrafico
-6511418388; Carlos Antonio Paredes Morales; 63; 47; 18/03/1980; 18/03/2027; 3; 5(E); 14; B; 4 Hora(s); Estafa
-2652656126; Dario Sergio Torres Espinosa; 35; 20; 02/02/2010; 02/02/2030; 6; 5(E); 72; B; 4 Hora(s); Invacion de Propiedad Privada
-2500713226; Roberto Angel Romero Rivera; 50; 30; 16/03/1996; 16/03/2026; 2; 1(A); 24; A; 1 Hora(s); Narcotrafico
-5214183097; Gonzalo Julian Cevallos Gomez; 33; 16; 16/05/2013; 16/05/2029; 5; 1(A); 59; A; 1 Hora(s); Narcotrafico
-3601069077; Fabian Antonio Cuenca Espinosa; 60; 46; 25/02/1983; 25/02/2029; 5; 3(C); 19; M; 2 Hora(s); Robo
-4787397987; Pedro Pablo Paredes Hidalgo; 56; 33; 26/01/1995; 26/01/2028; 4; 3(C); 61; M; 2 Hora(s); Hurto
-9538219857; Michael Cesar Paredes Hidalgo; 40; 25; 26/03/2012; 26/03/2037; 13; 1(A); 77; A; 1 Hora(s); Narcotrafico
-4119260867; Carlos Julian Perero Rivera; 41; 30; 31/02/2005; 31/02/2035; 11; 1(A); 40; A; 1 Hora(s); Narcotrafico
-7338421391; Carlos Cesar Paredes Roman; 60; 45; 28/01/1984; 28/01/2029; 5; 1(A); 53; A; 1 Hora(s); Narcotrafico
-6665679687; Victor Antonio Torres Reyes; 41; 24; 02/05/2004; 02/05/2028; 4; 3(C); 41; M; 2 Hora(s); Robo
-6377252737; Victor Angel Torres Reyes; 36; 23; 01/07/2007; 01/07/2030; 6; 5(E); 61; B; 4 Hora(s); Escandalo Publico
-3483428263; Michael Angel Cevallos Reyes; 45; 28; 07/08/1998; 07/08/2026; 2; 1(A); 63; A; 1 Hora(s); Narcotrafico
-4399011789; Victor Julian Paredes Ramirez; 36; 24; 06/10/2007; 06/10/2031; 7; 5(E); 65; B; 4 Hora(s); Escandalo Publico
-8126797519; Victor Paulo Guerrero Gomez; 56; 40; 14/02/1987; 14/02/2027; 3; 3(C); 80; M; 2 Hora(s); Robo
-1514344313; Roberto Antonio Paredes Hidalgo; 40; 26; 30/04/2009; 30/04/2035; 11; 5(E); 41; B; 4 Hora(s); Estafa
-5012019290; Victor Antonio Cevallos Gomez; 54; 39; 09/05/1990; 09/05/2029; 5; 3(C); 86; M; 2 Hora(s); Hurto
-2224155109; Dario Adrian Paredes Espinosa; 40; 25; 24/06/2003; 24/06/2028; 4; 1(A); 57; A; 1 Hora(s); Narcotrafico
-8978461056; Victor Pablo Guerrero Morales; 60; 42; 14/09/1986; 14/09/2028; 4; 5(E); 47; B; 4 Hora(s); Invacion de Propiedad Privada
-5365541182; Carlos Antonio Romero Roman; 27; 8; 01/03/2019; 01/03/2027; 3; 3(C); 37; M; 2 Hora(s); Hurto
-7198988040; Michael Antonio Garcia Rivera; 53; 35; 07/04/1991; 07/04/2026; 2; 5(E); 35; B; 4 Hora(s); Estafa
-8204539522; Fabian Paulo Cuenca Sanchez; 55; 40; 17/11/1988; 17/11/2028; 4; 1(A); 70; A; 1 Hora(s); Narcotrafico
-9062765754; Fabian Sergio Perero Hidalgo; 52; 23; 05/07/2005; 05/07/2028; 4; 3(C); 14; M; 2 Hora(s); Robo
-7694297671; Pedro Julian Cuenca Sanchez; 29; 26; 16/03/2017; 16/03/2043; 19; 3(C); 53; M; 2 Hora(s); Robo
-8145721390; Roberto Julian Guerrero Sanchez; 56; 40; 12/08/1990; 12/08/2030; 6; 5(E); 11; B; 4 Hora(s); Invacion de Propiedad Privada
-4306186186; Fabian Pablo Paredes Hidalgo; 58; 34; 03/08/1995; 03/08/2029; 5; 1(A); 86; A; 1 Hora(s); Narcotrafico
+Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito
+6199411315; Pedro Diego Garcia Ramirez; 39; 30; 26/03/2005; 26/03/2035; 11; 1(A); 1; Alto; 1 Hora(s); Narcotrafico
+3429611915; Mario Diego Paredes Sanchez; 48; 19; 08/04/2012; 08/04/2031; 7; 1(A); 2; Alto; 1 Hora(s); Narcotrafico
+3460760556; Michael Diego Cuenca Espinosa; 37; 25; 02/02/2014; 02/02/2039; 15; 1(A); 3; Alto; 1 Hora(s); Homicidio
+4705359161; Victor Antonio Cuenca Roman; 60; 44; 30/01/1983; 30/01/2027; 3; 1(A); 4; Alto; 1 Hora(s); Homicidio
+3664521231; Roberto Diego Romero Hidalgo; 58; 40; 19/04/1986; 19/04/2026; 2; 1(A); 5; Alto; 1 Hora(s); Narcotrafico
+6975258881; Pedro Diego Gonzales Sanchez; 63; 49; 10/03/1980; 10/03/2029; 5; 1(A); 6; Alto; 1 Hora(s); Narcotrafico
+5557353196; Roberto Julian Torres Sanchez; 48; 33; 13/11/1996; 13/11/2029; 5; 1(A); 7; Alto; 1 Hora(s); Homicidio
+4836446461; Pedro Antonio Garcia Gomez; 52; 34; 23/04/1992; 23/04/2026; 2; 1(A); 8; Alto; 1 Hora(s); Homicidio
+4381742263; Michael Diego Paredes Espinosa; 57; 42; 01/01/1988; 01/01/2030; 6; 1(A); 9; Alto; 1 Hora(s); Narcotrafico
+9122365065; Mario Diego Cuenca Roman; 49; 32; 13/09/1996; 13/09/2028; 4; 1(A); 10; Alto; 1 Hora(s); Narcotrafico
+1075677829; Pedro Paulo Cuenca Ramirez; 58; 42; 08/06/1985; 08/06/2027; 3; 1(A); 11; Alto; 1 Hora(s); Homicidio
+4240828299; Pedro Antonio Paredes Roman; 48; 19; 16/12/2009; 16/12/2028; 4; 1(A); 12; Alto; 1 Hora(s); Homicidio
+4277393594; Roberto Sergio Romero Sanchez; 54; 38; 08/01/1990; 08/01/2028; 4; 1(A); 13; Alto; 1 Hora(s); Homicidio
+6211014007; Pedro Paulo Paredes Rivera; 48; 33; 12/05/1995; 12/05/2028; 4; 1(A); 14; Alto; 1 Hora(s); Narcotrafico
+2889614848; Michael Paulo Guerrero Roman; 49; 31; 04/02/1996; 04/02/2027; 3; 1(A); 15; Alto; 1 Hora(s); Homicidio
+4690797066; Roberto Angel Perero Sanchez; 42; 28; 11/07/2001; 11/07/2029; 5; 1(A); 16; Alto; 1 Hora(s); Homicidio
+7751967185; Victor Sergio Paredes Espinosa; 51; 36; 13/10/1992; 13/10/2028; 4; 1(A); 17; Alto; 1 Hora(s); Homicidio
+1836313837; Carlos Julian Romero Rivera; 32; 19; 16/03/2011; 16/03/2030; 6; 1(A); 18; Alto; 1 Hora(s); Narcotrafico
+1376426628; Roberto Antonio Romero Gomez; 36; 17; 18/04/2008; 18/04/2025; 1; 1(A); 19; Alto; 1 Hora(s); Homicidio
+9018593479; Pedro Sergio Perero Hidalgo; 63; 43; 16/12/1983; 16/12/2026; 2; 1(A); 20; Alto; 1 Hora(s); Narcotrafico
+3845294470; Carlos Julian Perero Gomez; 60; 45; 09/02/1984; 09/02/2029; 5; 1(A); 21; Alto; 1 Hora(s); Narcotrafico
+8704844932; Mario Pablo Guerrero Espinosa; 59; 45; 16/05/1984; 16/05/2029; 5; 1(A); 22; Alto; 1 Hora(s); Homicidio
+1206875057; Dario Julian Perero Roman; 37; 18; 19/03/2019; 19/03/2037; 13; 1(A); 23; Alto; 1 Hora(s); Homicidio
+1596894199; Carlos Antonio Gonzales Rivera; 49; 35; 27/12/1994; 27/12/2029; 5; 1(A); 24; Alto; 1 Hora(s); Narcotrafico
+1081456707; Victor Cesar Paredes Rivera; 55; 39; 16/06/1988; 16/06/2027; 3; 1(A); 25; Alto; 1 Hora(s); Narcotrafico
+5000971182; Fabian Pablo Paredes Reyes; 28; 13; 18/02/2015; 18/02/2028; 4; 1(A); 26; Alto; 1 Hora(s); Homicidio
+5473666757; Roberto Julian Paredes Reyes; 50; 37; 03/09/1993; 03/09/2030; 6; 1(A); 27; Alto; 1 Hora(s); Narcotrafico
+4279446894; Mario Pablo Torres Gomez; 27; 13; 20/09/2018; 20/09/2031; 7; 1(A); 28; Alto; 1 Hora(s); Homicidio
+6996886404; Roberto Pablo Gonzales Ramirez; 34; 14; 22/08/2012; 22/08/2026; 2; 1(A); 29; Alto; 1 Hora(s); Narcotrafico
+6637425318; Mario Angel Cevallos Morales; 53; 34; 15/06/1992; 15/06/2026; 2; 1(A); 30; Alto; 1 Hora(s); Homicidio
+5478651933; Pedro Diego Guerrero Ramirez; 53; 34; 14/09/1993; 14/09/2027; 3; 1(A); 31; Alto; 1 Hora(s); Narcotrafico
+9895056636; Gonzalo Cesar Paredes Sanchez; 45; 29; 02/04/1998; 02/04/2027; 3; 1(A); 32; Alto; 1 Hora(s); Homicidio
+2783155409; Fabian Pablo Cevallos Ramirez; 49; 26; 05/02/2004; 05/02/2030; 6; 1(A); 33; Alto; 1 Hora(s); Homicidio
+4546012148; Victor Julian Garcia Roman; 33; 30; 18/06/2010; 18/06/2040; 16; 1(A); 34; Alto; 1 Hora(s); Narcotrafico
+9719815447; Victor Pablo Garcia Rivera; 61; 43; 02/11/1985; 02/11/2028; 4; 1(A); 35; Alto; 1 Hora(s); Narcotrafico
+3099056957; Pedro Cesar Guerrero Sanchez; 50; 33; 15/06/1995; 15/06/2028; 4; 1(A); 36; Alto; 1 Hora(s); Homicidio
+1778532271; Gonzalo Antonio Guerrero Sanchez; 60; 46; 31/06/1983; 31/06/2029; 5; 1(A); 37; Alto; 1 Hora(s); Homicidio
+4971214868; Gonzalo Pablo Paredes Rivera; 42; 20; 20/09/2018; 20/09/2038; 14; 1(A); 38; Alto; 1 Hora(s); Narcotrafico
+3709682633; Dario Cesar Guerrero Morales; 44; 25; 23/12/2005; 23/12/2030; 6; 1(A); 39; Alto; 1 Hora(s); Narcotrafico
+1322454117; Dario Diego Guerrero Reyes; 55; 41; 27/10/1989; 27/10/2030; 6; 1(A); 40; Alto; 1 Hora(s); Narcotrafico
+3470119792; Carlos Antonio Romero Roman; 44; 29; 20/11/1999; 20/11/2028; 4; 1(A); 41; Alto; 1 Hora(s); Narcotrafico
+7519333993; Gonzalo Julian Perero Espinosa; 52; 38; 18/02/1991; 18/02/2029; 5; 1(A); 42; Alto; 1 Hora(s); Narcotrafico
+4814692774; Carlos Diego Paredes Sanchez; 57; 39; 10/07/1987; 10/07/2026; 2; 1(A); 43; Alto; 1 Hora(s); Narcotrafico
+5759983343; Gonzalo Adrian Guerrero Espinosa; 39; 30; 16/08/2005; 16/08/2035; 11; 1(A); 44; Alto; 1 Hora(s); Narcotrafico
+8324599415; Gonzalo Antonio Cuenca Gomez; 40; 19; 15/06/2009; 15/06/2028; 4; 1(A); 45; Alto; 1 Hora(s); Homicidio
+1246379210; Dario Paulo Perero Roman; 30; 20; 15/03/2013; 15/03/2033; 9; 1(A); 46; Alto; 1 Hora(s); Homicidio
+9141138546; Michael Antonio Torres Ramirez; 59; 42; 27/10/1986; 27/10/2028; 4; 1(A); 47; Alto; 1 Hora(s); Narcotrafico
+6877729434; Michael Sergio Paredes Gomez; 52; 35; 23/08/1992; 23/08/2027; 3; 1(A); 48; Alto; 1 Hora(s); Homicidio
+8730459242; Victor Adrian Romero Morales; 37; 24; 12/12/2006; 12/12/2030; 6; 1(A); 49; Alto; 1 Hora(s); Homicidio
+7258387724; Michael Julian Romero Roman; 54; 41; 23/10/1989; 23/10/2030; 6; 1(A); 50; Alto; 1 Hora(s); Narcotrafico
+8169899080; Fabian Cesar Gonzales Hidalgo; 37; 13; 07/12/2017; 07/12/2030; 6; 1(A); 51; Alto; 1 Hora(s); Homicidio
+1958427279; Roberto Julian Romero Morales; 36; 18; 07/04/2007; 07/04/2025; 1; 1(A); 52; Alto; 1 Hora(s); Homicidio
+8739737777; Mario Diego Romero Espinosa; 48; 35; 10/01/1995; 10/01/2030; 6; 1(A); 53; Alto; 1 Hora(s); Narcotrafico
+9335445379; Pedro Antonio Romero Rivera; 57; 39; 28/11/1989; 28/11/2028; 4; 1(A); 54; Alto; 1 Hora(s); Homicidio
+2814398060; Victor Cesar Paredes Ramirez; 64; 49; 26/03/1980; 26/03/2029; 5; 1(A); 55; Alto; 1 Hora(s); Narcotrafico
+2475517881; Roberto Adrian Perero Ramirez; 35; 19; 05/02/2008; 05/02/2027; 3; 1(A); 56; Alto; 1 Hora(s); Homicidio
+1407943816; Fabian Antonio Paredes Sanchez; 34; 19; 18/11/2010; 18/11/2029; 5; 1(A); 57; Alto; 1 Hora(s); Narcotrafico
+3784068769; Mario Paulo Cevallos Roman; 50; 37; 30/09/1993; 30/09/2030; 6; 1(A); 58; Alto; 1 Hora(s); Homicidio
+7897342830; Carlos Antonio Gonzales Ramirez; 53; 35; 01/09/1992; 01/09/2027; 3; 1(A); 59; Alto; 1 Hora(s); Narcotrafico
+2329631420; Mario Antonio Garcia Roman; 50; 37; 04/10/1993; 04/10/2030; 6; 1(A); 60; Alto; 1 Hora(s); Homicidio
+5976419726; Fabian Pablo Gonzales Espinosa; 35; 21; 06/07/2009; 06/07/2030; 6; 1(A); 61; Alto; 1 Hora(s); Homicidio
+5521848849; Fabian Diego Cevallos Morales; 57; 41; 23/09/1989; 23/09/2030; 6; 1(A); 62; Alto; 1 Hora(s); Narcotrafico
+6252689238; Mario Diego Perero Ramirez; 41; 26; 18/05/2008; 18/05/2034; 10; 1(A); 63; Alto; 1 Hora(s); Narcotrafico
+6376488301; Michael Adrian Cuenca Ramirez; 47; 32; 24/05/1996; 24/05/2028; 4; 1(A); 64; Alto; 1 Hora(s); Narcotrafico
+8099165535; Michael Sergio Paredes Gomez; 29; 14; 18/09/2017; 18/09/2031; 7; 1(A); 65; Alto; 1 Hora(s); Homicidio
+2831310833; Michael Sergio Gonzales Sanchez; 62; 46; 23/06/1981; 23/06/2027; 3; 1(A); 66; Alto; 1 Hora(s); Homicidio
+3128711406; Fabian Adrian Paredes Morales; 61; 45; 19/10/1984; 19/10/2029; 5; 1(A); 67; Alto; 1 Hora(s); Homicidio
+4683473335; Dario Sergio Gonzales Reyes; 31; 24; 25/02/2019; 25/02/2043; 19; 1(A); 68; Alto; 1 Hora(s); Homicidio
+8975413259; Victor Diego Paredes Sanchez; 47; 9; 12/01/2017; 12/01/2026; 2; 1(A); 69; Alto; 1 Hora(s); Narcotrafico
+8638625048; Mario Julian Paredes Sanchez; 49; 34; 20/09/1996; 20/09/2030; 6; 1(A); 70; Alto; 1 Hora(s); Narcotrafico
+9452380190; Pedro Angel Garcia Gomez; 61; 47; 15/07/1983; 15/07/2030; 6; 1(A); 71; Alto; 1 Hora(s); Narcotrafico
+5457950791; Pedro Paulo Torres Gomez; 60; 45; 04/10/1985; 04/10/2030; 6; 1(A); 72; Alto; 1 Hora(s); Homicidio
+4064686292; Dario Antonio Garcia Gomez; 54; 38; 11/02/1992; 11/02/2030; 6; 1(A); 73; Alto; 1 Hora(s); Homicidio
+7030757646; Mario Julian Paredes Morales; 62; 47; 19/01/1982; 19/01/2029; 5; 1(A); 74; Alto; 1 Hora(s); Homicidio
+10019150688; Dario Adrian Cevallos Ramirez; 30; 24; 18/05/2018; 18/05/2042; 18; 1(A); 75; Alto; 1 Hora(s); Homicidio
+7580168987; Victor Paulo Paredes Sanchez; 59; 42; 27/04/1987; 27/04/2029; 5; 1(A); 76; Alto; 1 Hora(s); Narcotrafico
+2637576291; Gonzalo Pablo Perero Ramirez; 57; 40; 12/06/1986; 12/06/2026; 2; 1(A); 77; Alto; 1 Hora(s); Homicidio
+1439282522; Fabian Sergio Garcia Reyes; 45; 30; 21/07/2002; 21/07/2032; 8; 1(A); 78; Alto; 1 Hora(s); Homicidio
+1964099751; Carlos Antonio Perero Sanchez; 42; 24; 07/02/2002; 07/02/2026; 2; 1(A); 79; Alto; 1 Hora(s); Narcotrafico
+3158357317; Mario Antonio Romero Reyes; 61; 41; 13/01/1985; 13/01/2026; 2; 1(A); 80; Alto; 1 Hora(s); Homicidio
+3447778862; Roberto Pablo Paredes Sanchez; 47; 26; 05/01/2002; 05/01/2028; 4; 2(B); 81; Medio; 2 Hora(s); Fraude
+3745777486; Roberto Angel Paredes Roman; 60; 47; 22/04/1983; 22/04/2030; 6; 2(B); 82; Medio; 2 Hora(s); Hurto
+1897898500; Pedro Cesar Romero Sanchez; 47; 29; 04/10/1999; 04/10/2028; 4; 2(B); 83; Medio; 2 Hora(s); Hurto
+3666680743; Carlos Adrian Perero Gomez; 63; 49; 11/06/1981; 11/06/2030; 6; 2(B); 84; Medio; 2 Hora(s); Hurto
+6242285335; Fabian Angel Garcia Sanchez; 63; 45; 13/02/1981; 13/02/2026; 2; 2(B); 85; Medio; 2 Hora(s); Robo
+4049390879; Victor Adrian Paredes Sanchez; 50; 35; 13/10/1993; 13/10/2028; 4; 2(B); 86; Medio; 2 Hora(s); Evacion de Impuestos
+3444724637; Roberto Diego Perero Sanchez; 52; 35; 17/12/1991; 17/12/2026; 2; 2(B); 87; Medio; 2 Hora(s); Robo
+4384367979; Carlos Angel Cuenca Roman; 52; 38; 23/01/1991; 23/01/2029; 5; 2(B); 88; Medio; 2 Hora(s); Hurto
+5928875339; Mario Cesar Gonzales Reyes; 52; 39; 26/09/1991; 26/09/2030; 6; 2(B); 89; Medio; 2 Hora(s); Fraude
+8133346728; Roberto Cesar Cuenca Morales; 62; 42; 31/06/1984; 31/06/2026; 2; 2(B); 90; Medio; 2 Hora(s); Fraude
+4318716942; Roberto Antonio Guerrero Roman; 62; 44; 30/06/1983; 30/06/2027; 3; 2(B); 91; Medio; 2 Hora(s); Fraude
+2333044259; Roberto Julian Romero Espinosa; 45; 9; 08/02/2018; 08/02/2027; 3; 2(B); 92; Medio; 2 Hora(s); Hurto
+8575524866; Victor Pablo Cevallos Reyes; 47; 20; 02/12/2007; 02/12/2027; 3; 2(B); 93; Medio; 2 Hora(s); Robo
+6670160297; Roberto Sergio Guerrero Rivera; 55; 40; 01/02/1990; 01/02/2030; 6; 2(B); 94; Medio; 2 Hora(s); Robo
+8086038534; Carlos Diego Cevallos Hidalgo; 42; 27; 17/03/2002; 17/03/2029; 5; 2(B); 95; Medio; 2 Hora(s); Robo
+4959429974; Michael Sergio Torres Roman; 41; 23; 11/12/2007; 11/12/2030; 6; 2(B); 96; Medio; 2 Hora(s); Evacion de Impuestos
+2543677965; Roberto Angel Guerrero Sanchez; 38; 25; 06/05/2005; 06/05/2030; 6; 2(B); 97; Medio; 2 Hora(s); Hurto
+3749376159; Victor Diego Cuenca Ramirez; 43; 25; 14/05/2003; 14/05/2028; 4; 2(B); 98; Medio; 2 Hora(s); Fraude
+7124738991; Roberto Sergio Paredes Gomez; 49; 23; 31/11/2007; 31/11/2030; 6; 2(B); 99; Medio; 2 Hora(s); Fraude
+5099150396; Michael Cesar Torres Rivera; 65; 48; 02/04/1980; 02/04/2028; 4; 2(B); 100; Medio; 2 Hora(s); Fraude
+9525271483; Victor Julian Paredes Sanchez; 55; 38; 25/04/1988; 25/04/2026; 2; 2(B); 101; Medio; 2 Hora(s); Robo
+9312996210; Pedro Adrian Guerrero Hidalgo; 45; 27; 10/02/1999; 10/02/2026; 2; 2(B); 102; Medio; 2 Hora(s); Fraude
+9605686344; Pedro Antonio Torres Morales; 47; 28; 30/04/2012; 30/04/2040; 16; 2(B); 103; Medio; 2 Hora(s); Hurto
+8137793538; Gonzalo Pablo Torres Morales; 44; 29; 13/11/2000; 13/11/2029; 5; 2(B); 104; Medio; 2 Hora(s); Robo
+9131157589; Fabian Antonio Perero Gomez; 59; 40; 20/07/1987; 20/07/2027; 3; 2(B); 105; Medio; 2 Hora(s); Evacion de Impuestos
+1446134997; Mario Antonio Gonzales Sanchez; 24; 8; 10/07/2019; 10/07/2027; 3; 2(B); 106; Medio; 2 Hora(s); Evacion de Impuestos
+4380352571; Roberto Angel Gonzales Morales; 46; 21; 05/07/2009; 05/07/2030; 6; 2(B); 107; Medio; 2 Hora(s); Evacion de Impuestos
+1309955922; Mario Diego Cevallos Gomez; 55; 40; 17/03/1989; 17/03/2029; 5; 2(B); 108; Medio; 2 Hora(s); Fraude
+1455867421; Gonzalo Cesar Guerrero Reyes; 62; 49; 29/07/1981; 29/07/2030; 6; 2(B); 109; Medio; 2 Hora(s); Hurto
+1875964332; Victor Julian Guerrero Hidalgo; 65; 49; 08/02/1980; 08/02/2029; 5; 2(B); 110; Medio; 2 Hora(s); Fraude
+3185580571; Pedro Sergio Gonzales Ramirez; 27; 30; 19/12/2016; 19/12/2046; 22; 2(B); 111; Medio; 2 Hora(s); Evacion de Impuestos
+9616798958; Roberto Angel Cuenca Rivera; 46; 23; 22/11/2003; 22/11/2026; 2; 2(B); 112; Medio; 2 Hora(s); Fraude
+5771984823; Mario Julian Guerrero Morales; 60; 45; 17/09/1984; 17/09/2029; 5; 2(B); 113; Medio; 2 Hora(s); Robo
+4826679098; Carlos Paulo Paredes Morales; 50; 21; 28/09/2012; 28/09/2033; 9; 2(B); 114; Medio; 2 Hora(s); Hurto
+4493419696; Victor Sergio Cuenca Sanchez; 46; 21; 29/02/2008; 29/02/2029; 5; 2(B); 115; Medio; 2 Hora(s); Robo
+6664859131; Roberto Julian Gonzales Sanchez; 41; 25; 02/04/2005; 02/04/2030; 6; 2(B); 116; Medio; 2 Hora(s); Fraude
+2990150304; Fabian Sergio Cevallos Sanchez; 48; 32; 06/03/1995; 06/03/2027; 3; 2(B); 117; Medio; 2 Hora(s); Robo
+6201992292; Roberto Paulo Gonzales Sanchez; 39; 24; 12/08/2007; 12/08/2031; 7; 2(B); 118; Medio; 2 Hora(s); Evacion de Impuestos
+4903193972; Gonzalo Sergio Torres Sanchez; 45; 13; 05/10/2016; 05/10/2029; 5; 2(B); 119; Medio; 2 Hora(s); Hurto
+9617391673; Michael Angel Gonzales Gomez; 41; 26; 02/12/2002; 02/12/2028; 4; 2(B); 120; Medio; 2 Hora(s); Evacion de Impuestos
+2968798320; Pedro Adrian Gonzales Morales; 59; 42; 10/10/1984; 10/10/2026; 2; 2(B); 121; Medio; 2 Hora(s); Robo
+3889056059; Roberto Paulo Paredes Roman; 59; 43; 13/09/1984; 13/09/2027; 3; 2(B); 122; Medio; 2 Hora(s); Fraude
+6019744008; Victor Adrian Guerrero Rivera; 31; 16; 04/02/2016; 04/02/2032; 8; 2(B); 123; Medio; 2 Hora(s); Hurto
+4922164659; Dario Julian Gonzales Espinosa; 50; 32; 08/03/1995; 08/03/2027; 3; 2(B); 124; Medio; 2 Hora(s); Robo
+5540882135; Fabian Cesar Cuenca Reyes; 51; 37; 21/07/1993; 21/07/2030; 6; 2(B); 125; Medio; 2 Hora(s); Evacion de Impuestos
+4416960789; Michael Cesar Perero Hidalgo; 49; 29; 10/09/1998; 10/09/2027; 3; 2(B); 126; Medio; 2 Hora(s); Fraude
+3057042931; Roberto Diego Gonzales Sanchez; 32; 26; 01/04/2012; 01/04/2038; 14; 2(B); 127; Medio; 2 Hora(s); Hurto
+2471918356; Mario Antonio Garcia Sanchez; 55; 40; 09/09/1988; 09/09/2028; 4; 2(B); 128; Medio; 2 Hora(s); Fraude
+4806776050; Roberto Cesar Cevallos Hidalgo; 49; 30; 10/02/1998; 10/02/2028; 4; 2(B); 129; Medio; 2 Hora(s); Fraude
+1369284809; Roberto Antonio Perero Sanchez; 63; 46; 25/06/1982; 25/06/2028; 4; 2(B); 130; Medio; 2 Hora(s); Hurto
+6728741648; Gonzalo Sergio Paredes Sanchez; 59; 43; 12/05/1986; 12/05/2029; 5; 2(B); 131; Medio; 2 Hora(s); Evacion de Impuestos
+4518762717; Roberto Antonio Guerrero Sanchez; 51; 38; 20/02/1992; 20/02/2030; 6; 2(B); 132; Medio; 2 Hora(s); Robo
+8288353298; Mario Adrian Cevallos Hidalgo; 54; 40; 25/03/1989; 25/03/2029; 5; 2(B); 133; Medio; 2 Hora(s); Fraude
+1331121462; Roberto Sergio Torres Hidalgo; 46; 11; 18/09/2014; 18/09/2025; 1; 2(B); 134; Medio; 2 Hora(s); Evacion de Impuestos
+8077877919; Fabian Antonio Guerrero Roman; 43; 12; 11/01/2018; 11/01/2030; 6; 2(B); 135; Medio; 2 Hora(s); Fraude
+2289590673; Victor Angel Cuenca Sanchez; 48; 33; 13/03/1997; 13/03/2030; 6; 2(B); 136; Medio; 2 Hora(s); Hurto
+8754123910; Carlos Cesar Cuenca Hidalgo; 49; 34; 25/07/1995; 25/07/2029; 5; 2(B); 137; Medio; 2 Hora(s); Robo
+4203912101; Carlos Paulo Gonzales Hidalgo; 49; 33; 11/08/1994; 11/08/2027; 3; 2(B); 138; Medio; 2 Hora(s); Evacion de Impuestos
+5383651646; Gonzalo Sergio Paredes Ramirez; 47; 30; 17/05/1997; 17/05/2027; 3; 2(B); 139; Medio; 2 Hora(s); Robo
+7375367811; Gonzalo Adrian Guerrero Espinosa; 38; 12; 07/07/2017; 07/07/2029; 5; 2(B); 140; Medio; 2 Hora(s); Fraude
+1949447245; Victor Antonio Paredes Rivera; 37; 20; 11/04/2006; 11/04/2026; 2; 2(B); 141; Medio; 2 Hora(s); Robo
+9161654787; Gonzalo Antonio Romero Gomez; 41; 15; 13/10/2015; 13/10/2030; 6; 2(B); 142; Medio; 2 Hora(s); Hurto
+7303614155; Roberto Antonio Gonzales Rivera; 61; 47; 16/04/1982; 16/04/2029; 5; 2(B); 143; Medio; 2 Hora(s); Fraude
+1079359713; Dario Paulo Romero Morales; 54; 36; 31/06/1992; 31/06/2028; 4; 2(B); 144; Medio; 2 Hora(s); Robo
+1555397017; Roberto Antonio Cevallos Roman; 62; 47; 10/12/1981; 10/12/2028; 4; 2(B); 145; Medio; 2 Hora(s); Hurto
+2639543489; Carlos Cesar Gonzales Sanchez; 41; 27; 28/11/2002; 28/11/2029; 5; 2(B); 146; Medio; 2 Hora(s); Robo
+9750459551; Carlos Antonio Perero Sanchez; 56; 40; 09/05/1990; 09/05/2030; 6; 2(B); 147; Medio; 2 Hora(s); Robo
+2516181785; Carlos Antonio Guerrero Hidalgo; 35; 16; 30/10/2011; 30/10/2027; 3; 2(B); 148; Medio; 2 Hora(s); Hurto
+4952649460; Carlos Adrian Garcia Sanchez; 60; 43; 10/06/1983; 10/06/2026; 2; 2(B); 149; Medio; 2 Hora(s); Hurto
+4133863564; Pedro Pablo Perero Morales; 40; 24; 23/04/2004; 23/04/2028; 4; 2(B); 150; Medio; 2 Hora(s); Robo
+93294100069; Roberto Sergio Guerrero Morales; 50; 29; 10/12/2012; 10/12/2041; 17; 2(B); 151; Medio; 2 Hora(s); Evacion de Impuestos
+8001159115; Fabian Paulo Gonzales Reyes; 60; 44; 22/02/1983; 22/02/2027; 3; 2(B); 152; Medio; 2 Hora(s); Evacion de Impuestos
+9783787832; Pedro Antonio Guerrero Rivera; 44; 26; 09/05/2000; 09/05/2026; 2; 2(B); 153; Medio; 2 Hora(s); Fraude
+4564670997; Gonzalo Julian Cuenca Sanchez; 38; 12; 21/04/2013; 21/04/2025; 1; 2(B); 154; Medio; 2 Hora(s); Robo
+12817100157; Roberto Antonio Romero Rivera; 38; 19; 12/02/2008; 12/02/2027; 3; 2(B); 155; Medio; 2 Hora(s); Hurto
+7025426252; Fabian Adrian Perero Reyes; 46; 20; 16/06/2007; 16/06/2027; 3; 2(B); 156; Medio; 2 Hora(s); Robo
+3351736913; Roberto Antonio Torres Hidalgo; 39; 15; 09/05/2010; 09/05/2025; 1; 2(B); 157; Medio; 2 Hora(s); Fraude
+3629587669; Dario Julian Paredes Espinosa; 34; 24; 12/02/2009; 12/02/2033; 9; 2(B); 158; Medio; 2 Hora(s); Robo
+2232115057; Pedro Sergio Paredes Gomez; 59; 44; 26/09/1984; 26/09/2028; 4; 2(B); 159; Medio; 2 Hora(s); Fraude
+3054288571; Roberto Sergio Cuenca Sanchez; 31; 28; 16/06/2014; 16/06/2042; 18; 2(B); 160; Medio; 2 Hora(s); Fraude
+2324738090; Mario Cesar Cuenca Rivera; 37; 11; 01/06/2016; 01/06/2027; 3; 2(B); 161; Medio; 2 Hora(s); Fraude
+3426185184; Victor Sergio Garcia Sanchez; 35; 8; 30/04/2019; 30/04/2027; 3; 2(B); 162; Medio; 2 Hora(s); Robo
+5141453678; Dario Paulo Gonzales Hidalgo; 65; 50; 30/03/1980; 30/03/2030; 6; 2(B); 163; Medio; 2 Hora(s); Hurto
+5675949859; Carlos Antonio Guerrero Hidalgo; 63; 49; 21/09/1981; 21/09/2030; 6; 2(B); 164; Medio; 2 Hora(s); Fraude
+6218542511; Roberto Pablo Garcia Roman; 30; 13; 17/08/2014; 17/08/2027; 3; 2(B); 165; Medio; 2 Hora(s); Evacion de Impuestos
+7090513766; Victor Angel Garcia Espinosa; 62; 47; 01/07/1981; 01/07/2028; 4; 2(B); 166; Medio; 2 Hora(s); Robo
+1368915948; Roberto Julian Guerrero Espinosa; 66; 50; 07/05/1980; 07/05/2030; 6; 2(B); 167; Medio; 2 Hora(s); Evacion de Impuestos
+7934074890; Fabian Julian Torres Gomez; 64; 48; 14/11/1981; 14/11/2029; 5; 2(B); 168; Medio; 2 Hora(s); Hurto
+9701737346; Pedro Paulo Paredes Ramirez; 55; 38; 01/12/1988; 01/12/2026; 2; 2(B); 169; Medio; 2 Hora(s); Evacion de Impuestos
+1369394808; Victor Pablo Cevallos Roman; 58; 41; 25/03/1985; 25/03/2026; 2; 2(B); 170; Medio; 2 Hora(s); Hurto
+8781181437; Gonzalo Antonio Guerrero Morales; 59; 44; 30/04/1986; 30/04/2030; 6; 2(B); 171; Medio; 2 Hora(s); Evacion de Impuestos
+9977484109; Michael Sergio Cevallos Hidalgo; 41; 27; 05/06/2002; 05/06/2029; 5; 2(B); 172; Medio; 2 Hora(s); Hurto
+4773559411; Victor Paulo Paredes Rivera; 44; 26; 07/10/2001; 07/10/2027; 3; 2(B); 173; Medio; 2 Hora(s); Fraude
+3407776602; Fabian Antonio Paredes Gomez; 29; 27; 29/07/2015; 29/07/2042; 18; 2(B); 174; Medio; 2 Hora(s); Hurto
+2041342456; Fabian Sergio Romero Gomez; 47; 24; 23/05/2010; 23/05/2034; 10; 2(B); 175; Medio; 2 Hora(s); Robo
+8255215073; Gonzalo Angel Paredes Espinosa; 65; 49; 11/03/1981; 11/03/2030; 6; 2(B); 176; Medio; 2 Hora(s); Hurto
+5230064114; Carlos Antonio Perero Rivera; 56; 39; 18/02/1989; 18/02/2028; 4; 2(B); 177; Medio; 2 Hora(s); Robo
+2002649660; Dario Paulo Romero Sanchez; 64; 46; 13/04/1980; 13/04/2026; 2; 2(B); 178; Medio; 2 Hora(s); Fraude
+3878834176; Carlos Antonio Cevallos Hidalgo; 63; 48; 04/08/1982; 04/08/2030; 6; 2(B); 179; Medio; 2 Hora(s); Fraude
+6884744340; Mario Julian Torres Gomez; 45; 22; 01/07/2004; 01/07/2026; 2; 2(B); 180; Medio; 2 Hora(s); Robo
+1944510450; Roberto Pablo Cevallos Roman; 62; 44; 23/09/1982; 23/09/2026; 2; 2(B); 181; Medio; 2 Hora(s); Hurto
+4250534441; Pedro Paulo Gonzales Rivera; 49; 34; 07/06/1995; 07/06/2029; 5; 2(B); 182; Medio; 2 Hora(s); Hurto
+3712470332; Roberto Pablo Cevallos Sanchez; 46; 31; 30/02/1997; 30/02/2028; 4; 2(B); 183; Medio; 2 Hora(s); Robo
+1954066246; Mario Paulo Garcia Ramirez; 42; 21; 13/03/2015; 13/03/2036; 12; 2(B); 184; Medio; 2 Hora(s); Evacion de Impuestos
+3014494847; Roberto Angel Paredes Ramirez; 63; 49; 21/03/1980; 21/03/2029; 5; 2(B); 185; Medio; 2 Hora(s); Fraude
+4325081931; Gonzalo Adrian Paredes Sanchez; 58; 42; 18/09/1987; 18/09/2029; 5; 2(B); 186; Medio; 2 Hora(s); Robo
+2971540491; Gonzalo Angel Cevallos Ramirez; 59; 40; 09/12/1987; 09/12/2027; 3; 2(B); 187; Medio; 2 Hora(s); Robo
+8906590174; Roberto Pablo Paredes Hidalgo; 34; 16; 13/01/2010; 13/01/2026; 2; 2(B); 188; Medio; 2 Hora(s); Robo
+8735098035; Fabian Diego Cevallos Gomez; 59; 46; 09/05/1984; 09/05/2030; 6; 2(B); 189; Medio; 2 Hora(s); Evacion de Impuestos
+8727237101; Fabian Julian Paredes Morales; 66; 46; 17/09/1980; 17/09/2026; 2; 2(B); 190; Medio; 2 Hora(s); Hurto
+2160445329; Roberto Angel Paredes Hidalgo; 36; 29; 11/09/2012; 11/09/2041; 17; 2(B); 191; Medio; 2 Hora(s); Hurto
+7178286876; Dario Antonio Garcia Hidalgo; 60; 40; 02/06/1986; 02/06/2026; 2; 2(B); 192; Medio; 2 Hora(s); Fraude
+7876075296; Victor Pablo Paredes Roman; 47; 29; 07/04/1999; 07/04/2028; 4; 2(B); 193; Medio; 2 Hora(s); Fraude
+2318629915; Roberto Diego Perero Ramirez; 54; 37; 31/08/1990; 31/08/2027; 3; 2(B); 194; Medio; 2 Hora(s); Hurto
+8256367902; Dario Sergio Paredes Sanchez; 39; 18; 12/12/2010; 12/12/2028; 4; 2(B); 195; Medio; 2 Hora(s); Hurto
+2884589488; Carlos Cesar Perero Sanchez; 29; 13; 01/11/2014; 01/11/2027; 3; 2(B); 196; Medio; 2 Hora(s); Evacion de Impuestos
+2897947831; Victor Sergio Torres Morales; 56; 40; 02/02/1988; 02/02/2028; 4; 2(B); 197; Medio; 2 Hora(s); Robo
+2996578035; Fabian Diego Gonzales Morales; 50; 33; 25/06/1993; 25/06/2026; 2; 2(B); 198; Medio; 2 Hora(s); Evacion de Impuestos
+8135773747; Victor Adrian Guerrero Hidalgo; 61; 43; 18/10/1983; 18/10/2026; 2; 2(B); 199; Medio; 2 Hora(s); Evacion de Impuestos
+7142125873; Dario Antonio Gonzales Reyes; 66; 47; 05/05/1980; 05/05/2027; 3; 2(B); 200; Medio; 2 Hora(s); Robo
+1918769613; Gonzalo Paulo Romero Hidalgo; 48; 21; 22/10/2011; 22/10/2032; 8; 2(B); 201; Medio; 2 Hora(s); Hurto
+3724591169; Carlos Antonio Guerrero Espinosa; 50; 23; 06/06/2003; 06/06/2026; 2; 2(B); 202; Medio; 2 Hora(s); Fraude
+9146733323; Roberto Adrian Cevallos Espinosa; 50; 33; 16/10/1996; 16/10/2029; 5; 2(B); 203; Medio; 2 Hora(s); Hurto
+9182242878; Michael Antonio Guerrero Morales; 31; 14; 31/09/2012; 31/09/2026; 2; 2(B); 204; Medio; 2 Hora(s); Fraude
+7591884443; Fabian Adrian Cevallos Roman; 49; 35; 30/05/1995; 30/05/2030; 6; 2(B); 205; Medio; 2 Hora(s); Robo
+8343457778; Fabian Pablo Cuenca Morales; 50; 34; 04/01/1993; 04/01/2027; 3; 2(B); 206; Medio; 2 Hora(s); Robo
+6922313591; Roberto Adrian Romero Sanchez; 53; 35; 22/12/1991; 22/12/2026; 2; 2(B); 207; Medio; 2 Hora(s); Evacion de Impuestos
+7643833276; Roberto Paulo Paredes Roman; 39; 21; 17/11/2005; 17/11/2026; 2; 2(B); 208; Medio; 2 Hora(s); Fraude
+8280991633; Fabian Sergio Paredes Espinosa; 44; 27; 28/12/2011; 28/12/2038; 14; 2(B); 209; Medio; 2 Hora(s); Evacion de Impuestos
+9432937201; Fabian Sergio Guerrero Roman; 42; 17; 26/06/2013; 26/06/2030; 6; 2(B); 210; Medio; 2 Hora(s); Hurto
+4079257488; Michael Diego Romero Ramirez; 50; 33; 27/02/1995; 27/02/2028; 4; 2(B); 211; Medio; 2 Hora(s); Hurto
+3503672046; Mario Sergio Cevallos Gomez; 43; 25; 06/03/2002; 06/03/2027; 3; 2(B); 212; Medio; 2 Hora(s); Hurto
+6200980064; Roberto Adrian Gonzales Roman; 56; 41; 02/01/1989; 02/01/2030; 6; 2(B); 213; Medio; 2 Hora(s); Evacion de Impuestos
+2020753284; Roberto Paulo Garcia Ramirez; 44; 29; 25/03/2000; 25/03/2029; 5; 2(B); 214; Medio; 2 Hora(s); Hurto
+7474343124; Michael Paulo Garcia Espinosa; 52; 37; 26/11/1993; 26/11/2030; 6; 2(B); 215; Medio; 2 Hora(s); Evacion de Impuestos
+4515667301; Pedro Paulo Cuenca Espinosa; 59; 42; 16/12/1985; 16/12/2027; 3; 2(B); 216; Medio; 2 Hora(s); Robo
+2311423794; Mario Antonio Paredes Reyes; 45; 27; 06/04/1999; 06/04/2026; 2; 2(B); 217; Medio; 2 Hora(s); Robo
+3046398214; Fabian Antonio Gonzales Morales; 47; 33; 08/10/1997; 08/10/2030; 6; 2(B); 218; Medio; 2 Hora(s); Robo
+6023997464; Victor Adrian Guerrero Roman; 49; 25; 21/06/2005; 21/06/2030; 6; 2(B); 219; Medio; 2 Hora(s); Evacion de Impuestos
+3183717165; Carlos Julian Cuenca Roman; 43; 30; 31/02/2016; 31/02/2046; 22; 2(B); 220; Medio; 2 Hora(s); Robo
+4167874728; Dario Sergio Perero Reyes; 30; 29; 14/11/2014; 14/11/2043; 19; 2(B); 221; Medio; 2 Hora(s); Hurto
+3689527303; Pedro Antonio Guerrero Sanchez; 43; 16; 14/08/2010; 14/08/2026; 2; 2(B); 222; Medio; 2 Hora(s); Fraude
+5427589410; Carlos Adrian Guerrero Espinosa; 55; 39; 19/07/1988; 19/07/2027; 3; 2(B); 223; Medio; 2 Hora(s); Evacion de Impuestos
+9676133887; Dario Pablo Guerrero Roman; 66; 47; 30/01/1980; 30/01/2027; 3; 2(B); 224; Medio; 2 Hora(s); Fraude
+8053329154; Dario Pablo Garcia Espinosa; 63; 46; 01/07/1981; 01/07/2027; 3; 2(B); 225; Medio; 2 Hora(s); Evacion de Impuestos
+9179148981; Roberto Antonio Perero Roman; 33; 30; 20/08/2011; 20/08/2041; 17; 2(B); 226; Medio; 2 Hora(s); Fraude
+9173783524; Fabian Antonio Torres Sanchez; 29; 15; 31/12/2016; 31/12/2031; 7; 2(B); 227; Medio; 2 Hora(s); Hurto
+7097639786; Victor Sergio Cevallos Gomez; 50; 20; 31/05/2015; 31/05/2035; 11; 2(B); 228; Medio; 2 Hora(s); Fraude
+8080650741; Michael Diego Guerrero Roman; 55; 40; 23/11/1988; 23/11/2028; 4; 2(B); 229; Medio; 2 Hora(s); Evacion de Impuestos
+7593813950; Roberto Diego Paredes Morales; 30; 13; 08/06/2013; 08/06/2026; 2; 2(B); 230; Medio; 2 Hora(s); Hurto
+8653954065; Roberto Pablo Cevallos Roman; 54; 40; 11/11/1990; 11/11/2030; 6; 2(B); 231; Medio; 2 Hora(s); Robo
+5135753318; Pedro Paulo Perero Gomez; 49; 33; 13/05/1997; 13/05/2030; 6; 2(B); 232; Medio; 2 Hora(s); Robo
+6112059922; Mario Antonio Cevallos Hidalgo; 57; 41; 24/03/1988; 24/03/2029; 5; 2(B); 233; Medio; 2 Hora(s); Evacion de Impuestos
+8756954868; Dario Diego Paredes Sanchez; 47; 14; 06/06/2012; 06/06/2026; 2; 2(B); 234; Medio; 2 Hora(s); Evacion de Impuestos
+2409764814; Michael Angel Torres Reyes; 44; 31; 20/02/1999; 20/02/2030; 6; 2(B); 235; Medio; 2 Hora(s); Fraude
+9939923803; Gonzalo Diego Torres Ramirez; 50; 16; 16/04/2012; 16/04/2028; 4; 2(B); 236; Medio; 2 Hora(s); Robo
+7611387600; Gonzalo Sergio Cuenca Espinosa; 61; 45; 01/02/1982; 01/02/2027; 3; 2(B); 237; Medio; 2 Hora(s); Evacion de Impuestos
+8251914618; Roberto Paulo Gonzales Gomez; 50; 33; 14/10/1993; 14/10/2026; 2; 2(B); 238; Medio; 2 Hora(s); Robo
+3722670317; Pedro Sergio Garcia Roman; 41; 24; 23/01/2002; 23/01/2026; 2; 2(B); 239; Medio; 2 Hora(s); Hurto
+9664888020; Victor Sergio Gonzales Sanchez; 62; 46; 19/09/1981; 19/09/2027; 3; 2(B); 240; Medio; 2 Hora(s); Hurto
+8810339297; Victor Diego Cuenca Reyes; 26; 6; 23/05/2019; 23/05/2025; 1; 2(B); 241; Medio; 2 Hora(s); Fraude
+4144779405; Mario Paulo Cuenca Morales; 59; 41; 05/04/1987; 05/04/2028; 4; 2(B); 242; Medio; 2 Hora(s); Hurto
+7015748470; Gonzalo Diego Gonzales Morales; 45; 10; 23/09/2019; 23/09/2029; 5; 2(B); 243; Medio; 2 Hora(s); Evacion de Impuestos
+5275372077; Roberto Adrian Guerrero Espinosa; 35; 18; 07/03/2011; 07/03/2029; 5; 2(B); 244; Medio; 2 Hora(s); Evacion de Impuestos
+9860741394; Michael Diego Torres Sanchez; 47; 28; 20/05/2006; 20/05/2034; 10; 2(B); 245; Medio; 2 Hora(s); Robo
+7036399783; Pedro Paulo Guerrero Rivera; 50; 21; 21/02/2008; 21/02/2029; 5; 2(B); 246; Medio; 2 Hora(s); Robo
+2923925532; Michael Sergio Paredes Sanchez; 64; 48; 18/04/1980; 18/04/2028; 4; 2(B); 247; Medio; 2 Hora(s); Robo
+1334357834; Carlos Diego Paredes Ramirez; 60; 47; 01/09/1983; 01/09/2030; 6; 2(B); 248; Medio; 2 Hora(s); Evacion de Impuestos
+9798240834; Dario Julian Paredes Rivera; 55; 38; 24/05/1990; 24/05/2028; 4; 2(B); 249; Medio; 2 Hora(s); Evacion de Impuestos
+4344860883; Fabian Cesar Torres Rivera; 26; 9; 25/03/2017; 25/03/2026; 2; 2(B); 250; Medio; 2 Hora(s); Robo
+7996227728; Pedro Pablo Guerrero Rivera; 34; 21; 18/12/2009; 18/12/2030; 6; 2(B); 251; Medio; 2 Hora(s); Hurto
+8898971409; Mario Adrian Torres Espinosa; 38; 21; 30/09/2005; 30/09/2026; 2; 2(B); 252; Medio; 2 Hora(s); Robo
+4472755201; Victor Cesar Guerrero Gomez; 61; 46; 05/01/1984; 05/01/2030; 6; 2(B); 253; Medio; 2 Hora(s); Evacion de Impuestos
+4146840947; Fabian Diego Paredes Hidalgo; 35; 20; 28/12/2008; 28/12/2028; 4; 2(B); 254; Medio; 2 Hora(s); Robo
+5169316082; Carlos Pablo Guerrero Espinosa; 44; 15; 26/07/2018; 26/07/2033; 9; 2(B); 255; Medio; 2 Hora(s); Hurto
+6779637292; Gonzalo Angel Guerrero Roman; 37; 24; 02/12/2015; 02/12/2039; 15; 2(B); 256; Medio; 2 Hora(s); Fraude
+1839159896; Dario Angel Paredes Sanchez; 39; 10; 01/03/2017; 01/03/2027; 3; 2(B); 257; Medio; 2 Hora(s); Evacion de Impuestos
+6851792118; Roberto Julian Gonzales Sanchez; 62; 44; 02/11/1982; 02/11/2026; 2; 2(B); 258; Medio; 2 Hora(s); Hurto
+8755363896; Dario Antonio Paredes Espinosa; 57; 42; 31/01/1986; 31/01/2028; 4; 2(B); 259; Medio; 2 Hora(s); Evacion de Impuestos
+7896182875; Roberto Angel Garcia Espinosa; 64; 49; 02/12/1981; 02/12/2030; 6; 2(B); 260; Medio; 2 Hora(s); Evacion de Impuestos
+8186353364; Roberto Julian Cevallos Hidalgo; 28; 26; 11/03/2016; 11/03/2042; 18; 3(C); 261; Medio; 2 Hora(s); Robo
+7513349491; Pedro Antonio Paredes Espinosa; 46; 32; 27/10/1997; 27/10/2029; 5; 3(C); 262; Medio; 2 Hora(s); Evacion de Impuestos
+1413867669; Michael Cesar Paredes Gomez; 65; 49; 16/03/1981; 16/03/2030; 6; 3(C); 263; Medio; 2 Hora(s); Evacion de Impuestos
+1285639342; Dario Antonio Gonzales Sanchez; 49; 13; 01/02/2013; 01/02/2026; 2; 3(C); 264; Medio; 2 Hora(s); Robo
+4202952943; Carlos Pablo Gonzales Roman; 58; 43; 28/08/1986; 28/08/2029; 5; 3(C); 265; Medio; 2 Hora(s); Evacion de Impuestos
+7698617726; Roberto Paulo Cevallos Espinosa; 41; 16; 08/06/2015; 08/06/2031; 7; 3(C); 266; Medio; 2 Hora(s); Hurto
+6409516707; Pedro Antonio Gonzales Gomez; 37; 24; 07/02/2006; 07/02/2030; 6; 3(C); 267; Medio; 2 Hora(s); Evacion de Impuestos
+2093270810; Gonzalo Sergio Paredes Ramirez; 32; 17; 12/11/2012; 12/11/2029; 5; 3(C); 268; Medio; 2 Hora(s); Robo
+4115966750; Victor Angel Garcia Espinosa; 45; 30; 06/01/1999; 06/01/2029; 5; 3(C); 269; Medio; 2 Hora(s); Evacion de Impuestos
+9071954546; Mario Cesar Romero Morales; 49; 36; 12/01/1994; 12/01/2030; 6; 3(C); 270; Medio; 2 Hora(s); Robo
+2076767184; Victor Julian Paredes Sanchez; 35; 13; 12/02/2013; 12/02/2026; 2; 3(C); 271; Medio; 2 Hora(s); Fraude
+2626861278; Pedro Diego Torres Sanchez; 50; 36; 24/12/1993; 24/12/2029; 5; 3(C); 272; Medio; 2 Hora(s); Hurto
+5061619409; Fabian Sergio Cuenca Espinosa; 58; 41; 19/12/1986; 19/12/2027; 3; 3(C); 273; Medio; 2 Hora(s); Fraude
+8159825683; Gonzalo Julian Torres Gomez; 53; 38; 23/01/1992; 23/01/2030; 6; 3(C); 274; Medio; 2 Hora(s); Fraude
+9370849339; Gonzalo Antonio Perero Roman; 48; 23; 04/08/2016; 04/08/2039; 15; 3(C); 275; Medio; 2 Hora(s); Fraude
+7249596749; Dario Sergio Gonzales Morales; 48; 28; 19/12/2002; 19/12/2030; 6; 3(C); 276; Medio; 2 Hora(s); Robo
+5520782509; Roberto Antonio Paredes Rivera; 60; 45; 01/11/1983; 01/11/2028; 4; 3(C); 277; Medio; 2 Hora(s); Robo
+5000387773; Dario Paulo Paredes Sanchez; 37; 19; 31/07/2007; 31/07/2026; 2; 3(C); 278; Medio; 2 Hora(s); Evacion de Impuestos
+9871841238; Roberto Antonio Guerrero Ramirez; 50; 33; 04/07/1993; 04/07/2026; 2; 3(C); 279; Medio; 2 Hora(s); Evacion de Impuestos
+2758277531; Roberto Sergio Cevallos Sanchez; 47; 28; 08/08/1998; 08/08/2026; 2; 3(C); 280; Medio; 2 Hora(s); Robo
+3595381115; Roberto Paulo Cevallos Morales; 63; 49; 23/08/1980; 23/08/2029; 5; 3(C); 281; Medio; 2 Hora(s); Hurto
+4595625674; Mario Adrian Guerrero Rivera; 35; 28; 03/01/2009; 03/01/2037; 13; 3(C); 282; Medio; 2 Hora(s); Fraude
+2592561021; Gonzalo Antonio Cuenca Espinosa; 44; 25; 26/11/2005; 26/11/2030; 6; 3(C); 283; Medio; 2 Hora(s); Fraude
+6475832224; Victor Antonio Romero Espinosa; 48; 32; 06/10/1998; 06/10/2030; 6; 3(C); 284; Medio; 2 Hora(s); Hurto
+5291394100; Victor Antonio Perero Hidalgo; 33; 17; 28/08/2010; 28/08/2027; 3; 3(C); 285; Medio; 2 Hora(s); Fraude
+1347818079; Roberto Angel Torres Gomez; 50; 34; 15/09/1993; 15/09/2027; 3; 3(C); 286; Medio; 2 Hora(s); Hurto
+5626715514; Dario Paulo Guerrero Hidalgo; 42; 30; 13/05/2004; 13/05/2034; 10; 3(C); 287; Medio; 2 Hora(s); Hurto
+3159224359; Mario Pablo Perero Rivera; 32; 12; 21/05/2016; 21/05/2028; 4; 3(C); 288; Medio; 2 Hora(s); Evacion de Impuestos
+3139563662; Fabian Antonio Paredes Rivera; 32; 25; 17/06/2013; 17/06/2038; 14; 3(C); 289; Medio; 2 Hora(s); Fraude
+1982421741; Michael Antonio Cuenca Rivera; 44; 25; 21/01/2003; 21/01/2028; 4; 3(C); 290; Medio; 2 Hora(s); Robo
+9147774492; Roberto Paulo Paredes Ramirez; 55; 42; 29/11/1988; 29/11/2030; 6; 3(C); 291; Medio; 2 Hora(s); Fraude
+7558396920; Mario Adrian Perero Gomez; 49; 36; 23/05/1994; 23/05/2030; 6; 3(C); 292; Medio; 2 Hora(s); Hurto
+4875136225; Carlos Cesar Cevallos Roman; 62; 47; 16/11/1982; 16/11/2029; 5; 3(C); 293; Medio; 2 Hora(s); Evacion de Impuestos
+9562832833; Carlos Pablo Torres Sanchez; 61; 48; 27/06/1982; 27/06/2030; 6; 3(C); 294; Medio; 2 Hora(s); Robo
+5654540595; Pedro Julian Garcia Gomez; 45; 29; 16/04/2000; 16/04/2029; 5; 3(C); 295; Medio; 2 Hora(s); Robo
+5161591802; Victor Antonio Cuenca Espinosa; 52; 36; 16/11/1992; 16/11/2028; 4; 3(C); 296; Medio; 2 Hora(s); Evacion de Impuestos
+4932566474; Mario Antonio Torres Morales; 33; 26; 28/12/2010; 28/12/2036; 12; 3(C); 297; Medio; 2 Hora(s); Fraude
+1575182625; Pedro Angel Gonzales Gomez; 39; 10; 20/09/2018; 20/09/2028; 4; 3(C); 298; Medio; 2 Hora(s); Hurto
+9368791662; Pedro Adrian Cuenca Morales; 47; 13; 01/02/2014; 01/02/2027; 3; 3(C); 299; Medio; 2 Hora(s); Fraude
+3457714671; Roberto Sergio Garcia Sanchez; 43; 26; 30/03/2002; 30/03/2028; 4; 3(C); 300; Medio; 2 Hora(s); Robo
+100112100232; Fabian Sergio Gonzales Rivera; 56; 42; 26/02/1987; 26/02/2029; 5; 3(C); 301; Medio; 2 Hora(s); Evacion de Impuestos
+9395018512; Roberto Julian Paredes Roman; 52; 37; 05/03/1992; 05/03/2029; 5; 3(C); 302; Medio; 2 Hora(s); Fraude
+5970668913; Michael Angel Paredes Gomez; 45; 28; 19/11/1998; 19/11/2026; 2; 3(C); 303; Medio; 2 Hora(s); Evacion de Impuestos
+4817216420; Victor Sergio Cuenca Espinosa; 48; 34; 05/07/1996; 05/07/2030; 6; 3(C); 304; Medio; 2 Hora(s); Fraude
+6964384315; Roberto Antonio Paredes Reyes; 47; 34; 14/05/1996; 14/05/2030; 6; 3(C); 305; Medio; 2 Hora(s); Fraude
+3245444984; Roberto Antonio Paredes Hidalgo; 60; 42; 30/07/1986; 30/07/2028; 4; 3(C); 306; Medio; 2 Hora(s); Fraude
+1368793213; Mario Julian Paredes Ramirez; 47; 25; 23/07/2007; 23/07/2032; 8; 3(C); 307; Medio; 2 Hora(s); Fraude
+2672776034; Roberto Antonio Romero Sanchez; 47; 27; 03/02/2003; 03/02/2030; 6; 3(C); 308; Medio; 2 Hora(s); Robo
+6790433408; Michael Pablo Gonzales Morales; 57; 40; 08/10/1986; 08/10/2026; 2; 3(C); 309; Medio; 2 Hora(s); Evacion de Impuestos
+9817248254; Gonzalo Paulo Torres Reyes; 63; 43; 18/06/1983; 18/06/2026; 2; 3(C); 310; Medio; 2 Hora(s); Robo
+7072988277; Dario Julian Cevallos Roman; 58; 42; 30/05/1987; 30/05/2029; 5; 3(C); 311; Medio; 2 Hora(s); Evacion de Impuestos
+5823032823; Roberto Paulo Guerrero Roman; 50; 29; 19/12/2001; 19/12/2030; 6; 3(C); 312; Medio; 2 Hora(s); Evacion de Impuestos
+3425276844; Pedro Pablo Guerrero Gomez; 61; 44; 05/09/1982; 05/09/2026; 2; 3(C); 313; Medio; 2 Hora(s); Fraude
+8982375738; Carlos Antonio Torres Ramirez; 43; 27; 19/03/2003; 19/03/2030; 6; 3(C); 314; Medio; 2 Hora(s); Hurto
+9228147012; Roberto Angel Cuenca Sanchez; 50; 35; 05/02/1995; 05/02/2030; 6; 3(C); 315; Medio; 2 Hora(s); Evacion de Impuestos
+7830597899; Dario Diego Gonzales Reyes; 39; 22; 22/06/2006; 22/06/2028; 4; 3(C); 316; Medio; 2 Hora(s); Evacion de Impuestos
+3638280170; Dario Angel Perero Hidalgo; 46; 24; 10/06/2015; 10/06/2039; 15; 3(C); 317; Medio; 2 Hora(s); Hurto
+5239639139; Victor Sergio Torres Reyes; 51; 36; 16/07/1993; 16/07/2029; 5; 3(C); 318; Medio; 2 Hora(s); Robo
+6659316418; Roberto Antonio Torres Morales; 62; 45; 16/10/1981; 16/10/2026; 2; 3(C); 319; Medio; 2 Hora(s); Hurto
+9953515060; Carlos Antonio Gonzales Gomez; 40; 25; 13/08/2003; 13/08/2028; 4; 3(C); 320; Medio; 2 Hora(s); Evacion de Impuestos
+7277780764; Pedro Paulo Cuenca Morales; 46; 29; 28/11/1997; 28/11/2026; 2; 3(C); 321; Medio; 2 Hora(s); Hurto
+5027766260; Fabian Antonio Perero Sanchez; 38; 17; 30/06/2014; 30/06/2031; 7; 3(C); 322; Medio; 2 Hora(s); Hurto
+7307160462; Mario Adrian Guerrero Hidalgo; 50; 35; 25/12/1993; 25/12/2028; 4; 3(C); 323; Medio; 2 Hora(s); Evacion de Impuestos
+1068819355; Michael Paulo Paredes Gomez; 48; 32; 10/04/1996; 10/04/2028; 4; 3(C); 324; Medio; 2 Hora(s); Robo
+8571796223; Carlos Paulo Paredes Sanchez; 62; 44; 29/01/1984; 29/01/2028; 4; 3(C); 325; Medio; 2 Hora(s); Hurto
+2715065876; Mario Antonio Paredes Espinosa; 63; 46; 05/01/1980; 05/01/2026; 2; 3(C); 326; Medio; 2 Hora(s); Evacion de Impuestos
+9836532320; Victor Antonio Perero Espinosa; 40; 24; 13/12/2004; 13/12/2028; 4; 3(C); 327; Medio; 2 Hora(s); Evacion de Impuestos
+7529896609; Victor Sergio Romero Gomez; 42; 25; 26/07/2001; 26/07/2026; 2; 3(C); 328; Medio; 2 Hora(s); Hurto
+1345249199; Gonzalo Paulo Guerrero Morales; 63; 45; 29/02/1983; 29/02/2028; 4; 3(C); 329; Medio; 2 Hora(s); Evacion de Impuestos
+8245365908; Gonzalo Cesar Paredes Roman; 44; 27; 30/11/1999; 30/11/2026; 2; 3(C); 330; Medio; 2 Hora(s); Hurto
+8467791154; Dario Adrian Perero Roman; 34; 14; 26/03/2011; 26/03/2025; 1; 3(C); 331; Medio; 2 Hora(s); Fraude
+3789116436; Gonzalo Angel Cuenca Roman; 54; 34; 04/02/1992; 04/02/2026; 2; 3(C); 332; Medio; 2 Hora(s); Evacion de Impuestos
+9307134317; Fabian Pablo Torres Espinosa; 58; 42; 06/07/1988; 06/07/2030; 6; 3(C); 333; Medio; 2 Hora(s); Hurto
+7505724421; Mario Julian Torres Rivera; 39; 23; 19/04/2007; 19/04/2030; 6; 3(C); 334; Medio; 2 Hora(s); Fraude
+7265837853; Roberto Diego Garcia Hidalgo; 44; 25; 05/10/2001; 05/10/2026; 2; 3(C); 335; Medio; 2 Hora(s); Fraude
+8469820827; Carlos Antonio Perero Rivera; 49; 25; 20/05/2003; 20/05/2028; 4; 3(C); 336; Medio; 2 Hora(s); Hurto
+2626494062; Dario Antonio Garcia Espinosa; 48; 32; 28/02/1996; 28/02/2028; 4; 3(C); 337; Medio; 2 Hora(s); Fraude
+1024288005; Dario Cesar Cuenca Rivera; 59; 42; 09/08/1987; 09/08/2029; 5; 3(C); 338; Medio; 2 Hora(s); Evacion de Impuestos
+5351071768; Carlos Julian Paredes Espinosa; 57; 41; 30/09/1987; 30/09/2028; 4; 3(C); 339; Medio; 2 Hora(s); Hurto
+8047890684; Fabian Julian Cevallos Sanchez; 50; 34; 20/11/1994; 20/11/2028; 4; 3(C); 340; Medio; 2 Hora(s); Fraude
+5775144602; Fabian Cesar Gonzales Reyes; 54; 38; 30/07/1989; 30/07/2027; 3; 3(C); 341; Medio; 2 Hora(s); Hurto
+7560442104; Victor Diego Gonzales Gomez; 61; 45; 25/05/1982; 25/05/2027; 3; 3(C); 342; Medio; 2 Hora(s); Hurto
+6842396808; Carlos Cesar Cevallos Roman; 58; 45; 10/06/1985; 10/06/2030; 6; 3(C); 343; Medio; 2 Hora(s); Evacion de Impuestos
+1291060108; Dario Antonio Paredes Sanchez; 63; 48; 13/08/1981; 13/08/2029; 5; 3(C); 344; Medio; 2 Hora(s); Robo
+1065695253; Pedro Antonio Torres Ramirez; 59; 43; 01/01/1984; 01/01/2027; 3; 3(C); 345; Medio; 2 Hora(s); Evacion de Impuestos
+2495354149; Gonzalo Diego Paredes Sanchez; 42; 26; 03/12/2001; 03/12/2027; 3; 3(C); 346; Medio; 2 Hora(s); Fraude
+3482143780; Mario Adrian Cuenca Roman; 63; 47; 17/01/1983; 17/01/2030; 6; 3(C); 347; Medio; 2 Hora(s); Evacion de Impuestos
+9349077592; Fabian Angel Perero Reyes; 40; 24; 13/09/2009; 13/09/2033; 9; 3(C); 348; Medio; 2 Hora(s); Fraude
+9445854428; Gonzalo Diego Cuenca Gomez; 54; 39; 18/09/1989; 18/09/2028; 4; 3(C); 349; Medio; 2 Hora(s); Hurto
+6456357472; Michael Angel Perero Hidalgo; 38; 25; 24/04/2005; 24/04/2030; 6; 3(C); 350; Medio; 2 Hora(s); Hurto
+6279594325; Roberto Adrian Cevallos Ramirez; 58; 43; 31/10/1986; 31/10/2029; 5; 3(C); 351; Medio; 2 Hora(s); Evacion de Impuestos
+6756734785; Carlos Angel Paredes Rivera; 36; 16; 31/08/2012; 31/08/2028; 4; 3(C); 352; Medio; 2 Hora(s); Evacion de Impuestos
+2538273257; Dario Antonio Torres Reyes; 53; 38; 26/10/1990; 26/10/2028; 4; 3(C); 353; Medio; 2 Hora(s); Hurto
+1253011990; Pedro Paulo Cuenca Sanchez; 42; 19; 05/11/2011; 05/11/2030; 6; 3(C); 354; Medio; 2 Hora(s); Robo
+6542874707; Roberto Julian Perero Espinosa; 49; 24; 14/07/2006; 14/07/2030; 6; 3(C); 355; Medio; 2 Hora(s); Hurto
+1178029898; Dario Pablo Paredes Sanchez; 39; 28; 20/06/2005; 20/06/2033; 9; 3(C); 356; Medio; 2 Hora(s); Fraude
+4958143985; Mario Antonio Cevallos Morales; 47; 33; 18/03/1996; 18/03/2029; 5; 3(C); 357; Medio; 2 Hora(s); Evacion de Impuestos
+1187456551; Fabian Adrian Romero Espinosa; 33; 16; 31/01/2010; 31/01/2026; 2; 3(C); 358; Medio; 2 Hora(s); Hurto
+1206613326; Pedro Diego Romero Hidalgo; 56; 41; 09/11/1987; 09/11/2028; 4; 3(C); 359; Medio; 2 Hora(s); Evacion de Impuestos
+5414080945; Fabian Antonio Paredes Espinosa; 48; 32; 12/03/1997; 12/03/2029; 5; 3(C); 360; Medio; 2 Hora(s); Fraude
+9363418661; Dario Angel Paredes Ramirez; 41; 22; 22/09/2005; 22/09/2027; 3; 3(C); 361; Medio; 2 Hora(s); Evacion de Impuestos
+6369040815; Pedro Antonio Guerrero Morales; 41; 6; 05/07/2019; 05/07/2025; 1; 3(C); 362; Medio; 2 Hora(s); Fraude
+3368894054; Michael Sergio Cuenca Morales; 46; 20; 26/01/2017; 26/01/2037; 13; 3(C); 363; Medio; 2 Hora(s); Fraude
+7863829637; Michael Pablo Paredes Hidalgo; 63; 46; 01/06/1980; 01/06/2026; 2; 3(C); 364; Medio; 2 Hora(s); Evacion de Impuestos
+4703271686; Gonzalo Cesar Guerrero Reyes; 35; 25; 24/05/2008; 24/05/2033; 9; 3(C); 365; Medio; 2 Hora(s); Fraude
+8420019439; Mario Pablo Guerrero Hidalgo; 50; 24; 28/07/2004; 28/07/2028; 4; 3(C); 366; Medio; 2 Hora(s); Hurto
+6253962054; Michael Cesar Paredes Morales; 38; 17; 25/07/2016; 25/07/2033; 9; 3(C); 367; Medio; 2 Hora(s); Hurto
+4825058601; Fabian Cesar Romero Sanchez; 42; 9; 15/04/2018; 15/04/2027; 3; 3(C); 368; Medio; 2 Hora(s); Fraude
+5920334573; Fabian Sergio Perero Sanchez; 30; 23; 15/10/2015; 15/10/2038; 14; 3(C); 369; Medio; 2 Hora(s); Evacion de Impuestos
+4962570210; Michael Pablo Guerrero Gomez; 51; 38; 23/02/1992; 23/02/2030; 6; 3(C); 370; Medio; 2 Hora(s); Fraude
+6228553416; Roberto Antonio Paredes Espinosa; 30; 23; 03/01/2018; 03/01/2041; 17; 3(C); 371; Medio; 2 Hora(s); Robo
+7101714631; Roberto Adrian Cevallos Roman; 56; 41; 08/12/1987; 08/12/2028; 4; 3(C); 372; Medio; 2 Hora(s); Hurto
+2640594363; Michael Pablo Guerrero Sanchez; 42; 24; 26/08/2002; 26/08/2026; 2; 3(C); 373; Medio; 2 Hora(s); Hurto
+8563372791; Roberto Antonio Cuenca Ramirez; 43; 30; 09/08/2000; 09/08/2030; 6; 3(C); 374; Medio; 2 Hora(s); Robo
+3527967076; Roberto Antonio Cevallos Gomez; 63; 49; 18/03/1980; 18/03/2029; 5; 3(C); 375; Medio; 2 Hora(s); Robo
+7721578058; Carlos Diego Perero Roman; 29; 28; 21/08/2014; 21/08/2042; 18; 3(C); 376; Medio; 2 Hora(s); Evacion de Impuestos
+7933926061; Roberto Adrian Paredes Espinosa; 54; 37; 22/08/1989; 22/08/2026; 2; 3(C); 377; Medio; 2 Hora(s); Evacion de Impuestos
+2022017234; Pedro Angel Perero Sanchez; 45; 27; 18/09/2000; 18/09/2027; 3; 3(C); 378; Medio; 2 Hora(s); Hurto
+9733695375; Michael Paulo Cevallos Gomez; 52; 35; 14/05/1991; 14/05/2026; 2; 3(C); 379; Medio; 2 Hora(s); Fraude
+7937424859; Gonzalo Cesar Romero Ramirez; 34; 23; 28/08/2010; 28/08/2033; 9; 3(C); 380; Medio; 2 Hora(s); Fraude
+3046777828; Roberto Sergio Paredes Ramirez; 53; 39; 21/10/1991; 21/10/2030; 6; 3(C); 381; Medio; 2 Hora(s); Hurto
+1377982344; Pedro Antonio Guerrero Rivera; 53; 34; 08/09/1992; 08/09/2026; 2; 3(C); 382; Medio; 2 Hora(s); Hurto
+3186368938; Carlos Antonio Romero Rivera; 48; 31; 03/06/1997; 03/06/2028; 4; 3(C); 383; Medio; 2 Hora(s); Hurto
+2720027054; Carlos Adrian Cevallos Morales; 53; 40; 02/08/1990; 02/08/2030; 6; 3(C); 384; Medio; 2 Hora(s); Evacion de Impuestos
+8741562899; Michael Cesar Romero Sanchez; 32; 18; 17/05/2011; 17/05/2029; 5; 3(C); 385; Medio; 2 Hora(s); Evacion de Impuestos
+2823016872; Carlos Cesar Gonzales Sanchez; 48; 31; 02/04/1997; 02/04/2028; 4; 3(C); 386; Medio; 2 Hora(s); Evacion de Impuestos
+1031255436; Pedro Paulo Cevallos Reyes; 37; 19; 22/06/2007; 22/06/2026; 2; 3(C); 387; Medio; 2 Hora(s); Hurto
+9400412758; Carlos Paulo Torres Rivera; 57; 40; 30/08/1987; 30/08/2027; 3; 3(C); 388; Medio; 2 Hora(s); Robo
+2559582450; Michael Paulo Paredes Gomez; 40; 15; 05/05/2012; 05/05/2027; 3; 3(C); 389; Medio; 2 Hora(s); Fraude
+6430982046; Mario Cesar Paredes Gomez; 64; 47; 27/04/1980; 27/04/2027; 3; 3(C); 390; Medio; 2 Hora(s); Hurto
+4372993169; Dario Cesar Paredes Roman; 47; 33; 12/12/1996; 12/12/2029; 5; 3(C); 391; Medio; 2 Hora(s); Fraude
+9133135880; Mario Pablo Cevallos Espinosa; 63; 46; 16/08/1983; 16/08/2029; 5; 3(C); 392; Medio; 2 Hora(s); Robo
+7250019025; Roberto Antonio Romero Espinosa; 43; 24; 29/05/2002; 29/05/2026; 2; 3(C); 393; Medio; 2 Hora(s); Fraude
+5517569986; Roberto Paulo Paredes Roman; 57; 44; 04/08/1986; 04/08/2030; 6; 3(C); 394; Medio; 2 Hora(s); Robo
+7760553983; Roberto Adrian Gonzales Espinosa; 46; 27; 27/02/2003; 27/02/2030; 6; 3(C); 395; Medio; 2 Hora(s); Robo
+6477173406; Michael Antonio Cevallos Roman; 32; 19; 25/01/2017; 25/01/2036; 12; 3(C); 396; Medio; 2 Hora(s); Robo
+2102798480; Victor Julian Garcia Roman; 27; 11; 12/10/2017; 12/10/2028; 4; 3(C); 397; Medio; 2 Hora(s); Hurto
+3894753113; Michael Adrian Garcia Rivera; 46; 14; 09/10/2011; 09/10/2025; 1; 3(C); 398; Medio; 2 Hora(s); Hurto
+5180342722; Gonzalo Antonio Torres Gomez; 53; 36; 19/07/1993; 19/07/2029; 5; 3(C); 399; Medio; 2 Hora(s); Hurto
+9188833383; Roberto Pablo Romero Ramirez; 56; 41; 09/01/1989; 09/01/2030; 6; 3(C); 400; Medio; 2 Hora(s); Robo
+4955465512; Mario Julian Guerrero Gomez; 38; 21; 01/01/2008; 01/01/2029; 5; 3(C); 401; Medio; 2 Hora(s); Robo
+8399954844; Pedro Pablo Cuenca Sanchez; 64; 49; 26/10/1981; 26/10/2030; 6; 3(C); 402; Medio; 2 Hora(s); Fraude
+8076960863; Victor Pablo Paredes Gomez; 39; 16; 21/10/2014; 21/10/2030; 6; 3(C); 403; Medio; 2 Hora(s); Robo
+2876058421; Gonzalo Antonio Perero Espinosa; 42; 25; 17/11/2003; 17/11/2028; 4; 3(C); 404; Medio; 2 Hora(s); Fraude
+8146836598; Victor Antonio Romero Gomez; 53; 37; 26/01/1991; 26/01/2028; 4; 3(C); 405; Medio; 2 Hora(s); Evacion de Impuestos
+9406689194; Dario Antonio Cuenca Rivera; 59; 42; 24/05/1984; 24/05/2026; 2; 3(C); 406; Medio; 2 Hora(s); Hurto
+3075327184; Pedro Sergio Romero Ramirez; 41; 27; 17/04/2002; 17/04/2029; 5; 3(C); 407; Medio; 2 Hora(s); Hurto
+6427860741; Mario Antonio Paredes Sanchez; 27; 22; 27/09/2016; 27/09/2038; 14; 3(C); 408; Medio; 2 Hora(s); Robo
+3560779848; Dario Paulo Romero Rivera; 37; 30; 01/10/2009; 01/10/2039; 15; 3(C); 409; Medio; 2 Hora(s); Robo
+9324757178; Pedro Adrian Paredes Reyes; 58; 40; 27/04/1988; 27/04/2028; 4; 3(C); 410; Medio; 2 Hora(s); Fraude
+4583699483; Carlos Cesar Guerrero Roman; 41; 22; 04/03/2005; 04/03/2027; 3; 3(C); 411; Medio; 2 Hora(s); Fraude
+8060460267; Fabian Diego Paredes Gomez; 59; 44; 02/06/1984; 02/06/2028; 4; 3(C); 412; Medio; 2 Hora(s); Robo
+9790398922; Fabian Cesar Romero Morales; 58; 41; 23/07/1985; 23/07/2026; 2; 3(C); 413; Medio; 2 Hora(s); Robo
+8180491661; Pedro Antonio Gonzales Sanchez; 36; 20; 29/05/2007; 29/05/2027; 3; 3(C); 414; Medio; 2 Hora(s); Hurto
+8310292612; Carlos Julian Romero Morales; 63; 49; 10/07/1980; 10/07/2029; 5; 3(C); 415; Medio; 2 Hora(s); Hurto
+7549036537; Fabian Adrian Paredes Sanchez; 47; 29; 27/05/1997; 27/05/2026; 2; 3(C); 416; Medio; 2 Hora(s); Hurto
+7697488923; Carlos Adrian Torres Hidalgo; 58; 43; 07/07/1985; 07/07/2028; 4; 3(C); 417; Medio; 2 Hora(s); Fraude
+1779472688; Mario Diego Torres Rivera; 40; 25; 26/07/2010; 26/07/2035; 11; 3(C); 418; Medio; 2 Hora(s); Hurto
+5380954242; Carlos Angel Guerrero Gomez; 30; 11; 27/10/2016; 27/10/2027; 3; 3(C); 419; Medio; 2 Hora(s); Evacion de Impuestos
+50336100065; Mario Paulo Garcia Ramirez; 32; 18; 18/09/2017; 18/09/2035; 11; 3(C); 420; Medio; 2 Hora(s); Robo
+8247343814; Carlos Pablo Paredes Espinosa; 45; 27; 06/01/1998; 06/01/2025; 1; 3(C); 421; Medio; 2 Hora(s); Evacion de Impuestos
+5158431208; Carlos Antonio Gonzales Sanchez; 35; 14; 05/11/2014; 05/11/2028; 4; 3(C); 422; Medio; 2 Hora(s); Robo
+2746927734; Fabian Sergio Guerrero Morales; 35; 29; 16/04/2008; 16/04/2037; 13; 3(C); 423; Medio; 2 Hora(s); Fraude
+4290399388; Mario Pablo Gonzales Roman; 30; 19; 13/11/2013; 13/11/2032; 8; 3(C); 424; Medio; 2 Hora(s); Evacion de Impuestos
+1214578846; Fabian Paulo Cevallos Ramirez; 28; 23; 14/08/2015; 14/08/2038; 14; 3(C); 425; Medio; 2 Hora(s); Hurto
+8161628076; Dario Julian Gonzales Hidalgo; 43; 28; 19/06/2000; 19/06/2028; 4; 3(C); 426; Medio; 2 Hora(s); Fraude
+6840827384; Victor Antonio Cevallos Ramirez; 33; 30; 22/07/2014; 22/07/2044; 20; 3(C); 427; Medio; 2 Hora(s); Hurto
+1502955090; Michael Cesar Torres Ramirez; 50; 31; 13/11/1996; 13/11/2027; 3; 3(C); 428; Medio; 2 Hora(s); Hurto
+4136092576; Pedro Antonio Paredes Ramirez; 46; 33; 20/12/1997; 20/12/2030; 6; 3(C); 429; Medio; 2 Hora(s); Fraude
+6496499984; Roberto Antonio Guerrero Sanchez; 37; 23; 30/06/2007; 30/06/2030; 6; 3(C); 430; Medio; 2 Hora(s); Evacion de Impuestos
+1768412395; Michael Angel Perero Hidalgo; 55; 36; 09/08/1991; 09/08/2027; 3; 3(C); 431; Medio; 2 Hora(s); Hurto
+4901141473; Victor Angel Gonzales Hidalgo; 41; 15; 22/04/2015; 22/04/2030; 6; 3(C); 432; Medio; 2 Hora(s); Hurto
+9663027543; Fabian Angel Paredes Espinosa; 63; 46; 26/05/1980; 26/05/2026; 2; 3(C); 433; Medio; 2 Hora(s); Hurto
+1587875553; Victor Paulo Perero Rivera; 30; 18; 11/06/2014; 11/06/2032; 8; 3(C); 434; Medio; 2 Hora(s); Fraude
+9640428874; Victor Sergio Perero Ramirez; 58; 41; 24/01/1988; 24/01/2029; 5; 3(C); 435; Medio; 2 Hora(s); Robo
+6745351213; Dario Paulo Garcia Gomez; 62; 47; 22/05/1981; 22/05/2028; 4; 3(C); 436; Medio; 2 Hora(s); Hurto
+1132099219; Roberto Diego Cuenca Gomez; 41; 16; 14/07/2014; 14/07/2030; 6; 3(C); 437; Medio; 2 Hora(s); Hurto
+8968278515; Michael Angel Guerrero Ramirez; 49; 32; 25/05/1994; 25/05/2026; 2; 3(C); 438; Medio; 2 Hora(s); Hurto
+7541480954; Pedro Antonio Guerrero Espinosa; 61; 45; 19/11/1982; 19/11/2027; 3; 3(C); 439; Medio; 2 Hora(s); Hurto
+2578240436; Dario Diego Torres Gomez; 53; 39; 20/11/1990; 20/11/2029; 5; 3(C); 440; Medio; 2 Hora(s); Robo
+1194625003; Fabian Julian Torres Reyes; 58; 41; 21/03/1985; 21/03/2026; 2; 4(D); 441; Bajo; 4 Hora(s); Estafa
+9069834539; Victor Antonio Guerrero Roman; 60; 41; 16/06/1985; 16/06/2026; 2; 4(D); 442; Bajo; 4 Hora(s); Otros
+9490835491; Victor Julian Paredes Espinosa; 40; 27; 29/07/2006; 29/07/2033; 9; 4(D); 443; Bajo; 4 Hora(s); Estafa
+1750513800; Gonzalo Diego Guerrero Morales; 41; 24; 05/05/2004; 05/05/2028; 4; 4(D); 444; Bajo; 4 Hora(s); Escandalo Publico
+3463891826; Victor Sergio Paredes Gomez; 44; 29; 06/02/1999; 06/02/2028; 4; 4(D); 445; Bajo; 4 Hora(s); Estafa
+1793234780; Mario Sergio Garcia Hidalgo; 48; 22; 21/03/2013; 21/03/2035; 11; 4(D); 446; Bajo; 4 Hora(s); Estafa
+2295967510; Victor Cesar Cevallos Sanchez; 43; 29; 01/09/2003; 01/09/2032; 8; 4(D); 447; Bajo; 4 Hora(s); Otros
+2502931665; Mario Sergio Paredes Roman; 41; 28; 03/03/2007; 03/03/2035; 11; 4(D); 448; Bajo; 4 Hora(s); Estafa
+8809475693; Roberto Antonio Garcia Gomez; 48; 31; 05/01/1996; 05/01/2027; 3; 4(D); 449; Bajo; 4 Hora(s); Estafa
+4111297971; Roberto Angel Garcia Hidalgo; 63; 49; 26/09/1980; 26/09/2029; 5; 4(D); 450; Bajo; 4 Hora(s); Estafa
+3105213658; Victor Angel Gonzales Rivera; 58; 40; 26/03/1988; 26/03/2028; 4; 4(D); 451; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6258543964; Fabian Paulo Gonzales Sanchez; 29; 7; 23/10/2019; 23/10/2026; 2; 4(D); 452; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2742668113; Pedro Sergio Garcia Roman; 62; 47; 13/02/1981; 13/02/2028; 4; 4(D); 453; Bajo; 4 Hora(s); Escandalo Publico
+3414957874; Michael Diego Cevallos Morales; 57; 40; 31/01/1989; 31/01/2029; 5; 4(D); 454; Bajo; 4 Hora(s); Otros
+4149378018; Dario Paulo Torres Ramirez; 40; 30; 10/04/2005; 10/04/2035; 11; 4(D); 455; Bajo; 4 Hora(s); Escandalo Publico
+3863218551; Mario Angel Paredes Rivera; 37; 18; 01/08/2009; 01/08/2027; 3; 4(D); 456; Bajo; 4 Hora(s); Escandalo Publico
+9926178725; Pedro Diego Gonzales Morales; 35; 23; 20/12/2011; 20/12/2034; 10; 4(D); 457; Bajo; 4 Hora(s); Escandalo Publico
+7701255082; Fabian Adrian Garcia Reyes; 58; 43; 30/06/1985; 30/06/2028; 4; 4(D); 458; Bajo; 4 Hora(s); Otros
+4901841185; Roberto Pablo Gonzales Espinosa; 62; 46; 10/03/1982; 10/03/2028; 4; 4(D); 459; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3922343371; Carlos Paulo Torres Rivera; 45; 28; 16/01/1999; 16/01/2027; 3; 4(D); 460; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3684681350; Dario Sergio Gonzales Morales; 50; 15; 07/08/2014; 07/08/2029; 5; 4(D); 461; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2580562404; Michael Paulo Perero Hidalgo; 48; 29; 24/06/2012; 24/06/2041; 17; 4(D); 462; Bajo; 4 Hora(s); Otros
+9773892708; Dario Antonio Perero Rivera; 45; 29; 09/03/1999; 09/03/2028; 4; 4(D); 463; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4435914241; Pedro Adrian Paredes Sanchez; 47; 32; 05/01/1996; 05/01/2028; 4; 4(D); 464; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9279830803; Michael Diego Gonzales Morales; 45; 29; 30/08/1998; 30/08/2027; 3; 4(D); 465; Bajo; 4 Hora(s); Otros
+5759649090; Fabian Pablo Gonzales Ramirez; 60; 44; 03/11/1983; 03/11/2027; 3; 4(D); 466; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6865432345; Victor Pablo Paredes Sanchez; 60; 43; 06/06/1984; 06/06/2027; 3; 4(D); 467; Bajo; 4 Hora(s); Otros
+9415974305; Carlos Sergio Garcia Sanchez; 56; 40; 08/03/1988; 08/03/2028; 4; 4(D); 468; Bajo; 4 Hora(s); Otros
+3127530994; Mario Julian Cuenca Espinosa; 30; 17; 31/08/2013; 31/08/2030; 6; 4(D); 469; Bajo; 4 Hora(s); Estafa
+6452169096; Fabian Sergio Cuenca Hidalgo; 42; 27; 17/03/2003; 17/03/2030; 6; 4(D); 470; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8618495389; Fabian Paulo Gonzales Hidalgo; 33; 17; 04/06/2012; 04/06/2029; 5; 4(D); 471; Bajo; 4 Hora(s); Estafa
+5204020344; Roberto Pablo Cuenca Sanchez; 49; 33; 24/11/1996; 24/11/2029; 5; 4(D); 472; Bajo; 4 Hora(s); Estafa
+5286046513; Roberto Antonio Paredes Espinosa; 59; 45; 16/08/1985; 16/08/2030; 6; 4(D); 473; Bajo; 4 Hora(s); Escandalo Publico
+2897731572; Mario Adrian Gonzales Gomez; 56; 41; 19/09/1987; 19/09/2028; 4; 4(D); 474; Bajo; 4 Hora(s); Estafa
+3204212359; Roberto Antonio Garcia Rivera; 47; 28; 16/05/1998; 16/05/2026; 2; 4(D); 475; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2677258390; Victor Cesar Paredes Rivera; 50; 34; 11/12/1995; 11/12/2029; 5; 4(D); 476; Bajo; 4 Hora(s); Estafa
+7939513990; Dario Paulo Gonzales Rivera; 38; 27; 05/03/2005; 05/03/2032; 8; 4(D); 477; Bajo; 4 Hora(s); Otros
+2029815529; Fabian Sergio Torres Morales; 46; 28; 24/11/1998; 24/11/2026; 2; 4(D); 478; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1107853873; Pedro Adrian Romero Roman; 32; 22; 18/04/2012; 18/04/2034; 10; 4(D); 479; Bajo; 4 Hora(s); Escandalo Publico
+1494687652; Fabian Pablo Garcia Morales; 61; 48; 20/11/1982; 20/11/2030; 6; 4(D); 480; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6558960780; Gonzalo Julian Paredes Reyes; 43; 23; 03/05/2015; 03/05/2038; 14; 4(D); 481; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9762730926; Dario Antonio Perero Hidalgo; 43; 29; 09/07/2000; 09/07/2029; 5; 4(D); 482; Bajo; 4 Hora(s); Escandalo Publico
+3217285330; Michael Angel Romero Espinosa; 51; 37; 14/07/1992; 14/07/2029; 5; 4(D); 483; Bajo; 4 Hora(s); Escandalo Publico
+5097230356; Roberto Diego Gonzales Espinosa; 56; 37; 11/12/1990; 11/12/2027; 3; 4(D); 484; Bajo; 4 Hora(s); Estafa
+6222220374; Pedro Paulo Cuenca Sanchez; 58; 40; 03/04/1988; 03/04/2028; 4; 4(D); 485; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6585943072; Mario Julian Guerrero Rivera; 62; 48; 03/07/1981; 03/07/2029; 5; 4(D); 486; Bajo; 4 Hora(s); Estafa
+7303066878; Roberto Diego Gonzales Roman; 56; 37; 14/03/1990; 14/03/2027; 3; 4(D); 487; Bajo; 4 Hora(s); Escandalo Publico
+1181753397; Carlos Sergio Romero Morales; 39; 20; 17/12/2007; 17/12/2027; 3; 4(D); 488; Bajo; 4 Hora(s); Otros
+3976869487; Gonzalo Cesar Gonzales Espinosa; 51; 36; 20/10/1992; 20/10/2028; 4; 4(D); 489; Bajo; 4 Hora(s); Escandalo Publico
+4514118542; Gonzalo Cesar Cuenca Reyes; 37; 21; 26/05/2009; 26/05/2030; 6; 4(D); 490; Bajo; 4 Hora(s); Estafa
+9844050564; Mario Sergio Gonzales Morales; 52; 37; 06/12/1991; 06/12/2028; 4; 4(D); 491; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4822890879; Fabian Sergio Cevallos Roman; 28; 14; 01/10/2016; 01/10/2030; 6; 4(D); 492; Bajo; 4 Hora(s); Otros
+4435999444; Fabian Antonio Paredes Reyes; 45; 27; 01/02/2002; 01/02/2029; 5; 4(D); 493; Bajo; 4 Hora(s); Escandalo Publico
+4380343654; Carlos Angel Guerrero Sanchez; 47; 28; 03/02/1999; 03/02/2027; 3; 4(D); 494; Bajo; 4 Hora(s); Escandalo Publico
+7457591747; Victor Adrian Paredes Roman; 43; 27; 12/04/2003; 12/04/2030; 6; 4(D); 495; Bajo; 4 Hora(s); Otros
+2379181347; Dario Adrian Torres Roman; 42; 25; 23/11/2002; 23/11/2027; 3; 4(D); 496; Bajo; 4 Hora(s); Escandalo Publico
+1912552261; Carlos Paulo Paredes Sanchez; 48; 27; 21/08/2003; 21/08/2030; 6; 4(D); 497; Bajo; 4 Hora(s); Estafa
+8088248443; Roberto Julian Perero Sanchez; 56; 39; 21/01/1987; 21/01/2026; 2; 4(D); 498; Bajo; 4 Hora(s); Estafa
+4445263860; Roberto Diego Gonzales Ramirez; 61; 47; 26/06/1982; 26/06/2029; 5; 4(D); 499; Bajo; 4 Hora(s); Otros
+5985413444; Carlos Adrian Torres Sanchez; 55; 40; 23/06/1990; 23/06/2030; 6; 4(D); 500; Bajo; 4 Hora(s); Estafa
+8810650434; Roberto Paulo Gonzales Reyes; 37; 18; 28/11/2007; 28/11/2025; 1; 4(D); 501; Bajo; 4 Hora(s); Escandalo Publico
+8427643137; Gonzalo Sergio Paredes Hidalgo; 31; 15; 20/04/2014; 20/04/2029; 5; 4(D); 502; Bajo; 4 Hora(s); Otros
+8188618844; Fabian Paulo Torres Hidalgo; 59; 42; 22/03/1985; 22/03/2027; 3; 4(D); 503; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+7208667513; Victor Paulo Guerrero Ramirez; 37; 20; 23/11/2008; 23/11/2028; 4; 4(D); 504; Bajo; 4 Hora(s); Estafa
+5010773009; Victor Paulo Gonzales Espinosa; 55; 41; 23/11/1988; 23/11/2029; 5; 4(D); 505; Bajo; 4 Hora(s); Otros
+7451684737; Gonzalo Diego Perero Sanchez; 32; 20; 11/04/2014; 11/04/2034; 10; 4(D); 506; Bajo; 4 Hora(s); Otros
+5389046179; Roberto Sergio Perero Roman; 59; 45; 08/09/1985; 08/09/2030; 6; 4(D); 507; Bajo; 4 Hora(s); Escandalo Publico
+8136082017; Michael Pablo Cuenca Sanchez; 33; 18; 18/09/2010; 18/09/2028; 4; 4(D); 508; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9606134266; Michael Cesar Romero Hidalgo; 55; 35; 21/08/1991; 21/08/2026; 2; 4(D); 509; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8546024720; Victor Paulo Paredes Reyes; 60; 44; 31/04/1983; 31/04/2027; 3; 4(D); 510; Bajo; 4 Hora(s); Estafa
+4503347582; Victor Julian Paredes Gomez; 57; 37; 17/09/1989; 17/09/2026; 2; 4(D); 511; Bajo; 4 Hora(s); Escandalo Publico
+4068628901; Mario Antonio Cuenca Rivera; 32; 11; 14/08/2014; 14/08/2025; 1; 4(D); 512; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1058862622; Pedro Paulo Guerrero Gomez; 43; 11; 14/02/2015; 14/02/2026; 2; 4(D); 513; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1652812449; Victor Julian Torres Morales; 47; 27; 05/06/2018; 05/06/2045; 21; 4(D); 514; Bajo; 4 Hora(s); Estafa
+6723947174; Fabian Cesar Paredes Espinosa; 41; 30; 22/03/2008; 22/03/2038; 14; 4(D); 515; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1482750996; Gonzalo Angel Perero Reyes; 66; 49; 27/08/1980; 27/08/2029; 5; 4(D); 516; Bajo; 4 Hora(s); Estafa
+8770379097; Fabian Pablo Romero Ramirez; 26; 19; 06/07/2017; 06/07/2036; 12; 4(D); 517; Bajo; 4 Hora(s); Otros
+8416648349; Dario Julian Romero Rivera; 52; 35; 13/04/1993; 13/04/2028; 4; 4(D); 518; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4367557608; Mario Pablo Cuenca Reyes; 62; 43; 30/02/1983; 30/02/2026; 2; 4(D); 519; Bajo; 4 Hora(s); Otros
+3997778695; Fabian Antonio Cuenca Sanchez; 42; 30; 16/10/2004; 16/10/2034; 10; 4(D); 520; Bajo; 4 Hora(s); Otros
+7527649742; Gonzalo Antonio Cuenca Espinosa; 44; 28; 16/07/2002; 16/07/2030; 6; 4(D); 521; Bajo; 4 Hora(s); Estafa
+3985556967; Victor Sergio Cevallos Sanchez; 63; 47; 03/06/1980; 03/06/2027; 3; 4(D); 522; Bajo; 4 Hora(s); Escandalo Publico
+8679576916; Victor Antonio Gonzales Espinosa; 56; 40; 17/02/1989; 17/02/2029; 5; 4(D); 523; Bajo; 4 Hora(s); Estafa
+9467356802; Dario Angel Cuenca Ramirez; 50; 35; 04/09/1993; 04/09/2028; 4; 4(D); 524; Bajo; 4 Hora(s); Otros
+5396856427; Mario Antonio Cevallos Rivera; 43; 25; 16/07/2003; 16/07/2028; 4; 4(D); 525; Bajo; 4 Hora(s); Otros
+2986080459; Dario Antonio Guerrero Sanchez; 43; 25; 14/08/2003; 14/08/2028; 4; 4(D); 526; Bajo; 4 Hora(s); Escandalo Publico
+3191392529; Fabian Antonio Perero Gomez; 59; 43; 21/10/1985; 21/10/2028; 4; 4(D); 527; Bajo; 4 Hora(s); Otros
+9498732947; Roberto Diego Cuenca Sanchez; 39; 6; 28/10/2019; 28/10/2025; 1; 4(D); 528; Bajo; 4 Hora(s); Escandalo Publico
+6082173690; Gonzalo Paulo Romero Rivera; 36; 11; 14/03/2014; 14/03/2025; 1; 4(D); 529; Bajo; 4 Hora(s); Estafa
+4766135339; Roberto Cesar Garcia Rivera; 54; 35; 11/12/1992; 11/12/2027; 3; 4(D); 530; Bajo; 4 Hora(s); Estafa
+9343981564; Fabian Sergio Paredes Sanchez; 50; 20; 29/11/2009; 29/11/2029; 5; 4(D); 531; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2981812151; Roberto Diego Gonzales Espinosa; 53; 36; 19/05/1990; 19/05/2026; 2; 4(D); 532; Bajo; 4 Hora(s); Otros
+6559082736; Victor Diego Torres Espinosa; 45; 30; 01/04/2015; 01/04/2045; 21; 4(D); 533; Bajo; 4 Hora(s); Escandalo Publico
+8838029606; Fabian Antonio Perero Ramirez; 52; 39; 27/02/1991; 27/02/2030; 6; 4(D); 534; Bajo; 4 Hora(s); Escandalo Publico
+2837518994; Dario Pablo Paredes Reyes; 59; 42; 14/08/1984; 14/08/2026; 2; 4(D); 535; Bajo; 4 Hora(s); Estafa
+1416945340; Dario Pablo Paredes Hidalgo; 55; 38; 21/09/1988; 21/09/2026; 2; 4(D); 536; Bajo; 4 Hora(s); Escandalo Publico
+3834794941; Gonzalo Angel Paredes Gomez; 31; 15; 08/06/2014; 08/06/2029; 5; 4(D); 537; Bajo; 4 Hora(s); Estafa
+7355597417; Michael Paulo Guerrero Sanchez; 45; 29; 05/08/1998; 05/08/2027; 3; 4(D); 538; Bajo; 4 Hora(s); Escandalo Publico
+7078417939; Roberto Antonio Paredes Reyes; 40; 25; 12/09/2003; 12/09/2028; 4; 4(D); 539; Bajo; 4 Hora(s); Estafa
+6086850934; Roberto Diego Gonzales Reyes; 47; 30; 13/07/1996; 13/07/2026; 2; 4(D); 540; Bajo; 4 Hora(s); Estafa
+4954140161; Carlos Julian Perero Ramirez; 52; 34; 01/01/1993; 01/01/2027; 3; 4(D); 541; Bajo; 4 Hora(s); Escandalo Publico
+7878533064; Dario Angel Romero Hidalgo; 57; 43; 07/06/1987; 07/06/2030; 6; 4(D); 542; Bajo; 4 Hora(s); Estafa
+7576628028; Roberto Adrian Paredes Ramirez; 53; 35; 05/02/1993; 05/02/2028; 4; 4(D); 543; Bajo; 4 Hora(s); Escandalo Publico
+2440562534; Roberto Angel Perero Morales; 45; 18; 06/06/2013; 06/06/2031; 7; 4(D); 544; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9598738290; Mario Pablo Romero Espinosa; 44; 30; 22/08/1999; 22/08/2029; 5; 4(D); 545; Bajo; 4 Hora(s); Escandalo Publico
+6775328534; Pedro Antonio Cuenca Rivera; 60; 43; 27/05/1983; 27/05/2026; 2; 4(D); 546; Bajo; 4 Hora(s); Escandalo Publico
+9159672054; Fabian Cesar Paredes Roman; 41; 20; 04/12/2008; 04/12/2028; 4; 4(D); 547; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1287686516; Carlos Antonio Gonzales Ramirez; 51; 31; 29/05/1995; 29/05/2026; 2; 4(D); 548; Bajo; 4 Hora(s); Otros
+8954463300; Michael Cesar Torres Rivera; 46; 30; 23/08/1999; 23/08/2029; 5; 4(D); 549; Bajo; 4 Hora(s); Escandalo Publico
+7060848278; Carlos Paulo Romero Hidalgo; 65; 47; 31/10/1981; 31/10/2028; 4; 4(D); 550; Bajo; 4 Hora(s); Otros
+1493141402; Carlos Paulo Gonzales Gomez; 30; 16; 19/11/2013; 19/11/2029; 5; 4(D); 551; Bajo; 4 Hora(s); Escandalo Publico
+5483937276; Roberto Cesar Romero Sanchez; 63; 48; 11/04/1980; 11/04/2028; 4; 4(D); 552; Bajo; 4 Hora(s); Estafa
+1730313748; Fabian Angel Paredes Hidalgo; 47; 28; 25/09/1998; 25/09/2026; 2; 4(D); 553; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5526542043; Gonzalo Sergio Garcia Sanchez; 45; 29; 15/02/1998; 15/02/2027; 3; 4(D); 554; Bajo; 4 Hora(s); Otros
+6106875519; Gonzalo Pablo Torres Hidalgo; 51; 33; 22/04/1995; 22/04/2028; 4; 4(D); 555; Bajo; 4 Hora(s); Estafa
+8293160215; Roberto Antonio Romero Gomez; 43; 26; 27/06/2000; 27/06/2026; 2; 4(D); 556; Bajo; 4 Hora(s); Otros
+3427754966; Roberto Cesar Romero Espinosa; 53; 39; 02/08/1991; 02/08/2030; 6; 4(D); 557; Bajo; 4 Hora(s); Otros
+2414055694; Fabian Cesar Guerrero Sanchez; 55; 42; 14/07/1988; 14/07/2030; 6; 4(D); 558; Bajo; 4 Hora(s); Otros
+1951050358; Michael Pablo Paredes Rivera; 31; 19; 01/11/2013; 01/11/2032; 8; 4(D); 559; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5722943322; Roberto Julian Romero Ramirez; 49; 32; 08/09/1995; 08/09/2027; 3; 4(D); 560; Bajo; 4 Hora(s); Otros
+9196639424; Roberto Antonio Paredes Reyes; 48; 33; 16/09/1996; 16/09/2029; 5; 4(D); 561; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8044543270; Fabian Adrian Paredes Morales; 50; 35; 22/10/1993; 22/10/2028; 4; 4(D); 562; Bajo; 4 Hora(s); Otros
+6299857023; Michael Sergio Garcia Espinosa; 38; 22; 12/10/2006; 12/10/2028; 4; 4(D); 563; Bajo; 4 Hora(s); Escandalo Publico
+7382624022; Dario Angel Romero Roman; 52; 34; 29/04/1993; 29/04/2027; 3; 4(D); 564; Bajo; 4 Hora(s); Escandalo Publico
+8015777964; Fabian Sergio Perero Rivera; 44; 23; 28/02/2003; 28/02/2026; 2; 4(D); 565; Bajo; 4 Hora(s); Estafa
+5050016962; Michael Antonio Cevallos Reyes; 48; 31; 30/10/1995; 30/10/2026; 2; 4(D); 566; Bajo; 4 Hora(s); Otros
+4408880194; Roberto Diego Romero Roman; 31; 29; 08/01/2013; 08/01/2042; 18; 4(D); 567; Bajo; 4 Hora(s); Estafa
+5634466901; Carlos Paulo Romero Sanchez; 34; 18; 02/08/2012; 02/08/2030; 6; 4(D); 568; Bajo; 4 Hora(s); Otros
+4027832242; Gonzalo Antonio Paredes Ramirez; 57; 38; 28/11/1989; 28/11/2027; 3; 4(D); 569; Bajo; 4 Hora(s); Estafa
+7304722932; Mario Angel Perero Gomez; 64; 44; 05/09/1982; 05/09/2026; 2; 4(D); 570; Bajo; 4 Hora(s); Estafa
+9249781798; Fabian Angel Cuenca Rivera; 61; 47; 10/09/1983; 10/09/2030; 6; 4(D); 571; Bajo; 4 Hora(s); Otros
+9224312485; Dario Julian Romero Espinosa; 63; 48; 21/07/1981; 21/07/2029; 5; 4(D); 572; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3110146114; Roberto Julian Cuenca Espinosa; 33; 25; 29/06/2016; 29/06/2041; 17; 4(D); 573; Bajo; 4 Hora(s); Estafa
+7515284089; Michael Sergio Cevallos Ramirez; 48; 29; 07/07/2007; 07/07/2036; 12; 4(D); 574; Bajo; 4 Hora(s); Otros
+3293396075; Dario Cesar Romero Reyes; 58; 42; 15/10/1988; 15/10/2030; 6; 4(D); 575; Bajo; 4 Hora(s); Otros
+6556460392; Roberto Cesar Romero Ramirez; 54; 39; 04/01/1989; 04/01/2028; 4; 4(D); 576; Bajo; 4 Hora(s); Escandalo Publico
+6106721455; Fabian Paulo Cuenca Espinosa; 48; 26; 19/02/2003; 19/02/2029; 5; 4(D); 577; Bajo; 4 Hora(s); Otros
+4125693295; Roberto Julian Paredes Hidalgo; 60; 44; 03/12/1985; 03/12/2029; 5; 4(D); 578; Bajo; 4 Hora(s); Estafa
+3120454833; Carlos Julian Garcia Reyes; 46; 23; 31/05/2004; 31/05/2027; 3; 4(D); 579; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5343619133; Carlos Adrian Torres Sanchez; 36; 14; 06/01/2014; 06/01/2028; 4; 4(D); 580; Bajo; 4 Hora(s); Escandalo Publico
+7348521004; Fabian Paulo Cuenca Reyes; 38; 10; 01/09/2018; 01/09/2028; 4; 4(D); 581; Bajo; 4 Hora(s); Escandalo Publico
+3110423376; Pedro Antonio Romero Espinosa; 47; 32; 25/10/1998; 25/10/2030; 6; 4(D); 582; Bajo; 4 Hora(s); Estafa
+3335175316; Mario Antonio Perero Hidalgo; 36; 12; 31/01/2018; 31/01/2030; 6; 4(D); 583; Bajo; 4 Hora(s); Estafa
+9293032959; Victor Pablo Gonzales Reyes; 46; 9; 07/07/2019; 07/07/2028; 4; 4(D); 584; Bajo; 4 Hora(s); Estafa
+8353789382; Pedro Diego Torres Gomez; 47; 31; 17/12/1999; 17/12/2030; 6; 4(D); 585; Bajo; 4 Hora(s); Escandalo Publico
+9613531955; Pedro Julian Cevallos Morales; 31; 13; 15/05/2018; 15/05/2031; 7; 4(D); 586; Bajo; 4 Hora(s); Otros
+9025173497; Dario Cesar Romero Sanchez; 30; 16; 10/08/2014; 10/08/2030; 6; 4(D); 587; Bajo; 4 Hora(s); Escandalo Publico
+1971432380; Victor Cesar Garcia Ramirez; 35; 25; 04/01/2008; 04/01/2033; 9; 4(D); 588; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4787078291; Roberto Julian Paredes Morales; 45; 28; 04/12/2000; 04/12/2028; 4; 4(D); 589; Bajo; 4 Hora(s); Escandalo Publico
+8625761617; Fabian Pablo Cevallos Reyes; 28; 29; 17/06/2015; 17/06/2044; 20; 4(D); 590; Bajo; 4 Hora(s); Escandalo Publico
+7850920897; Roberto Cesar Guerrero Hidalgo; 59; 41; 09/10/1985; 09/10/2026; 2; 4(D); 591; Bajo; 4 Hora(s); Escandalo Publico
+1240042984; Fabian Cesar Gonzales Reyes; 51; 38; 12/10/1992; 12/10/2030; 6; 4(D); 592; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6126484437; Victor Antonio Torres Rivera; 58; 41; 29/05/1985; 29/05/2026; 2; 4(D); 593; Bajo; 4 Hora(s); Otros
+8221790200; Fabian Angel Gonzales Ramirez; 27; 22; 14/12/2017; 14/12/2039; 15; 4(D); 594; Bajo; 4 Hora(s); Otros
+5410223095; Pedro Cesar Cuenca Reyes; 53; 33; 28/07/1993; 28/07/2026; 2; 4(D); 595; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6623085856; Dario Diego Gonzales Gomez; 45; 28; 07/02/2001; 07/02/2029; 5; 4(D); 596; Bajo; 4 Hora(s); Escandalo Publico
+5571858909; Dario Cesar Gonzales Sanchez; 53; 39; 30/02/1990; 30/02/2029; 5; 4(D); 597; Bajo; 4 Hora(s); Escandalo Publico
+4892946063; Roberto Antonio Romero Hidalgo; 40; 20; 15/05/2006; 15/05/2026; 2; 4(D); 598; Bajo; 4 Hora(s); Otros
+6497651342; Roberto Diego Guerrero Sanchez; 57; 38; 01/12/1989; 01/12/2027; 3; 4(D); 599; Bajo; 4 Hora(s); Estafa
+6615847253; Pedro Antonio Garcia Ramirez; 55; 38; 17/12/1990; 17/12/2028; 4; 4(D); 600; Bajo; 4 Hora(s); Estafa
+9197752497; Carlos Paulo Torres Roman; 50; 33; 24/02/1994; 24/02/2027; 3; 4(D); 601; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3063947563; Roberto Antonio Perero Gomez; 49; 34; 02/07/1996; 02/07/2030; 6; 4(D); 602; Bajo; 4 Hora(s); Otros
+7336782239; Carlos Antonio Perero Rivera; 42; 29; 31/02/2002; 31/02/2031; 7; 4(D); 603; Bajo; 4 Hora(s); Escandalo Publico
+7955897914; Gonzalo Cesar Guerrero Gomez; 29; 11; 11/02/2017; 11/02/2028; 4; 4(D); 604; Bajo; 4 Hora(s); Escandalo Publico
+1340261159; Pedro Sergio Perero Hidalgo; 38; 24; 29/05/2006; 29/05/2030; 6; 4(D); 605; Bajo; 4 Hora(s); Escandalo Publico
+6893526652; Fabian Antonio Gonzales Morales; 61; 44; 15/12/1982; 15/12/2026; 2; 4(D); 606; Bajo; 4 Hora(s); Estafa
+3044671421; Michael Sergio Cevallos Ramirez; 36; 18; 22/09/2011; 22/09/2029; 5; 4(D); 607; Bajo; 4 Hora(s); Otros
+6081312360; Mario Antonio Torres Ramirez; 57; 43; 27/05/1986; 27/05/2029; 5; 4(D); 608; Bajo; 4 Hora(s); Escandalo Publico
+4776180153; Gonzalo Adrian Cevallos Rivera; 58; 44; 14/01/1985; 14/01/2029; 5; 4(D); 609; Bajo; 4 Hora(s); Escandalo Publico
+3822371574; Mario Antonio Romero Hidalgo; 50; 22; 19/06/2004; 19/06/2026; 2; 4(D); 610; Bajo; 4 Hora(s); Estafa
+7828520652; Carlos Cesar Perero Reyes; 28; 15; 20/02/2015; 20/02/2030; 6; 4(D); 611; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+7469985981; Gonzalo Adrian Torres Ramirez; 36; 17; 07/09/2009; 07/09/2026; 2; 4(D); 612; Bajo; 4 Hora(s); Otros
+9067596892; Gonzalo Sergio Guerrero Gomez; 48; 17; 31/02/2013; 31/02/2030; 6; 4(D); 613; Bajo; 4 Hora(s); Otros
+6634153024; Mario Antonio Torres Reyes; 44; 31; 11/06/1999; 11/06/2030; 6; 4(D); 614; Bajo; 4 Hora(s); Otros
+6577359838; Roberto Antonio Gonzales Sanchez; 66; 49; 30/04/1980; 30/04/2029; 5; 4(D); 615; Bajo; 4 Hora(s); Estafa
+9566763055; Gonzalo Angel Perero Gomez; 39; 23; 29/12/2004; 29/12/2027; 3; 4(D); 616; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2215545396; Pedro Pablo Paredes Morales; 45; 28; 21/11/2018; 21/11/2046; 22; 4(D); 617; Bajo; 4 Hora(s); Otros
+6806994003; Mario Antonio Perero Rivera; 45; 31; 04/09/1998; 04/09/2029; 5; 4(D); 618; Bajo; 4 Hora(s); Otros
+2037137490; Carlos Sergio Torres Hidalgo; 33; 28; 20/07/2010; 20/07/2038; 14; 4(D); 619; Bajo; 4 Hora(s); Estafa
+8446179976; Gonzalo Angel Gonzales Sanchez; 30; 15; 07/09/2013; 07/09/2028; 4; 4(D); 620; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9644538053; Roberto Julian Paredes Espinosa; 48; 33; 20/01/1996; 20/01/2029; 5; 5(E); 621; Bajo; 4 Hora(s); Otros
+9536542269; Victor Diego Garcia Espinosa; 37; 19; 22/04/2007; 22/04/2026; 2; 5(E); 622; Bajo; 4 Hora(s); Escandalo Publico
+8657027831; Roberto Antonio Cuenca Sanchez; 37; 30; 17/03/2019; 17/03/2049; 25; 5(E); 623; Bajo; 4 Hora(s); Estafa
+7497181896; Dario Adrian Garcia Reyes; 50; 31; 19/04/1995; 19/04/2026; 2; 5(E); 624; Bajo; 4 Hora(s); Estafa
+1737941594; Victor Diego Garcia Sanchez; 61; 43; 03/11/1984; 03/11/2027; 3; 5(E); 625; Bajo; 4 Hora(s); Estafa
+7712791284; Roberto Cesar Paredes Morales; 55; 38; 10/11/1989; 10/11/2027; 3; 5(E); 626; Bajo; 4 Hora(s); Escandalo Publico
+8625531693; Fabian Pablo Paredes Hidalgo; 39; 24; 15/08/2006; 15/08/2030; 6; 5(E); 627; Bajo; 4 Hora(s); Estafa
+2666050161; Roberto Sergio Paredes Ramirez; 50; 31; 05/10/1996; 05/10/2027; 3; 5(E); 628; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1931778856; Carlos Pablo Paredes Roman; 48; 32; 29/06/1996; 29/06/2028; 4; 5(E); 629; Bajo; 4 Hora(s); Estafa
+6667132784; Carlos Julian Paredes Morales; 43; 30; 15/01/2003; 15/01/2033; 9; 5(E); 630; Bajo; 4 Hora(s); Escandalo Publico
+5004854155; Gonzalo Antonio Garcia Sanchez; 41; 28; 03/01/2002; 03/01/2030; 6; 5(E); 631; Bajo; 4 Hora(s); Otros
+3144466665; Roberto Paulo Paredes Sanchez; 39; 23; 20/01/2004; 20/01/2027; 3; 5(E); 632; Bajo; 4 Hora(s); Estafa
+8804278200; Victor Adrian Guerrero Morales; 55; 39; 17/05/1988; 17/05/2027; 3; 5(E); 633; Bajo; 4 Hora(s); Escandalo Publico
+6527152755; Michael Sergio Paredes Hidalgo; 49; 36; 03/03/1994; 03/03/2030; 6; 5(E); 634; Bajo; 4 Hora(s); Otros
+2775252446; Michael Angel Torres Reyes; 62; 44; 02/07/1984; 02/07/2028; 4; 5(E); 635; Bajo; 4 Hora(s); Otros
+4471074678; Michael Paulo Garcia Gomez; 31; 15; 11/10/2012; 11/10/2027; 3; 5(E); 636; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5604246689; Carlos Julian Romero Gomez; 52; 38; 20/11/1992; 20/11/2030; 6; 5(E); 637; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4439458363; Roberto Antonio Romero Roman; 65; 46; 31/02/1981; 31/02/2027; 3; 5(E); 638; Bajo; 4 Hora(s); Estafa
+3140781076; Michael Diego Cevallos Hidalgo; 42; 26; 14/03/2001; 14/03/2027; 3; 5(E); 639; Bajo; 4 Hora(s); Estafa
+4468729183; Mario Paulo Cuenca Rivera; 40; 17; 03/06/2010; 03/06/2027; 3; 5(E); 640; Bajo; 4 Hora(s); Escandalo Publico
+8537894350; Dario Angel Cevallos Hidalgo; 42; 28; 10/07/2002; 10/07/2030; 6; 5(E); 641; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9094342169; Michael Julian Romero Reyes; 45; 29; 31/11/1998; 31/11/2027; 3; 5(E); 642; Bajo; 4 Hora(s); Otros
+8595682689; Michael Angel Gonzales Reyes; 45; 20; 23/11/2006; 23/11/2026; 2; 5(E); 643; Bajo; 4 Hora(s); Estafa
+1512771004; Michael Sergio Torres Sanchez; 52; 38; 02/12/1992; 02/12/2030; 6; 5(E); 644; Bajo; 4 Hora(s); Escandalo Publico
+8280739564; Fabian Adrian Guerrero Sanchez; 63; 44; 15/03/1982; 15/03/2026; 2; 5(E); 645; Bajo; 4 Hora(s); Otros
+8176347975; Dario Diego Garcia Gomez; 33; 28; 21/07/2012; 21/07/2040; 16; 5(E); 646; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2466157051; Roberto Paulo Paredes Gomez; 55; 36; 26/09/1991; 26/09/2027; 3; 5(E); 647; Bajo; 4 Hora(s); Otros
+6984621183; Pedro Antonio Torres Ramirez; 43; 26; 16/02/2012; 16/02/2038; 14; 5(E); 648; Bajo; 4 Hora(s); Estafa
+3818560095; Fabian Antonio Paredes Sanchez; 56; 39; 11/05/1987; 11/05/2026; 2; 5(E); 649; Bajo; 4 Hora(s); Otros
+2810837108; Pedro Pablo Guerrero Rivera; 41; 19; 18/10/2012; 18/10/2031; 7; 5(E); 650; Bajo; 4 Hora(s); Escandalo Publico
+4044711617; Victor Antonio Guerrero Reyes; 51; 31; 27/12/1995; 27/12/2026; 2; 5(E); 651; Bajo; 4 Hora(s); Otros
+6902437399; Dario Angel Paredes Sanchez; 33; 16; 23/12/2012; 23/12/2028; 4; 5(E); 652; Bajo; 4 Hora(s); Escandalo Publico
+5605892504; Carlos Antonio Torres Roman; 39; 23; 06/12/2006; 06/12/2029; 5; 5(E); 653; Bajo; 4 Hora(s); Otros
+9085266600; Victor Adrian Gonzales Sanchez; 26; 9; 10/10/2017; 10/10/2026; 2; 5(E); 654; Bajo; 4 Hora(s); Otros
+5352320630; Gonzalo Antonio Paredes Ramirez; 46; 23; 16/12/2014; 16/12/2037; 13; 5(E); 655; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8198761983; Gonzalo Antonio Garcia Roman; 50; 35; 23/11/1995; 23/11/2030; 6; 5(E); 656; Bajo; 4 Hora(s); Otros
+4417930127; Carlos Sergio Paredes Ramirez; 34; 19; 22/01/2013; 22/01/2032; 8; 5(E); 657; Bajo; 4 Hora(s); Estafa
+1058041884; Fabian Diego Perero Reyes; 49; 35; 22/05/1994; 22/05/2029; 5; 5(E); 658; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3272521449; Pedro Antonio Guerrero Rivera; 50; 34; 16/02/1993; 16/02/2027; 3; 5(E); 659; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1021238482; Carlos Angel Romero Sanchez; 48; 33; 15/07/1996; 15/07/2029; 5; 5(E); 660; Bajo; 4 Hora(s); Estafa
+3636389248; Roberto Adrian Romero Sanchez; 58; 44; 31/10/1985; 31/10/2029; 5; 5(E); 661; Bajo; 4 Hora(s); Escandalo Publico
+6183441139; Roberto Antonio Paredes Hidalgo; 62; 46; 10/12/1982; 10/12/2028; 4; 5(E); 662; Bajo; 4 Hora(s); Otros
+9681680528; Carlos Diego Cevallos Reyes; 59; 41; 12/02/1986; 12/02/2027; 3; 5(E); 663; Bajo; 4 Hora(s); Estafa
+4061313016; Dario Diego Romero Sanchez; 28; 15; 20/08/2018; 20/08/2033; 9; 5(E); 664; Bajo; 4 Hora(s); Escandalo Publico
+7723114825; Fabian Cesar Paredes Sanchez; 56; 42; 18/07/1988; 18/07/2030; 6; 5(E); 665; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+7705568442; Michael Paulo Paredes Sanchez; 56; 40; 15/08/1990; 15/08/2030; 6; 5(E); 666; Bajo; 4 Hora(s); Estafa
+5536481966; Mario Antonio Cuenca Rivera; 64; 46; 09/11/1980; 09/11/2026; 2; 5(E); 667; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1761070075; Roberto Antonio Garcia Roman; 41; 7; 06/09/2018; 06/09/2025; 1; 5(E); 668; Bajo; 4 Hora(s); Otros
+6059754422; Gonzalo Sergio Gonzales Espinosa; 60; 41; 31/09/1986; 31/09/2027; 3; 5(E); 669; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4606797688; Michael Antonio Cevallos Ramirez; 60; 47; 30/11/1983; 30/11/2030; 6; 5(E); 670; Bajo; 4 Hora(s); Otros
+5365566616; Victor Adrian Paredes Sanchez; 59; 44; 01/03/1986; 01/03/2030; 6; 5(E); 671; Bajo; 4 Hora(s); Escandalo Publico
+7979674976; Mario Sergio Garcia Gomez; 53; 37; 15/12/1991; 15/12/2028; 4; 5(E); 672; Bajo; 4 Hora(s); Otros
+2584774106; Gonzalo Julian Paredes Hidalgo; 47; 19; 18/02/2013; 18/02/2032; 8; 5(E); 673; Bajo; 4 Hora(s); Escandalo Publico
+5300830339; Roberto Diego Torres Ramirez; 33; 13; 14/02/2018; 14/02/2031; 7; 5(E); 674; Bajo; 4 Hora(s); Otros
+4407539520; Fabian Paulo Perero Sanchez; 48; 32; 17/07/1997; 17/07/2029; 5; 5(E); 675; Bajo; 4 Hora(s); Escandalo Publico
+6404728590; Mario Adrian Cuenca Rivera; 54; 38; 08/05/1991; 08/05/2029; 5; 5(E); 676; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8766860322; Michael Antonio Romero Hidalgo; 49; 26; 13/09/2000; 13/09/2026; 2; 5(E); 677; Bajo; 4 Hora(s); Otros
+3816723474; Roberto Diego Torres Reyes; 44; 28; 29/04/2002; 29/04/2030; 6; 5(E); 678; Bajo; 4 Hora(s); Escandalo Publico
+6375768202; Roberto Paulo Guerrero Morales; 42; 22; 22/11/2006; 22/11/2028; 4; 5(E); 679; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6793960495; Pedro Antonio Gonzales Rivera; 64; 44; 04/11/1982; 04/11/2026; 2; 5(E); 680; Bajo; 4 Hora(s); Escandalo Publico
+9803148394; Fabian Sergio Perero Sanchez; 46; 21; 03/04/2005; 03/04/2026; 2; 5(E); 681; Bajo; 4 Hora(s); Otros
+7491645344; Roberto Julian Torres Sanchez; 41; 24; 07/03/2002; 07/03/2026; 2; 5(E); 682; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+7711875242; Roberto Pablo Cuenca Sanchez; 63; 50; 09/03/1980; 09/03/2030; 6; 5(E); 683; Bajo; 4 Hora(s); Otros
+7876510195; Fabian Julian Guerrero Gomez; 45; 14; 13/10/2015; 13/10/2029; 5; 5(E); 684; Bajo; 4 Hora(s); Otros
+6286863647; Carlos Sergio Paredes Roman; 57; 43; 12/11/1986; 12/11/2029; 5; 5(E); 685; Bajo; 4 Hora(s); Escandalo Publico
+7242960975; Roberto Pablo Paredes Gomez; 59; 42; 29/09/1984; 29/09/2026; 2; 5(E); 686; Bajo; 4 Hora(s); Otros
+5659912518; Victor Diego Gonzales Rivera; 45; 28; 22/03/1998; 22/03/2026; 2; 5(E); 687; Bajo; 4 Hora(s); Otros
+2386410254; Gonzalo Antonio Gonzales Morales; 25; 17; 28/12/2018; 28/12/2035; 11; 5(E); 688; Bajo; 4 Hora(s); Escandalo Publico
+1576652997; Roberto Paulo Cuenca Hidalgo; 62; 49; 11/03/1981; 11/03/2030; 6; 5(E); 689; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+8993220387; Pedro Adrian Torres Hidalgo; 49; 32; 17/06/1994; 17/06/2026; 2; 5(E); 690; Bajo; 4 Hora(s); Otros
+9639645783; Carlos Antonio Gonzales Sanchez; 48; 30; 08/05/1997; 08/05/2027; 3; 5(E); 691; Bajo; 4 Hora(s); Estafa
+8773783806; Dario Sergio Torres Gomez; 45; 30; 19/04/1999; 19/04/2029; 5; 5(E); 692; Bajo; 4 Hora(s); Otros
+5577677653; Roberto Pablo Garcia Gomez; 52; 34; 08/03/1993; 08/03/2027; 3; 5(E); 693; Bajo; 4 Hora(s); Otros
+3802515787; Roberto Pablo Paredes Reyes; 42; 26; 15/01/2003; 15/01/2029; 5; 5(E); 694; Bajo; 4 Hora(s); Escandalo Publico
+1612440396; Fabian Diego Gonzales Sanchez; 34; 23; 23/02/2009; 23/02/2032; 8; 5(E); 695; Bajo; 4 Hora(s); Estafa
+8274235128; Carlos Adrian Cevallos Ramirez; 53; 38; 09/08/1990; 09/08/2028; 4; 5(E); 696; Bajo; 4 Hora(s); Otros
+1750468998; Pedro Cesar Guerrero Hidalgo; 27; 12; 14/08/2017; 14/08/2029; 5; 5(E); 697; Bajo; 4 Hora(s); Estafa
+8797795657; Carlos Diego Paredes Ramirez; 57; 44; 16/12/1986; 16/12/2030; 6; 5(E); 698; Bajo; 4 Hora(s); Estafa
+9630694270; Gonzalo Angel Romero Morales; 39; 25; 21/02/2004; 21/02/2029; 5; 5(E); 699; Bajo; 4 Hora(s); Escandalo Publico
+1646933448; Fabian Cesar Paredes Ramirez; 59; 44; 30/03/1984; 30/03/2028; 4; 5(E); 700; Bajo; 4 Hora(s); Estafa
+6626494069; Roberto Julian Paredes Espinosa; 54; 34; 16/02/1992; 16/02/2026; 2; 5(E); 701; Bajo; 4 Hora(s); Escandalo Publico
+6895957073; Victor Antonio Cevallos Sanchez; 37; 21; 22/05/2008; 22/05/2029; 5; 5(E); 702; Bajo; 4 Hora(s); Escandalo Publico
+1490012252; Michael Angel Paredes Reyes; 58; 43; 25/04/1987; 25/04/2030; 6; 5(E); 703; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5691160141; Michael Cesar Romero Ramirez; 30; 12; 09/02/2013; 09/02/2025; 1; 5(E); 704; Bajo; 4 Hora(s); Otros
+1956127246; Roberto Julian Torres Roman; 34; 20; 26/01/2011; 26/01/2031; 7; 5(E); 705; Bajo; 4 Hora(s); Estafa
+3010410624; Carlos Cesar Torres Rivera; 63; 46; 16/08/1980; 16/08/2026; 2; 5(E); 706; Bajo; 4 Hora(s); Estafa
+1448153698; Pedro Pablo Cuenca Espinosa; 46; 27; 08/12/2000; 08/12/2027; 3; 5(E); 707; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1123016081; Roberto Adrian Cevallos Sanchez; 43; 27; 12/03/2019; 12/03/2046; 22; 5(E); 708; Bajo; 4 Hora(s); Escandalo Publico
+8427070120; Pedro Sergio Paredes Rivera; 55; 38; 07/07/1991; 07/07/2029; 5; 5(E); 709; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2209111977; Michael Antonio Guerrero Espinosa; 48; 30; 11/06/1996; 11/06/2026; 2; 5(E); 710; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+6280481562; Michael Cesar Torres Ramirez; 38; 22; 24/12/2005; 24/12/2027; 3; 5(E); 711; Bajo; 4 Hora(s); Escandalo Publico
+7827655880; Roberto Adrian Gonzales Ramirez; 60; 46; 25/03/1983; 25/03/2029; 5; 5(E); 712; Bajo; 4 Hora(s); Estafa
+4491670087; Roberto Julian Cevallos Reyes; 63; 47; 07/01/1980; 07/01/2027; 3; 5(E); 713; Bajo; 4 Hora(s); Estafa
+5877050035; Roberto Angel Garcia Ramirez; 36; 27; 05/09/2010; 05/09/2037; 13; 5(E); 714; Bajo; 4 Hora(s); Estafa
+9028830435; Mario Julian Romero Reyes; 48; 31; 22/04/1995; 22/04/2026; 2; 5(E); 715; Bajo; 4 Hora(s); Escandalo Publico
+6234417464; Roberto Angel Guerrero Rivera; 49; 31; 24/07/1996; 24/07/2027; 3; 5(E); 716; Bajo; 4 Hora(s); Estafa
+8797125711; Roberto Antonio Paredes Rivera; 56; 42; 01/08/1987; 01/08/2029; 5; 5(E); 717; Bajo; 4 Hora(s); Escandalo Publico
+7051982302; Roberto Angel Paredes Sanchez; 61; 42; 01/03/1985; 01/03/2027; 3; 5(E); 718; Bajo; 4 Hora(s); Estafa
+8557838238; Pedro Antonio Gonzales Hidalgo; 44; 26; 25/04/2000; 25/04/2026; 2; 5(E); 719; Bajo; 4 Hora(s); Otros
+2468381616; Carlos Diego Guerrero Gomez; 54; 40; 09/12/1989; 09/12/2029; 5; 5(E); 720; Bajo; 4 Hora(s); Otros
+7233244756; Michael Diego Romero Sanchez; 50; 24; 21/09/2004; 21/09/2028; 4; 5(E); 721; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4396610818; Carlos Cesar Gonzales Rivera; 42; 25; 30/07/2002; 30/07/2027; 3; 5(E); 722; Bajo; 4 Hora(s); Otros
+2419350464; Michael Adrian Perero Gomez; 62; 45; 27/01/1983; 27/01/2028; 4; 5(E); 723; Bajo; 4 Hora(s); Escandalo Publico
+5582743276; Victor Antonio Paredes Morales; 44; 29; 18/01/2000; 18/01/2029; 5; 5(E); 724; Bajo; 4 Hora(s); Estafa
+2542125529; Gonzalo Paulo Cevallos Hidalgo; 39; 21; 24/05/2007; 24/05/2028; 4; 5(E); 725; Bajo; 4 Hora(s); Otros
+2463455154; Roberto Cesar Cuenca Ramirez; 52; 35; 10/07/1991; 10/07/2026; 2; 5(E); 726; Bajo; 4 Hora(s); Escandalo Publico
+7830979911; Carlos Antonio Romero Ramirez; 50; 36; 07/03/1993; 07/03/2029; 5; 5(E); 727; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2786295069; Mario Julian Paredes Morales; 35; 11; 18/04/2018; 18/04/2029; 5; 5(E); 728; Bajo; 4 Hora(s); Estafa
+7166875547; Mario Diego Romero Reyes; 64; 47; 31/06/1980; 31/06/2027; 3; 5(E); 729; Bajo; 4 Hora(s); Estafa
+4197919248; Mario Sergio Romero Gomez; 45; 27; 05/02/2003; 05/02/2030; 6; 5(E); 730; Bajo; 4 Hora(s); Escandalo Publico
+4651574823; Dario Sergio Paredes Sanchez; 51; 33; 27/11/1994; 27/11/2027; 3; 5(E); 731; Bajo; 4 Hora(s); Otros
+2809499408; Dario Angel Paredes Reyes; 35; 18; 27/12/2009; 27/12/2027; 3; 5(E); 732; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+9500091095; Dario Paulo Guerrero Roman; 46; 28; 21/03/1999; 21/03/2027; 3; 5(E); 733; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3883425961; Roberto Cesar Romero Gomez; 63; 45; 08/12/1981; 08/12/2026; 2; 5(E); 734; Bajo; 4 Hora(s); Estafa
+2837182803; Michael Paulo Cuenca Rivera; 28; 12; 08/08/2015; 08/08/2027; 3; 5(E); 735; Bajo; 4 Hora(s); Otros
+3566124388; Fabian Sergio Cevallos Sanchez; 37; 19; 11/02/2009; 11/02/2028; 4; 5(E); 736; Bajo; 4 Hora(s); Escandalo Publico
+9021797326; Roberto Cesar Garcia Espinosa; 38; 10; 14/01/2019; 14/01/2029; 5; 5(E); 737; Bajo; 4 Hora(s); Escandalo Publico
+8999989862; Victor Cesar Paredes Roman; 30; 28; 29/11/2015; 29/11/2043; 19; 5(E); 738; Bajo; 4 Hora(s); Estafa
+6623268905; Pedro Paulo Cevallos Sanchez; 46; 20; 05/06/2010; 05/06/2030; 6; 5(E); 739; Bajo; 4 Hora(s); Escandalo Publico
+3809396586; Mario Antonio Perero Morales; 61; 47; 03/01/1982; 03/01/2029; 5; 5(E); 740; Bajo; 4 Hora(s); Escandalo Publico
+1819687836; Michael Paulo Perero Gomez; 53; 35; 01/12/1991; 01/12/2026; 2; 5(E); 741; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4590365961; Dario Angel Paredes Sanchez; 52; 39; 27/04/1991; 27/04/2030; 6; 5(E); 742; Bajo; 4 Hora(s); Escandalo Publico
+1329930195; Fabian Julian Garcia Sanchez; 35; 21; 16/03/2008; 16/03/2029; 5; 5(E); 743; Bajo; 4 Hora(s); Estafa
+9544357290; Victor Angel Paredes Roman; 45; 23; 09/06/2011; 09/06/2034; 10; 5(E); 744; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+7473317308; Roberto Sergio Gonzales Sanchez; 50; 24; 01/12/2005; 01/12/2029; 5; 5(E); 745; Bajo; 4 Hora(s); Estafa
+1235392988; Michael Diego Gonzales Ramirez; 31; 12; 05/12/2017; 05/12/2029; 5; 5(E); 746; Bajo; 4 Hora(s); Otros
+9846780549; Mario Diego Paredes Sanchez; 29; 11; 23/09/2018; 23/09/2029; 5; 5(E); 747; Bajo; 4 Hora(s); Escandalo Publico
+6231284777; Roberto Antonio Paredes Gomez; 61; 45; 02/12/1982; 02/12/2027; 3; 5(E); 748; Bajo; 4 Hora(s); Estafa
+5284282720; Dario Sergio Paredes Espinosa; 33; 29; 16/04/2015; 16/04/2044; 20; 5(E); 749; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3645050535; Victor Adrian Perero Sanchez; 39; 20; 23/07/2006; 23/07/2026; 2; 5(E); 750; Bajo; 4 Hora(s); Otros
+6812021715; Michael Julian Perero Rivera; 55; 38; 26/05/1991; 26/05/2029; 5; 5(E); 751; Bajo; 4 Hora(s); Otros
+5216921082; Mario Julian Perero Espinosa; 44; 26; 30/09/2000; 30/09/2026; 2; 5(E); 752; Bajo; 4 Hora(s); Escandalo Publico
+1478499623; Fabian Angel Garcia Roman; 65; 45; 19/07/1981; 19/07/2026; 2; 5(E); 753; Bajo; 4 Hora(s); Estafa
+9430785853; Michael Antonio Gonzales Roman; 53; 40; 09/03/1990; 09/03/2030; 6; 5(E); 754; Bajo; 4 Hora(s); Estafa
+3344311579; Pedro Antonio Paredes Reyes; 59; 39; 28/04/1987; 28/04/2026; 2; 5(E); 755; Bajo; 4 Hora(s); Otros
+4781751520; Mario Paulo Romero Sanchez; 34; 16; 23/05/2012; 23/05/2028; 4; 5(E); 756; Bajo; 4 Hora(s); Escandalo Publico
+9766346193; Mario Antonio Perero Gomez; 58; 42; 01/05/1985; 01/05/2027; 3; 5(E); 757; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5713253845; Fabian Cesar Paredes Rivera; 45; 24; 25/09/2006; 25/09/2030; 6; 5(E); 758; Bajo; 4 Hora(s); Escandalo Publico
+4741588695; Dario Antonio Romero Gomez; 35; 22; 10/09/2008; 10/09/2030; 6; 5(E); 759; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+5775861071; Pedro Antonio Garcia Espinosa; 57; 40; 21/12/1986; 21/12/2026; 2; 5(E); 760; Bajo; 4 Hora(s); Estafa
+9210485983; Roberto Paulo Romero Roman; 33; 14; 23/11/2012; 23/11/2026; 2; 5(E); 761; Bajo; 4 Hora(s); Escandalo Publico
+5555961205; Michael Pablo Paredes Sanchez; 46; 29; 29/04/1997; 29/04/2026; 2; 5(E); 762; Bajo; 4 Hora(s); Otros
+5341128849; Gonzalo Sergio Gonzales Sanchez; 26; 7; 13/07/2019; 13/07/2026; 2; 5(E); 763; Bajo; 4 Hora(s); Estafa
+7827650040; Dario Adrian Perero Reyes; 29; 14; 08/04/2017; 08/04/2031; 7; 5(E); 764; Bajo; 4 Hora(s); Estafa
+8675924688; Dario Paulo Guerrero Roman; 61; 42; 03/06/1985; 03/06/2027; 3; 5(E); 765; Bajo; 4 Hora(s); Estafa
+6280893404; Mario Antonio Guerrero Espinosa; 27; 12; 12/04/2017; 12/04/2029; 5; 5(E); 766; Bajo; 4 Hora(s); Estafa
+6775340844; Roberto Antonio Guerrero Rivera; 35; 20; 18/09/2010; 18/09/2030; 6; 5(E); 767; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+4462049448; Pedro Paulo Paredes Gomez; 63; 46; 21/12/1983; 21/12/2029; 5; 5(E); 768; Bajo; 4 Hora(s); Otros
+7004970884; Fabian Angel Paredes Sanchez; 62; 43; 25/06/1983; 25/06/2026; 2; 5(E); 769; Bajo; 4 Hora(s); Estafa
+6263159497; Michael Cesar Paredes Sanchez; 51; 34; 15/12/1993; 15/12/2027; 3; 5(E); 770; Bajo; 4 Hora(s); Estafa
+3064738024; Fabian Paulo Cevallos Hidalgo; 46; 8; 03/03/2017; 03/03/2025; 1; 5(E); 771; Bajo; 4 Hora(s); Estafa
+6728371495; Gonzalo Antonio Cevallos Roman; 31; 23; 19/10/2014; 19/10/2037; 13; 5(E); 772; Bajo; 4 Hora(s); Otros
+9724417835; Dario Angel Guerrero Sanchez; 47; 32; 31/07/1996; 31/07/2028; 4; 5(E); 773; Bajo; 4 Hora(s); Otros
+2809180538; Mario Diego Romero Reyes; 64; 48; 01/10/1982; 01/10/2030; 6; 5(E); 774; Bajo; 4 Hora(s); Estafa
+4383420028; Fabian Diego Perero Reyes; 32; 22; 31/10/2019; 31/10/2041; 17; 5(E); 775; Bajo; 4 Hora(s); Estafa
+1046222245; Carlos Antonio Garcia Reyes; 46; 11; 22/05/2014; 22/05/2025; 1; 5(E); 776; Bajo; 4 Hora(s); Otros
+4057022809; Victor Angel Paredes Sanchez; 64; 47; 02/10/1980; 02/10/2027; 3; 5(E); 777; Bajo; 4 Hora(s); Otros
+4094658991; Gonzalo Angel Guerrero Hidalgo; 41; 7; 11/11/2019; 11/11/2026; 2; 5(E); 778; Bajo; 4 Hora(s); Escandalo Publico
+2391067173; Roberto Cesar Cevallos Hidalgo; 40; 30; 28/06/2006; 28/06/2036; 12; 5(E); 779; Bajo; 4 Hora(s); Estafa
+1519566793; Mario Paulo Torres Gomez; 44; 27; 25/02/2000; 25/02/2027; 3; 5(E); 780; Bajo; 4 Hora(s); Otros
+3487955943; Victor Adrian Guerrero Morales; 59; 44; 02/07/1985; 02/07/2029; 5; 5(E); 781; Bajo; 4 Hora(s); Estafa
+9304621798; Roberto Julian Paredes Sanchez; 43; 12; 24/10/2014; 24/10/2026; 2; 5(E); 782; Bajo; 4 Hora(s); Otros
+7531894230; Mario Antonio Gonzales Sanchez; 38; 21; 17/05/2007; 17/05/2028; 4; 5(E); 783; Bajo; 4 Hora(s); Estafa
+7818967600; Gonzalo Diego Cevallos Espinosa; 53; 37; 20/03/1990; 20/03/2027; 3; 5(E); 784; Bajo; 4 Hora(s); Escandalo Publico
+5090068834; Mario Antonio Garcia Sanchez; 42; 24; 20/11/2004; 20/11/2028; 4; 5(E); 785; Bajo; 4 Hora(s); Escandalo Publico
+3468449236; Victor Diego Cuenca Sanchez; 44; 24; 18/08/2002; 18/08/2026; 2; 5(E); 786; Bajo; 4 Hora(s); Estafa
+2629573504; Roberto Sergio Perero Sanchez; 49; 33; 15/10/1997; 15/10/2030; 6; 5(E); 787; Bajo; 4 Hora(s); Escandalo Publico
+6356872953; Roberto Cesar Perero Rivera; 30; 16; 16/03/2013; 16/03/2029; 5; 5(E); 788; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+2398572279; Dario Diego Romero Roman; 58; 43; 04/03/1986; 04/03/2029; 5; 5(E); 789; Bajo; 4 Hora(s); Escandalo Publico
+6725165863; Gonzalo Julian Gonzales Gomez; 48; 23; 15/11/2002; 15/11/2025; 1; 5(E); 790; Bajo; 4 Hora(s); Estafa
+1745718010; Mario Adrian Paredes Espinosa; 39; 23; 09/08/2017; 09/08/2040; 16; 5(E); 791; Bajo; 4 Hora(s); Otros
+1554870753; Gonzalo Julian Paredes Roman; 42; 21; 13/08/2004; 13/08/2025; 1; 5(E); 792; Bajo; 4 Hora(s); Escandalo Publico
+9662255955; Roberto Paulo Paredes Ramirez; 48; 33; 06/09/1995; 06/09/2028; 4; 5(E); 793; Bajo; 4 Hora(s); Escandalo Publico
+3765162655; Roberto Paulo Cevallos Sanchez; 66; 48; 17/11/1980; 17/11/2028; 4; 5(E); 794; Bajo; 4 Hora(s); Estafa
+9072729201; Fabian Antonio Paredes Sanchez; 24; 10; 31/05/2019; 31/05/2029; 5; 5(E); 795; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+3187638533; Dario Antonio Cevallos Reyes; 35; 14; 06/11/2012; 06/11/2026; 2; 5(E); 796; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+1494065728; Mario Antonio Gonzales Espinosa; 50; 34; 28/07/1995; 28/07/2029; 5; 5(E); 797; Bajo; 4 Hora(s); Otros
+4923180574; Roberto Julian Paredes Sanchez; 34; 11; 05/08/2016; 05/08/2027; 3; 5(E); 798; Bajo; 4 Hora(s); Otros
+8262515393; Pedro Pablo Paredes Rivera; 38; 21; 20/02/2008; 20/02/2029; 5; 5(E); 799; Bajo; 4 Hora(s); Escandalo Publico
+6159881682; Gonzalo Antonio Cuenca Sanchez; 40; 26; 10/04/2003; 10/04/2029; 5; 5(E); 799; Bajo; 4 Hora(s); Otros

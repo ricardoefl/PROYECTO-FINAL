@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.util.Random;
 public class presentar_data {
     public static void main(String[] args) {
-        int filas = 32;
+        int filas = 800;
         int columnas = 12;
         String [][]principal = new String [filas][columnas];
         generarCedulas(principal, filas);//0
@@ -29,7 +29,7 @@ public class presentar_data {
     public static void guardarEnCSV(String[][] principal, int filas, String nombreArchivo) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(nombreArchivo))) {
             // Escribir encabezados
-            writer.write("Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes; Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            writer.write("Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
 
             // Escribir datos
             for (int i = 0; i < filas; i++) {
@@ -78,7 +78,7 @@ public class presentar_data {
         int resto = 0;
         Random rand = new Random();
         for (int i = 0; i < filas; i++) {
-            edad = rand.nextInt(60- 18 + 1) + 18;
+            edad = rand.nextInt(50- 18 + 1) + 18;
             anioIngresoAux = principal[i][4].substring(6);
             anioIngreso = Integer.valueOf(anioIngresoAux);
             resto = anioActual - anioIngreso;
@@ -159,48 +159,53 @@ public class presentar_data {
     }
     
     public static void generarClasificacion(String principal[][], int filas){//Generar la clasificacion segun sus delitos
-        Random rand = new Random();
-        int indAleatorio = 0;
-        String clasificacion[]={"A", "M", "B"};
-        for (int i = 0; i < filas; i++) {
-            indAleatorio = rand.nextInt(Integer.valueOf(clasificacion.length-1)- 0 + 1) + 0;
-            principal[i][9] = clasificacion[indAleatorio];
+            for (int i = 0; i < filas; i++) {
+            if((i>=0)&&(i<80))
+                principal[i][9] = "Alto";
+            else if((i>=80)&&(i<440))
+                principal[i][9] = "Medio";
+            else if((i>=440)&&(i<=799))
+                principal[i][9] = "Bajo";
         }
     }
     
     public static void generarPabellon(String principal[][], int filas){//Generar su respectivo pabellon
         String medianaPeligrosidad[] = {"2(B)","3(C)"};
         String bajaPeligrosidad[] = {"4(D)","5(E)"};
-        int indAleatorio = 0;
         for (int i = 0; i < filas; i++) {
-            if(principal[i][9].equals("A"))
+            if((i>=0)&&(i<80)&&(principal[i][9].equals("Alto")))
                 principal[i][7] = "1(A)";
-            else if (principal[i][9].equals("M")){
-                indAleatorio = (int) (Math.random() * medianaPeligrosidad.length-1) + 1;
-                principal[i][7] = medianaPeligrosidad[indAleatorio];
-            }else if (principal[i][9].equals("B")){
-                indAleatorio = (int) (Math.random() * bajaPeligrosidad.length-1) + 1;
-                principal[i][7] = bajaPeligrosidad[indAleatorio];
-            }
+            else if((i>=80)&&(i<260)&&(principal[i][9].equals("Medio")))
+                principal[i][7] = "2(B)";
+            else if((i>=260)&&(i<440)&&(principal[i][9].equals("Medio")))
+                principal[i][7] = "3(C)";
+            else if((i>=440)&&(i<620)&&(principal[i][9].equals("Bajo")))
+                principal[i][7] = "4(D)";
+            else if((i>=620)&&(i<=799)&&(principal[i][9].equals("Bajo")))
+                principal[i][7] = "5(E)";
         }
     }
     
     public static void generarCelda(String principal[][], int filas){//Generar su respectiva celda - en funcion al pabellon
-        int aleatorio = 0;
-        for (int i = 0; i < filas; i++) {
-            aleatorio = (int) (Math.random() * 90) + 1;
-            principal[i][8] = String.valueOf(aleatorio);
+        try {
+            for (int i = 0; i < 40; i++) {
+            principal[i][8] = "A"+String.valueOf(i);
+            if(i == 39)
+                i=0;
         }
+        } catch (Exception e) {
+        }
+        
     }
     
     public static void generarVisita(String principal[][], int filas){//Generar las horas de visita a la semana
         int horas = 0;
         for (int i = 0; i < filas; i++) {
-            if(principal[i][9].equals("A"))//Las horas van de acuerdo a la clasificacion
+            if(principal[i][9].equals("Alto"))//Las horas van de acuerdo a la clasificacion
                 horas = 1;
-            else if(principal[i][9].equals("M"))
+            else if(principal[i][9].equals("Medio"))
                 horas = 2;
-            else if(principal[i][9].equals("B"))
+            else if(principal[i][9].equals("Bajo"))
                 horas = 4;
             principal[i][10] = String.valueOf(horas) + " Hora(s)";
         }
@@ -208,18 +213,19 @@ public class presentar_data {
     
     public static void generardelitos(String principal[][], int filas){//Generar el delito cometido
         int indAleatorio = 0;
+        Random rand = new Random();
         String delitosA[]={"Narcotrafico", "Homicidio"};
         String delitosM[]={"Robo", "Hurto", "Fraude", "Evacion de Impuestos"};
         String delitosB[]={"Invacion de Propiedad Privada", "Escandalo Publico", "Estafa", "Otros"};
         for (int i = 0; i < filas; i++) {
-            if(principal[i][9].equals("A")){
-                indAleatorio = (int) (Math.random() * delitosA.length-1) + 0;
+            if(principal[i][9].equals("Alto")){
+                indAleatorio = rand.nextInt((delitosA.length-1)- 0 + 1) + 0;
                 principal[i][11] = delitosA[indAleatorio];
-            }else if(principal[i][9].equals("M")){
-                indAleatorio = (int) (Math.random() * delitosM.length-1) + 0;
+            }else if(principal[i][9].equals("Medio")){
+                indAleatorio = rand.nextInt((delitosM.length-1)- 0 + 1) + 0;
                 principal[i][11] = delitosM[indAleatorio];
-            }else if(principal[i][9].equals("B")){
-                indAleatorio = (int) (Math.random() * delitosB.length-1) + 0;
+            }else if(principal[i][9].equals("Bajo")){
+                indAleatorio = rand.nextInt((delitosB.length-1)- 0 + 1) + 0;
                 principal[i][11] = delitosB[indAleatorio];
             }
         }
