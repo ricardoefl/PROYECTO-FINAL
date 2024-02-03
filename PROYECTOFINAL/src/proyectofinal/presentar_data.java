@@ -8,20 +8,21 @@ import java.util.Random;
 public class presentar_data {
     public static void main(String[] args) {
         int filas = 800;
-        int columnas = 12;
+        int columnas = 13;
         String [][]principal = new String [filas][columnas];
-        generarCedulas(principal, filas);//0
-        generarNombresPPL(principal, filas);//1
-        generarClasificacion(principal, filas);//9
-        generarFechasIngreso(principal, filas);//4
-        generaredades(principal, filas);//2
-        generarPenas(principal, filas);//3
-        generarFechasSalida(principal, filas);//5
-        generarAniosRestantes(principal, filas);//6
-        generarPabellon(principal, filas);//7
-        generarCelda(principal, filas);//8
-        generarVisita(principal, filas);//10
-        generardelitos(principal, filas);//11
+        generarNumeracion(principal, filas);//0
+        generarCedulas(principal, filas);//1
+        generarNombresPPL(principal, filas);//2
+        generarClasificacion(principal, filas);//10
+        generarFechasIngreso(principal, filas);//5
+        generaredades(principal, filas);//3
+        generarPenas(principal, filas);//4
+        generarFechasSalida(principal, filas);//6
+        generarAniosRestantes(principal, filas);//7
+        generarPabellon(principal, filas);//8
+        generarCelda(principal, filas);//9
+        generarVisita(principal, filas);//11
+        generardelitos(principal, filas);//12
         guardarEnCSV(principal, filas, "datosCarcel.csv");
     }
     
@@ -29,18 +30,24 @@ public class presentar_data {
     public static void guardarEnCSV(String[][] principal, int filas, String nombreArchivo) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(nombreArchivo))) {
             // Escribir encabezados
-            writer.write("Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            writer.write("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
 
             // Escribir datos
             for (int i = 0; i < filas; i++) {
-                writer.write(String.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",
+                writer.write(String.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",
                         principal[i][0], principal[i][1], principal[i][2], principal[i][3], principal[i][4], principal[i][5],
-                        principal[i][6], principal[i][7], principal[i][8], principal[i][9], principal[i][10], principal[i][11]));
+                        principal[i][6], principal[i][7], principal[i][8], principal[i][9], principal[i][10], principal[i][11], principal[i][12]));
             }
 
             System.out.println("Datos guardados correctamente en " + nombreArchivo);
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+    
+    public static void generarNumeracion(String principal[][], int filas){
+        for (int i = 0; i < filas; i++) {
+            principal[i][0] = "PPL "+String.valueOf(i+1);
         }
     }
     
@@ -50,7 +57,7 @@ public class presentar_data {
         for (int i = 0; i < principal.length; i++) {
             x1 = (int) (Math.random() * 90102-1) + 10190;
             x2 = (int) (Math.random() * 90102-1) + 10190;
-            principal[i][0] =  String.valueOf(x1) + String.valueOf(x2);
+            principal[i][1] =  String.valueOf(x1) + String.valueOf(x2);
         }
     }
     
@@ -64,7 +71,7 @@ public class presentar_data {
             int indAleatorioNomb2 = (int) (Math.random() * nomPersonas2.length-1) + 0;
             int indAleatorioApe1 = (int) (Math.random() * apePersonas1.length-1) + 0;
             int indAleatorioApe2 = (int) (Math.random() * apePersonas1.length-1) + 0;
-            principal[i][1] = nomPersonas1[indAleatorioNomb1] + " " + nomPersonas2[indAleatorioNomb2] + " " + apePersonas1[indAleatorioApe1] + " " + apePersonas2[indAleatorioApe2];
+            principal[i][2] = nomPersonas1[indAleatorioNomb1] + " " + nomPersonas2[indAleatorioNomb2] + " " + apePersonas1[indAleatorioApe1] + " " + apePersonas2[indAleatorioApe2];
         }
     }
     
@@ -79,12 +86,12 @@ public class presentar_data {
         Random rand = new Random();
         for (int i = 0; i < filas; i++) {
             edad = rand.nextInt(50- 18 + 1) + 18;
-            anioIngresoAux = principal[i][4].substring(6);
+            anioIngresoAux = principal[i][5].substring(6);
             anioIngreso = Integer.valueOf(anioIngresoAux);
             resto = anioActual - anioIngreso;
             if(edad <= (resto+18))
                 edad = (resto+18) + (int) (Math.random() * 5-1) + 1;
-            principal[i][2] = String.valueOf(edad);
+            principal[i][3] = String.valueOf(edad);
         }
     }
     
@@ -97,13 +104,13 @@ public class presentar_data {
         int AnioActual = fechaActual.getYear();
         for (int i = 0; i < filas; i++) {
             pena = (int) (Math.random() * 30) + 1;//Pena maxima en Ecuador es 50 años
-            AnioIngresoaux = principal[i][4].substring(6);//String
+            AnioIngresoaux = principal[i][5].substring(6);//String
             AnioIngreso = Integer.valueOf(AnioIngresoaux);//Entero
             resto = AnioActual - AnioIngreso;
             if(pena <= resto)//Nunca van a salir penas incoherentes 
                 pena = resto + (int) (Math.random() * 5) + 2;
             
-            principal[i][3] = String.valueOf(pena);
+            principal[i][4] = String.valueOf(pena);
         }
     }
     
@@ -119,13 +126,13 @@ public class presentar_data {
             mes = (int) (Math.random() * 12) + 1;
             anio = rand.nextInt(Integer.valueOf(anioActual)- 1985 + 1) + 1980;
             if((dia < 10)&&(mes < 10))
-                principal[i][4] = "0" + String.valueOf(dia) + "/0" + String.valueOf(mes) + "/" + String.valueOf(anio);
+                principal[i][5] = "0" + String.valueOf(dia) + "/0" + String.valueOf(mes) + "/" + String.valueOf(anio);
             else if(dia < 10)
-                principal[i][4] = "0" + String.valueOf(dia) + "/" + String.valueOf(mes) + "/" + String.valueOf(anio);
+                principal[i][5] = "0" + String.valueOf(dia) + "/" + String.valueOf(mes) + "/" + String.valueOf(anio);
             else if(mes < 10)
-                principal[i][4] = String.valueOf(dia) + "/0" + String.valueOf(mes) + "/" + String.valueOf(anio);
+                principal[i][5] = String.valueOf(dia) + "/0" + String.valueOf(mes) + "/" + String.valueOf(anio);
             else
-                principal[i][4] = String.valueOf(dia) + "/" + String.valueOf(mes) + "/" + String.valueOf(anio);
+                principal[i][5] = String.valueOf(dia) + "/" + String.valueOf(mes) + "/" + String.valueOf(anio);
         }
     }
     
@@ -136,12 +143,12 @@ public class presentar_data {
         String pena = null;
         int anioSalida = 0;
         for (int i = 0; i < filas; i++) {
-            dia = principal[i][4].substring(0, 2);
-            mes = principal[i][4].substring(3, 5);
-            anioIngreso = principal[i][4].substring(6);
-            pena = principal[i][3].substring(0);
+            dia = principal[i][5].substring(0, 2);
+            mes = principal[i][5].substring(3, 5);
+            anioIngreso = principal[i][5].substring(6);
+            pena = principal[i][4].substring(0);
             anioSalida = Integer.valueOf(anioIngreso)+Integer.valueOf(pena);
-            principal[i][5] = dia + "/" + mes + "/" + String.valueOf(anioSalida);
+            principal[i][6] = dia + "/" + mes + "/" + String.valueOf(anioSalida);
         }
     }
     
@@ -152,20 +159,20 @@ public class presentar_data {
         anioActual = fechaActual.getYear();
         int aniosRestantes = 0;
         for (int i = 0; i < filas; i++) {
-            aniosalida = principal[i][5].substring(6);
+            aniosalida = principal[i][6].substring(6);
             aniosRestantes = Integer.valueOf(aniosalida) - anioActual;
-            principal[i][6] = String.valueOf(aniosRestantes);
+            principal[i][7] = String.valueOf(aniosRestantes);
         }
     }
     
     public static void generarClasificacion(String principal[][], int filas){//Generar la clasificacion segun sus delitos
             for (int i = 0; i < filas; i++) {
             if((i>=0)&&(i<80))
-                principal[i][9] = "Alto";
+                principal[i][10] = "Alto";
             else if((i>=80)&&(i<440))
-                principal[i][9] = "Medio";
+                principal[i][10] = "Medio";
             else if((i>=440)&&(i<=799))
-                principal[i][9] = "Bajo";
+                principal[i][10] = "Bajo";
         }
     }
     
@@ -173,41 +180,82 @@ public class presentar_data {
         String medianaPeligrosidad[] = {"2(B)","3(C)"};
         String bajaPeligrosidad[] = {"4(D)","5(E)"};
         for (int i = 0; i < filas; i++) {
-            if((i>=0)&&(i<80)&&(principal[i][9].equals("Alto")))
-                principal[i][7] = "1(A)";
-            else if((i>=80)&&(i<260)&&(principal[i][9].equals("Medio")))
-                principal[i][7] = "2(B)";
-            else if((i>=260)&&(i<440)&&(principal[i][9].equals("Medio")))
-                principal[i][7] = "3(C)";
-            else if((i>=440)&&(i<620)&&(principal[i][9].equals("Bajo")))
-                principal[i][7] = "4(D)";
-            else if((i>=620)&&(i<=799)&&(principal[i][9].equals("Bajo")))
-                principal[i][7] = "5(E)";
+            if((i>=0)&&(i<80)&&(principal[i][10].equals("Alto")))
+                principal[i][8] = "1(A)";
+            else if((i>=80)&&(i<260)&&(principal[i][10].equals("Medio")))
+                principal[i][8] = "2(B)";
+            else if((i>=260)&&(i<440)&&(principal[i][10].equals("Medio")))
+                principal[i][8] = "3(C)";
+            else if((i>=440)&&(i<620)&&(principal[i][10].equals("Bajo")))
+                principal[i][8] = "4(D)";
+            else if((i>=620)&&(i<=799)&&(principal[i][10].equals("Bajo")))
+                principal[i][8] = "5(E)";
         }
     }
     
     public static void generarCelda(String principal[][], int filas){//Generar su respectiva celda - en funcion al pabellon
-        try {
-            for (int i = 0; i < 40; i++) {
-            principal[i][8] = "A"+String.valueOf(i);
-            if(i == 39)
-                i=0;
+        int cont = 0;//Hay varios ciclos porque las celdas tienen nombre diferente por cada pabellon.
+        for (int i = 0; i < 40; i++) {
+            principal[i][9] = "A"+String.valueOf(cont+1);
+            cont++;
         }
-        } catch (Exception e) {
+        cont = 0;
+        for (int i = 40; i < 80; i++) {
+            principal[i][9] = "A"+String.valueOf(cont+1);
+            cont++;
         }
-        
+        cont = 0;
+        for (int i = 80; i < 170; i++) {
+            principal[i][9] = "B"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 170; i < 260; i++) {
+            principal[i][9] = "B"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 260; i < 350; i++) {
+            principal[i][9] = "C"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 350; i < 440; i++) {
+            principal[i][9] = "C"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 440; i < 530; i++) {
+            principal[i][9] = "D"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 530; i < 620; i++) {
+            principal[i][9] = "D"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 620; i < 710; i++) {
+            principal[i][9] = "E"+String.valueOf(cont+1);
+            cont++;
+        }
+        cont = 0;
+        for (int i = 710; i <= 799; i++) {
+            principal[i][9] = "E"+String.valueOf(cont+1);
+            cont++;
+        }
     }
     
     public static void generarVisita(String principal[][], int filas){//Generar las horas de visita a la semana
         int horas = 0;
         for (int i = 0; i < filas; i++) {
-            if(principal[i][9].equals("Alto"))//Las horas van de acuerdo a la clasificacion
+            if(principal[i][10].equals("Alto"))//Las horas van de acuerdo a la clasificacion
                 horas = 1;
-            else if(principal[i][9].equals("Medio"))
+            else if(principal[i][10].equals("Medio"))
                 horas = 2;
-            else if(principal[i][9].equals("Bajo"))
+            else if(principal[i][10].equals("Bajo"))
                 horas = 4;
-            principal[i][10] = String.valueOf(horas) + " Hora(s)";
+            principal[i][11] = String.valueOf(horas) + " Hora(s)";
         }
     }
     
@@ -218,15 +266,15 @@ public class presentar_data {
         String delitosM[]={"Robo", "Hurto", "Fraude", "Evacion de Impuestos"};
         String delitosB[]={"Invacion de Propiedad Privada", "Escandalo Publico", "Estafa", "Otros"};
         for (int i = 0; i < filas; i++) {
-            if(principal[i][9].equals("Alto")){
+            if(principal[i][10].equals("Alto")){
                 indAleatorio = rand.nextInt((delitosA.length-1)- 0 + 1) + 0;
-                principal[i][11] = delitosA[indAleatorio];
-            }else if(principal[i][9].equals("Medio")){
+                principal[i][12] = delitosA[indAleatorio];
+            }else if(principal[i][10].equals("Medio")){
                 indAleatorio = rand.nextInt((delitosM.length-1)- 0 + 1) + 0;
-                principal[i][11] = delitosM[indAleatorio];
-            }else if(principal[i][9].equals("Bajo")){
+                principal[i][12] = delitosM[indAleatorio];
+            }else if(principal[i][10].equals("Bajo")){
                 indAleatorio = rand.nextInt((delitosB.length-1)- 0 + 1) + 0;
-                principal[i][11] = delitosB[indAleatorio];
+                principal[i][12] = delitosB[indAleatorio];
             }
         }
     }
