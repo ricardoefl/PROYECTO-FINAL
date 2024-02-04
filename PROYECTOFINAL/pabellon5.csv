@@ -1,0 +1,180 @@
+#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito
+PPL 621; 9461261145; Michael Diego Cuenca Sanchez; 49; 21; 19/11/2007; 19/11/2028; 4; 5(E); E1; Bajo; 4 Hora(s); Otros
+PPL 622; 7650935977; Roberto Angel Perero Ramirez; 42; 28; 14/01/2002; 14/01/2030; 6; 5(E); E2; Bajo; 4 Hora(s); Escandalo Publico
+PPL 623; 1415726030; Dario Adrian Romero Sanchez; 45; 24; 21/10/2023; 21/10/2047; 23; 5(E); E3; Bajo; 4 Hora(s); Estafa
+PPL 624; 2436926441; Victor Angel Torres Morales; 37; 21; 01/04/2008; 01/04/2029; 5; 5(E); E4; Bajo; 4 Hora(s); Escandalo Publico
+PPL 625; 3794144966; Mario Angel Perero Hidalgo; 49; 35; 13/01/1994; 13/01/2029; 5; 5(E); E5; Bajo; 4 Hora(s); Estafa
+PPL 626; 1762634819; Roberto Cesar Paredes Gomez; 45; 29; 11/02/2002; 11/02/2031; 7; 5(E); E6; Bajo; 4 Hora(s); Escandalo Publico
+PPL 627; 3738875644; Victor Angel Cevallos Hidalgo; 64; 49; 13/10/1981; 13/10/2030; 6; 5(E); E7; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 628; 3575162131; Fabian Diego Gonzales Reyes; 31; 16; 28/09/2012; 28/09/2028; 4; 5(E); E8; Bajo; 4 Hora(s); Escandalo Publico
+PPL 629; 4691284853; Carlos Diego Guerrero Sanchez; 42; 25; 05/11/2001; 05/11/2026; 2; 5(E); E9; Bajo; 4 Hora(s); Otros
+PPL 630; 2644080259; Pedro Julian Paredes Rivera; 44; 14; 09/02/2014; 09/02/2028; 4; 5(E); E10; Bajo; 4 Hora(s); Escandalo Publico
+PPL 631; 5933094237; Mario Antonio Gonzales Sanchez; 48; 31; 11/12/1998; 11/12/2029; 5; 5(E); E11; Bajo; 4 Hora(s); Estafa
+PPL 632; 5442723457; Pedro Cesar Romero Morales; 37; 20; 17/10/2006; 17/10/2026; 2; 5(E); E12; Bajo; 4 Hora(s); Otros
+PPL 633; 4275216543; Roberto Paulo Gonzales Sanchez; 47; 22; 29/06/2005; 29/06/2027; 3; 5(E); E13; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 634; 9456424022; Gonzalo Pablo Perero Rivera; 64; 47; 12/03/1982; 12/03/2029; 5; 5(E); E14; Bajo; 4 Hora(s); Estafa
+PPL 635; 8890996261; Roberto Pablo Torres Reyes; 22; 29; 18/05/2021; 18/05/2050; 26; 5(E); E15; Bajo; 4 Hora(s); Estafa
+PPL 636; 6094263817; Pedro Sergio Guerrero Sanchez; 60; 40; 04/01/1986; 04/01/2026; 2; 5(E); E16; Bajo; 4 Hora(s); Estafa
+PPL 637; 6940448007; Roberto Adrian Garcia Reyes; 57; 38; 28/02/1989; 28/02/2027; 3; 5(E); E17; Bajo; 4 Hora(s); Estafa
+PPL 638; 4164655616; Gonzalo Pablo Romero Morales; 41; 25; 31/01/2003; 31/01/2028; 4; 5(E); E18; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 639; 1087462054; Dario Sergio Cuenca Rivera; 37; 19; 18/10/2008; 18/10/2027; 3; 5(E); E19; Bajo; 4 Hora(s); Escandalo Publico
+PPL 640; 6680359727; Roberto Adrian Romero Sanchez; 42; 11; 24/05/2015; 24/05/2026; 2; 5(E); E20; Bajo; 4 Hora(s); Escandalo Publico
+PPL 641; 2512276903; Victor Antonio Perero Gomez; 59; 44; 07/12/1986; 07/12/2030; 6; 5(E); E21; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 642; 5829726764; Pedro Antonio Torres Gomez; 52; 34; 29/03/1994; 29/03/2028; 4; 5(E); E22; Bajo; 4 Hora(s); Estafa
+PPL 643; 6491661885; Dario Julian Perero Sanchez; 50; 36; 19/03/1993; 19/03/2029; 5; 5(E); E23; Bajo; 4 Hora(s); Escandalo Publico
+PPL 644; 1825037885; Michael Paulo Cuenca Ramirez; 46; 28; 31/04/2014; 31/04/2042; 18; 5(E); E24; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 645; 6492082096; Michael Paulo Gonzales Morales; 32; 13; 09/10/2014; 09/10/2027; 3; 5(E); E25; Bajo; 4 Hora(s); Estafa
+PPL 646; 8271182976; Roberto Angel Romero Rivera; 24; 11; 16/07/2024; 16/07/2035; 11; 5(E); E26; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 647; 7974140756; Gonzalo Antonio Cevallos Hidalgo; 42; 25; 13/08/2002; 13/08/2027; 3; 5(E); E27; Bajo; 4 Hora(s); Escandalo Publico
+PPL 648; 6704193437; Mario Sergio Gonzales Roman; 41; 27; 11/03/2004; 11/03/2031; 7; 5(E); E28; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 649; 10024174742; Fabian Julian Torres Roman; 28; 12; 05/10/2015; 05/10/2027; 3; 5(E); E29; Bajo; 4 Hora(s); Estafa
+PPL 650; 9213212194; Dario Adrian Romero Sanchez; 59; 40; 05/08/1986; 05/08/2026; 2; 5(E); E30; Bajo; 4 Hora(s); Estafa
+PPL 651; 4441713292; Victor Cesar Cuenca Sanchez; 33; 14; 26/08/2012; 26/08/2026; 2; 5(E); E31; Bajo; 4 Hora(s); Otros
+PPL 652; 5697813781; Carlos Diego Paredes Morales; 38; 3; 15/12/2022; 15/12/2025; 1; 5(E); E32; Bajo; 4 Hora(s); Escandalo Publico
+PPL 653; 8843599224; Fabian Julian Torres Roman; 36; 29; 31/06/2019; 31/06/2048; 24; 5(E); E33; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 654; 7904958956; Victor Sergio Torres Morales; 62; 48; 07/02/1981; 07/02/2029; 5; 5(E); E34; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 655; 2667089031; Fabian Paulo Paredes Espinosa; 50; 23; 10/12/2002; 10/12/2025; 1; 5(E); E35; Bajo; 4 Hora(s); Escandalo Publico
+PPL 656; 7081916124; Michael Antonio Garcia Morales; 36; 25; 05/06/2021; 05/06/2046; 22; 5(E); E36; Bajo; 4 Hora(s); Escandalo Publico
+PPL 657; 3398175938; Gonzalo Paulo Cuenca Gomez; 56; 41; 05/08/1989; 05/08/2030; 6; 5(E); E37; Bajo; 4 Hora(s); Estafa
+PPL 658; 3629028346; Pedro Antonio Gonzales Rivera; 38; 28; 13/12/2008; 13/12/2036; 12; 5(E); E38; Bajo; 4 Hora(s); Estafa
+PPL 659; 8326041271; Victor Antonio Cevallos Sanchez; 45; 29; 12/07/2000; 12/07/2029; 5; 5(E); E39; Bajo; 4 Hora(s); Estafa
+PPL 660; 3032565009; Fabian Cesar Paredes Sanchez; 54; 36; 14/12/1990; 14/12/2026; 2; 5(E); E40; Bajo; 4 Hora(s); Estafa
+PPL 661; 8756721243; Dario Antonio Romero Reyes; 49; 29; 16/10/1997; 16/10/2026; 2; 5(E); E41; Bajo; 4 Hora(s); Escandalo Publico
+PPL 662; 2738413857; Gonzalo Paulo Torres Sanchez; 28; 12; 27/04/2017; 27/04/2029; 5; 5(E); E42; Bajo; 4 Hora(s); Otros
+PPL 663; 1919947296; Michael Adrian Gonzales Sanchez; 25; 8; 13/12/2024; 13/12/2032; 8; 5(E); E43; Bajo; 4 Hora(s); Escandalo Publico
+PPL 664; 5892633981; Mario Diego Perero Sanchez; 62; 49; 06/05/1981; 06/05/2030; 6; 5(E); E44; Bajo; 4 Hora(s); Estafa
+PPL 665; 7041931128; Michael Antonio Cevallos Reyes; 48; 31; 20/05/1998; 20/05/2029; 5; 5(E); E45; Bajo; 4 Hora(s); Estafa
+PPL 666; 8067868970; Victor Sergio Garcia Ramirez; 61; 44; 24/04/1982; 24/04/2026; 2; 5(E); E46; Bajo; 4 Hora(s); Otros
+PPL 667; 4641015525; Victor Angel Paredes Morales; 29; 16; 26/02/2014; 26/02/2030; 6; 5(E); E47; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 668; 9533224716; Dario Julian Perero Sanchez; 38; 18; 17/09/2022; 17/09/2040; 16; 5(E); E48; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 669; 2635968357; Pedro Cesar Romero Morales; 24; 23; 12/10/2024; 12/10/2047; 23; 5(E); E49; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 670; 2865039204; Roberto Antonio Cevallos Reyes; 38; 4; 30/03/2023; 30/03/2027; 3; 5(E); E50; Bajo; 4 Hora(s); Escandalo Publico
+PPL 671; 8117973477; Mario Pablo Perero Espinosa; 59; 42; 28/12/1985; 28/12/2027; 3; 5(E); E51; Bajo; 4 Hora(s); Otros
+PPL 672; 6210589369; Pedro Cesar Romero Sanchez; 45; 29; 05/06/1998; 05/06/2027; 3; 5(E); E52; Bajo; 4 Hora(s); Otros
+PPL 673; 9283365897; Mario Adrian Romero Gomez; 54; 40; 28/09/1989; 28/09/2029; 5; 5(E); E53; Bajo; 4 Hora(s); Estafa
+PPL 674; 6706673047; Carlos Antonio Gonzales Gomez; 31; 25; 07/01/2012; 07/01/2037; 13; 5(E); E54; Bajo; 4 Hora(s); Otros
+PPL 675; 3749337565; Fabian Sergio Garcia Ramirez; 53; 37; 26/04/1992; 26/04/2029; 5; 5(E); E55; Bajo; 4 Hora(s); Escandalo Publico
+PPL 676; 2358766027; Carlos Angel Gonzales Espinosa; 57; 43; 06/11/1987; 06/11/2030; 6; 5(E); E56; Bajo; 4 Hora(s); Escandalo Publico
+PPL 677; 7698971049; Carlos Paulo Romero Sanchez; 32; 25; 22/02/2017; 22/02/2042; 18; 5(E); E57; Bajo; 4 Hora(s); Estafa
+PPL 678; 38030100202; Carlos Julian Cevallos Sanchez; 53; 35; 27/02/1993; 27/02/2028; 4; 5(E); E58; Bajo; 4 Hora(s); Otros
+PPL 679; 7198333146; Victor Antonio Cevallos Sanchez; 40; 26; 17/06/2004; 17/06/2030; 6; 5(E); E59; Bajo; 4 Hora(s); Escandalo Publico
+PPL 680; 6042079520; Pedro Adrian Paredes Rivera; 58; 42; 14/11/1986; 14/11/2028; 4; 5(E); E60; Bajo; 4 Hora(s); Estafa
+PPL 681; 4647787118; Carlos Diego Cevallos Sanchez; 42; 24; 28/10/2003; 28/10/2027; 3; 5(E); E61; Bajo; 4 Hora(s); Otros
+PPL 682; 5866811953; Fabian Pablo Cevallos Rivera; 50; 31; 29/04/1996; 29/04/2027; 3; 5(E); E62; Bajo; 4 Hora(s); Estafa
+PPL 683; 2904440790; Carlos Antonio Cuenca Roman; 38; 30; 15/12/2010; 15/12/2040; 16; 5(E); E63; Bajo; 4 Hora(s); Escandalo Publico
+PPL 684; 6091629763; Gonzalo Cesar Cevallos Reyes; 39; 19; 13/03/2008; 13/03/2027; 3; 5(E); E64; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 685; 2344412802; Roberto Cesar Paredes Sanchez; 36; 13; 20/04/2021; 20/04/2034; 10; 5(E); E65; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 686; 9402348449; Fabian Julian Gonzales Gomez; 39; 11; 09/01/2024; 09/01/2035; 11; 5(E); E66; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 687; 6027741633; Dario Julian Perero Ramirez; 56; 41; 19/06/1988; 19/06/2029; 5; 5(E); E67; Bajo; 4 Hora(s); Otros
+PPL 688; 1249016464; Gonzalo Diego Paredes Ramirez; 30; 18; 05/02/2013; 05/02/2031; 7; 5(E); E68; Bajo; 4 Hora(s); Escandalo Publico
+PPL 689; 4634811902; Carlos Antonio Paredes Morales; 43; 24; 22/09/2003; 22/09/2027; 3; 5(E); E69; Bajo; 4 Hora(s); Otros
+PPL 690; 5974719196; Victor Paulo Cevallos Morales; 51; 36; 03/07/1992; 03/07/2028; 4; 5(E); E70; Bajo; 4 Hora(s); Otros
+PPL 691; 9003124462; Victor Paulo Perero Morales; 52; 34; 21/01/1992; 21/01/2026; 2; 5(E); E71; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 692; 4732967429; Michael Angel Cuenca Sanchez; 52; 33; 17/12/1993; 17/12/2026; 2; 5(E); E72; Bajo; 4 Hora(s); Estafa
+PPL 693; 8464746646; Fabian Cesar Cevallos Hidalgo; 23; 22; 20/11/2021; 20/11/2043; 19; 5(E); E73; Bajo; 4 Hora(s); Estafa
+PPL 694; 8045360175; Gonzalo Julian Perero Roman; 52; 34; 19/11/1992; 19/11/2026; 2; 5(E); E74; Bajo; 4 Hora(s); Otros
+PPL 695; 5615140711; Carlos Diego Cevallos Roman; 43; 27; 11/04/2003; 11/04/2030; 6; 5(E); E75; Bajo; 4 Hora(s); Otros
+PPL 696; 5965583119; Roberto Angel Paredes Reyes; 57; 44; 21/01/1986; 21/01/2030; 6; 5(E); E76; Bajo; 4 Hora(s); Estafa
+PPL 697; 3479933508; Dario Pablo Paredes Ramirez; 63; 44; 25/06/1982; 25/06/2026; 2; 5(E); E77; Bajo; 4 Hora(s); Otros
+PPL 698; 1150167191; Carlos Antonio Perero Sanchez; 65; 46; 20/10/1980; 20/10/2026; 2; 5(E); E78; Bajo; 4 Hora(s); Escandalo Publico
+PPL 699; 8437965584; Victor Julian Guerrero Sanchez; 38; 23; 12/03/2010; 12/03/2033; 9; 5(E); E79; Bajo; 4 Hora(s); Estafa
+PPL 700; 8594731579; Pedro Paulo Paredes Sanchez; 38; 20; 02/04/2006; 02/04/2026; 2; 5(E); E80; Bajo; 4 Hora(s); Estafa
+PPL 701; 4852630572; Michael Angel Paredes Sanchez; 33; 13; 05/03/2016; 05/03/2029; 5; 5(E); E81; Bajo; 4 Hora(s); Estafa
+PPL 702; 5760013318; Carlos Paulo Guerrero Espinosa; 55; 40; 12/12/1989; 12/12/2029; 5; 5(E); E82; Bajo; 4 Hora(s); Otros
+PPL 703; 4771176732; Carlos Julian Torres Ramirez; 30; 23; 10/05/2024; 10/05/2047; 23; 5(E); E83; Bajo; 4 Hora(s); Escandalo Publico
+PPL 704; 4909290007; Michael Julian Cevallos Espinosa; 64; 45; 23/01/1981; 23/01/2026; 2; 5(E); E84; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 705; 2516268240; Pedro Pablo Cevallos Gomez; 61; 43; 01/01/1984; 01/01/2027; 3; 5(E); E85; Bajo; 4 Hora(s); Estafa
+PPL 706; 1919147025; Roberto Antonio Torres Morales; 47; 20; 29/12/2021; 29/12/2041; 17; 5(E); E86; Bajo; 4 Hora(s); Escandalo Publico
+PPL 707; 5687863645; Pedro Antonio Paredes Hidalgo; 46; 26; 16/06/2002; 16/06/2028; 4; 5(E); E87; Bajo; 4 Hora(s); Escandalo Publico
+PPL 708; 1279791351; Victor Antonio Romero Sanchez; 44; 28; 03/09/2001; 03/09/2029; 5; 5(E); E88; Bajo; 4 Hora(s); Estafa
+PPL 709; 9584968499; Victor Sergio Perero Sanchez; 53; 34; 25/10/1993; 25/10/2027; 3; 5(E); E89; Bajo; 4 Hora(s); Escandalo Publico
+PPL 710; 3618210940; Roberto Sergio Paredes Espinosa; 30; 11; 26/12/2014; 26/12/2025; 1; 5(E); E90; Bajo; 4 Hora(s); Otros
+PPL 711; 2674863848; Mario Diego Garcia Sanchez; 56; 38; 03/03/1990; 03/03/2028; 4; 5(E); E1; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 712; 4277589554; Mario Sergio Garcia Ramirez; 60; 42; 20/05/1986; 20/05/2028; 4; 5(E); E2; Bajo; 4 Hora(s); Estafa
+PPL 713; 7542250216; Dario Paulo Cuenca Roman; 49; 34; 11/07/1995; 11/07/2029; 5; 5(E); E3; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 714; 4464125963; Dario Antonio Cevallos Hidalgo; 43; 29; 01/11/2001; 01/11/2030; 6; 5(E); E4; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 715; 9009174191; Victor Julian Guerrero Morales; 60; 46; 06/09/1983; 06/09/2029; 5; 5(E); E5; Bajo; 4 Hora(s); Otros
+PPL 716; 5518195382; Mario Cesar Cevallos Morales; 60; 40; 09/02/1986; 09/02/2026; 2; 5(E); E6; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 717; 2509829498; Roberto Cesar Cuenca Gomez; 51; 35; 30/08/1993; 30/08/2028; 4; 5(E); E7; Bajo; 4 Hora(s); Otros
+PPL 718; 5014423677; Gonzalo Pablo Garcia Reyes; 62; 47; 16/04/1981; 16/04/2028; 4; 5(E); E8; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 719; 4855268489; Fabian Angel Perero Sanchez; 45; 25; 26/10/2005; 26/10/2030; 6; 5(E); E9; Bajo; 4 Hora(s); Otros
+PPL 720; 5528930599; Roberto Angel Romero Rivera; 46; 26; 20/06/1999; 20/06/2025; 1; 5(E); E10; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 721; 3698337841; Carlos Adrian Torres Rivera; 28; 22; 14/08/2015; 14/08/2037; 13; 5(E); E11; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 722; 10027997031; Michael Paulo Gonzales Reyes; 35; 20; 31/04/2018; 31/04/2038; 14; 5(E); E12; Bajo; 4 Hora(s); Otros
+PPL 723; 3772414856; Dario Paulo Garcia Morales; 64; 50; 09/07/1980; 09/07/2030; 6; 5(E); E13; Bajo; 4 Hora(s); Estafa
+PPL 724; 2060569786; Fabian Sergio Romero Ramirez; 41; 26; 29/06/2002; 29/06/2028; 4; 5(E); E14; Bajo; 4 Hora(s); Estafa
+PPL 725; 7700572568; Pedro Julian Paredes Morales; 38; 16; 08/05/2016; 08/05/2032; 8; 5(E); E15; Bajo; 4 Hora(s); Estafa
+PPL 726; 3270447815; Roberto Angel Gonzales Morales; 23; 6; 29/02/2024; 29/02/2030; 6; 5(E); E16; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 727; 1051378920; Dario Angel Garcia Reyes; 33; 9; 11/11/2023; 11/11/2032; 8; 5(E); E17; Bajo; 4 Hora(s); Otros
+PPL 728; 5667029896; Carlos Paulo Cevallos Espinosa; 23; 15; 14/02/2021; 14/02/2036; 12; 5(E); E18; Bajo; 4 Hora(s); Estafa
+PPL 729; 2460786923; Carlos Pablo Garcia Gomez; 50; 21; 26/11/2008; 26/11/2029; 5; 5(E); E19; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 730; 8875845932; Pedro Adrian Paredes Sanchez; 47; 30; 24/09/2008; 24/09/2038; 14; 5(E); E20; Bajo; 4 Hora(s); Otros
+PPL 731; 8053050319; Roberto Sergio Guerrero Hidalgo; 54; 40; 12/07/1989; 12/07/2029; 5; 5(E); E21; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 732; 3469194226; Gonzalo Sergio Perero Roman; 39; 21; 29/11/2006; 29/11/2027; 3; 5(E); E22; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 733; 7003159568; Dario Diego Garcia Morales; 62; 45; 29/10/1984; 29/10/2029; 5; 5(E); E23; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 734; 8132113131; Gonzalo Diego Paredes Morales; 45; 30; 12/10/2000; 12/10/2030; 6; 5(E); E24; Bajo; 4 Hora(s); Escandalo Publico
+PPL 735; 9556925739; Fabian Angel Paredes Roman; 59; 44; 23/09/1984; 23/09/2028; 4; 5(E); E25; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 736; 1501944216; Roberto Diego Perero Morales; 40; 23; 06/07/2004; 06/07/2027; 3; 5(E); E26; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 737; 3073525603; Carlos Angel Cuenca Hidalgo; 53; 37; 31/08/1991; 31/08/2028; 4; 5(E); E27; Bajo; 4 Hora(s); Estafa
+PPL 738; 5401651672; Victor Antonio Torres Ramirez; 48; 30; 04/06/1998; 04/06/2028; 4; 5(E); E28; Bajo; 4 Hora(s); Escandalo Publico
+PPL 739; 7744879413; Carlos Diego Guerrero Sanchez; 33; 15; 03/01/2011; 03/01/2026; 2; 5(E); E29; Bajo; 4 Hora(s); Estafa
+PPL 740; 7995651626; Fabian Paulo Romero Morales; 48; 11; 27/04/2017; 27/04/2028; 4; 5(E); E30; Bajo; 4 Hora(s); Escandalo Publico
+PPL 741; 4539963804; Pedro Diego Gonzales Gomez; 58; 39; 07/04/1987; 07/04/2026; 2; 5(E); E31; Bajo; 4 Hora(s); Escandalo Publico
+PPL 742; 7539626136; Gonzalo Paulo Garcia Hidalgo; 59; 44; 18/07/1984; 18/07/2028; 4; 5(E); E32; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 743; 3342398388; Roberto Antonio Garcia Sanchez; 48; 23; 25/11/2005; 25/11/2028; 4; 5(E); E33; Bajo; 4 Hora(s); Escandalo Publico
+PPL 744; 2393369343; Roberto Antonio Torres Espinosa; 41; 18; 03/06/2018; 03/06/2036; 12; 5(E); E34; Bajo; 4 Hora(s); Escandalo Publico
+PPL 745; 8076377147; Pedro Julian Gonzales Sanchez; 56; 41; 03/09/1988; 03/09/2029; 5; 5(E); E35; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 746; 7791233189; Pedro Pablo Guerrero Gomez; 30; 15; 11/12/2015; 11/12/2030; 6; 5(E); E36; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 747; 9968681370; Gonzalo Antonio Garcia Morales; 38; 21; 28/01/2006; 28/01/2027; 3; 5(E); E37; Bajo; 4 Hora(s); Escandalo Publico
+PPL 748; 9245117402; Mario Angel Cevallos Reyes; 37; 22; 16/10/2007; 16/10/2029; 5; 5(E); E38; Bajo; 4 Hora(s); Otros
+PPL 749; 3399537077; Roberto Angel Cevallos Ramirez; 43; 27; 02/06/2003; 02/06/2030; 6; 5(E); E39; Bajo; 4 Hora(s); Otros
+PPL 750; 4331092780; Roberto Angel Cuenca Ramirez; 54; 38; 21/02/1992; 21/02/2030; 6; 5(E); E40; Bajo; 4 Hora(s); Escandalo Publico
+PPL 751; 1773151173; Roberto Julian Perero Reyes; 60; 42; 01/06/1985; 01/06/2027; 3; 5(E); E41; Bajo; 4 Hora(s); Otros
+PPL 752; 19206100081; Roberto Antonio Romero Sanchez; 59; 44; 27/12/1985; 27/12/2029; 5; 5(E); E42; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 753; 7333233022; Roberto Adrian Perero Sanchez; 56; 41; 16/07/1987; 16/07/2028; 4; 5(E); E43; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 754; 4769029697; Roberto Antonio Cuenca Espinosa; 39; 30; 16/08/2012; 16/08/2042; 18; 5(E); E44; Bajo; 4 Hora(s); Otros
+PPL 755; 3034714722; Roberto Antonio Perero Gomez; 53; 35; 04/06/1992; 04/06/2027; 3; 5(E); E45; Bajo; 4 Hora(s); Escandalo Publico
+PPL 756; 3059571820; Pedro Diego Cevallos Hidalgo; 40; 30; 04/12/2009; 04/12/2039; 15; 5(E); E46; Bajo; 4 Hora(s); Otros
+PPL 757; 7138931770; Fabian Antonio Gonzales Ramirez; 23; 19; 08/07/2023; 08/07/2042; 18; 5(E); E47; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 758; 6239886472; Dario Cesar Cevallos Sanchez; 59; 46; 03/04/1984; 03/04/2030; 6; 5(E); E48; Bajo; 4 Hora(s); Otros
+PPL 759; 8065266716; Pedro Adrian Romero Gomez; 63; 50; 07/11/1980; 07/11/2030; 6; 5(E); E49; Bajo; 4 Hora(s); Escandalo Publico
+PPL 760; 3085376544; Michael Sergio Gonzales Rivera; 61; 45; 30/09/1984; 30/09/2029; 5; 5(E); E50; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 761; 7145884754; Roberto Cesar Paredes Roman; 44; 26; 05/01/2000; 05/01/2026; 2; 5(E); E51; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 762; 6015137945; Roberto Antonio Paredes Ramirez; 54; 38; 31/02/1990; 31/02/2028; 4; 5(E); E52; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 763; 7668534727; Fabian Antonio Cuenca Espinosa; 28; 18; 14/04/2018; 14/04/2036; 12; 5(E); E53; Bajo; 4 Hora(s); Escandalo Publico
+PPL 764; 5135231063; Gonzalo Angel Cuenca Sanchez; 47; 3; 24/03/2023; 24/03/2026; 2; 5(E); E54; Bajo; 4 Hora(s); Escandalo Publico
+PPL 765; 5553931915; Michael Antonio Gonzales Espinosa; 38; 13; 08/07/2022; 08/07/2035; 11; 5(E); E55; Bajo; 4 Hora(s); Escandalo Publico
+PPL 766; 9734096565; Roberto Adrian Cevallos Sanchez; 27; 6; 23/04/2021; 23/04/2027; 3; 5(E); E56; Bajo; 4 Hora(s); Escandalo Publico
+PPL 767; 4214568313; Roberto Paulo Paredes Espinosa; 30; 30; 19/01/2014; 19/01/2044; 20; 5(E); E57; Bajo; 4 Hora(s); Otros
+PPL 768; 2440341966; Roberto Paulo Torres Sanchez; 56; 42; 03/06/1987; 03/06/2029; 5; 5(E); E58; Bajo; 4 Hora(s); Escandalo Publico
+PPL 769; 9846825859; Michael Sergio Romero Hidalgo; 39; 24; 13/03/2005; 13/03/2029; 5; 5(E); E59; Bajo; 4 Hora(s); Escandalo Publico
+PPL 770; 6592272281; Gonzalo Pablo Cevallos Morales; 45; 16; 11/07/2012; 11/07/2028; 4; 5(E); E60; Bajo; 4 Hora(s); Escandalo Publico
+PPL 771; 7760783249; Victor Antonio Cuenca Roman; 43; 27; 28/01/2013; 28/01/2040; 16; 5(E); E61; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 772; 2789943056; Victor Adrian Torres Rivera; 53; 36; 12/07/1992; 12/07/2028; 4; 5(E); E62; Bajo; 4 Hora(s); Escandalo Publico
+PPL 773; 3282768985; Dario Antonio Paredes Sanchez; 45; 24; 10/09/2003; 10/09/2027; 3; 5(E); E63; Bajo; 4 Hora(s); Escandalo Publico
+PPL 774; 9231231042; Michael Sergio Torres Reyes; 37; 19; 22/08/2017; 22/08/2036; 12; 5(E); E64; Bajo; 4 Hora(s); Estafa
+PPL 775; 7906849109; Fabian Sergio Paredes Morales; 54; 40; 28/04/1989; 28/04/2029; 5; 5(E); E65; Bajo; 4 Hora(s); Otros
+PPL 776; 9731716481; Roberto Antonio Paredes Sanchez; 40; 30; 30/02/2004; 30/02/2034; 10; 5(E); E66; Bajo; 4 Hora(s); Estafa
+PPL 777; 2438622469; Roberto Antonio Cevallos Reyes; 61; 44; 01/08/1984; 01/08/2028; 4; 5(E); E67; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 778; 6034242034; Mario Julian Gonzales Sanchez; 48; 15; 15/02/2021; 15/02/2036; 12; 5(E); E68; Bajo; 4 Hora(s); Escandalo Publico
+PPL 779; 8421267473; Fabian Pablo Romero Sanchez; 63; 50; 26/04/1980; 26/04/2030; 6; 5(E); E69; Bajo; 4 Hora(s); Estafa
+PPL 780; 7565220768; Mario Antonio Cuenca Sanchez; 38; 20; 29/11/2005; 29/11/2025; 1; 5(E); E70; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 781; 5646536770; Carlos Diego Cevallos Roman; 37; 28; 07/03/2006; 07/03/2034; 10; 5(E); E71; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 782; 9164150176; Dario Sergio Paredes Roman; 63; 44; 24/03/1982; 24/03/2026; 2; 5(E); E72; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 783; 6699521507; Victor Pablo Paredes Ramirez; 54; 39; 17/11/1990; 17/11/2029; 5; 5(E); E73; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 784; 8446882436; Pedro Antonio Paredes Morales; 63; 47; 09/12/1980; 09/12/2027; 3; 5(E); E74; Bajo; 4 Hora(s); Estafa
+PPL 785; 3833324324; Michael Julian Paredes Sanchez; 49; 36; 18/09/1994; 18/09/2030; 6; 5(E); E75; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 786; 5505731901; Fabian Cesar Gonzales Gomez; 22; 15; 03/02/2023; 03/02/2038; 14; 5(E); E76; Bajo; 4 Hora(s); Estafa
+PPL 787; 9597641779; Pedro Cesar Garcia Sanchez; 57; 43; 26/12/1987; 26/12/2030; 6; 5(E); E77; Bajo; 4 Hora(s); Invacion de Propiedad Privada
+PPL 788; 5937130382; Victor Sergio Gonzales Hidalgo; 30; 22; 19/05/2015; 19/05/2037; 13; 5(E); E78; Bajo; 4 Hora(s); Estafa
+PPL 789; 2272161288; Michael Adrian Gonzales Roman; 44; 30; 18/10/1999; 18/10/2029; 5; 5(E); E79; Bajo; 4 Hora(s); Otros
+PPL 790; 7362074182; Fabian Sergio Garcia Ramirez; 50; 5; 12/02/2023; 12/02/2028; 4; 5(E); E80; Bajo; 4 Hora(s); Estafa
+PPL 791; 8244682372; Fabian Antonio Guerrero Ramirez; 59; 41; 03/06/1985; 03/06/2026; 2; 5(E); E81; Bajo; 4 Hora(s); Escandalo Publico
+PPL 792; 5935095561; Michael Julian Garcia Ramirez; 56; 37; 22/12/1990; 22/12/2027; 3; 5(E); E82; Bajo; 4 Hora(s); Estafa
+PPL 793; 4005223643; Michael Antonio Paredes Gomez; 37; 19; 26/12/2010; 26/12/2029; 5; 5(E); E83; Bajo; 4 Hora(s); Escandalo Publico
+PPL 794; 5561539251; Pedro Diego Cevallos Rivera; 28; 12; 15/05/2024; 15/05/2036; 12; 5(E); E84; Bajo; 4 Hora(s); Estafa
+PPL 795; 7885877431; Roberto Julian Torres Roman; 34; 23; 15/10/2013; 15/10/2036; 12; 5(E); E85; Bajo; 4 Hora(s); Escandalo Publico
+PPL 796; 1853157557; Roberto Pablo Torres Reyes; 49; 36; 23/02/1994; 23/02/2030; 6; 5(E); E86; Bajo; 4 Hora(s); Otros
+PPL 797; 7064629160; Roberto Cesar Guerrero Roman; 42; 25; 15/01/2002; 15/01/2027; 3; 5(E); E87; Bajo; 4 Hora(s); Escandalo Publico
+PPL 798; 8313131754; Pedro Diego Torres Rivera; 53; 38; 01/10/1992; 01/10/2030; 6; 5(E); E88; Bajo; 4 Hora(s); Otros
+PPL 799; 3823098464; Roberto Diego Paredes Hidalgo; 27; 22; 24/11/2016; 24/11/2038; 14; 5(E); E89; Bajo; 4 Hora(s); Estafa

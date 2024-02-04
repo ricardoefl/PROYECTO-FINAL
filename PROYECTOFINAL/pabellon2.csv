@@ -1,0 +1,181 @@
+#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito
+PPL 81; 7578080871; Pedro Antonio Cevallos Morales; 28; 13; 26/01/2015; 26/01/2028; 4; 2(B); B1; Medio; 2 Hora(s); Hurto
+PPL 82; 6355736509; Roberto Sergio Gonzales Ramirez; 60; 46; 24/11/1983; 24/11/2029; 5; 2(B); B2; Medio; 2 Hora(s); Robo
+PPL 83; 4051084792; Roberto Pablo Romero Ramirez; 42; 27; 29/02/2001; 29/02/2028; 4; 2(B); B3; Medio; 2 Hora(s); Hurto
+PPL 84; 6404147287; Mario Julian Paredes Reyes; 36; 27; 01/11/2009; 01/11/2036; 12; 2(B); B4; Medio; 2 Hora(s); Robo
+PPL 85; 5759875509; Carlos Pablo Romero Gomez; 40; 15; 19/04/2012; 19/04/2027; 3; 2(B); B5; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 86; 6640354755; Michael Angel Paredes Reyes; 66; 48; 28/11/1980; 28/11/2028; 4; 2(B); B6; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 87; 1767466189; Michael Sergio Cuenca Morales; 23; 18; 17/05/2021; 17/05/2039; 15; 2(B); B7; Medio; 2 Hora(s); Hurto
+PPL 88; 3824278730; Roberto Antonio Guerrero Ramirez; 48; 32; 20/01/1995; 20/01/2027; 3; 2(B); B8; Medio; 2 Hora(s); Hurto
+PPL 89; 5822883585; Gonzalo Julian Paredes Roman; 37; 24; 07/11/2013; 07/11/2037; 13; 2(B); B9; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 90; 1893091976; Gonzalo Angel Paredes Rivera; 46; 23; 24/01/2005; 24/01/2028; 4; 2(B); B10; Medio; 2 Hora(s); Hurto
+PPL 91; 4994346146; Dario Julian Paredes Gomez; 61; 44; 15/04/1983; 15/04/2027; 3; 2(B); B11; Medio; 2 Hora(s); Hurto
+PPL 92; 2274911774; Carlos Adrian Garcia Ramirez; 34; 19; 02/10/2009; 02/10/2028; 4; 2(B); B12; Medio; 2 Hora(s); Fraude
+PPL 93; 4556440492; Fabian Diego Gonzales Espinosa; 60; 43; 28/10/1985; 28/10/2028; 4; 2(B); B13; Medio; 2 Hora(s); Robo
+PPL 94; 1915130470; Victor Diego Garcia Ramirez; 56; 36; 14/05/1990; 14/05/2026; 2; 2(B); B14; Medio; 2 Hora(s); Fraude
+PPL 95; 8518830844; Fabian Antonio Torres Roman; 59; 45; 08/12/1985; 08/12/2030; 6; 2(B); B15; Medio; 2 Hora(s); Hurto
+PPL 96; 8227376746; Gonzalo Antonio Garcia Hidalgo; 44; 29; 04/10/1999; 04/10/2028; 4; 2(B); B16; Medio; 2 Hora(s); Hurto
+PPL 97; 1719551377; Roberto Julian Gonzales Espinosa; 49; 36; 11/09/1994; 11/09/2030; 6; 2(B); B17; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 98; 9521583451; Dario Antonio Guerrero Reyes; 49; 30; 14/07/2019; 14/07/2049; 25; 2(B); B18; Medio; 2 Hora(s); Robo
+PPL 99; 3210930305; Roberto Diego Torres Reyes; 54; 39; 26/06/1991; 26/06/2030; 6; 2(B); B19; Medio; 2 Hora(s); Hurto
+PPL 100; 1087438354; Victor Pablo Paredes Reyes; 46; 12; 06/02/2020; 06/02/2032; 8; 2(B); B20; Medio; 2 Hora(s); Fraude
+PPL 101; 5718155105; Michael Sergio Paredes Rivera; 45; 10; 10/02/2017; 10/02/2027; 3; 2(B); B21; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 102; 2404562030; Victor Antonio Paredes Rivera; 43; 30; 24/05/2019; 24/05/2049; 25; 2(B); B22; Medio; 2 Hora(s); Fraude
+PPL 103; 3254882840; Carlos Paulo Cuenca Sanchez; 36; 21; 07/07/2013; 07/07/2034; 10; 2(B); B23; Medio; 2 Hora(s); Hurto
+PPL 104; 5461545547; Pedro Cesar Gonzales Sanchez; 31; 12; 07/03/2023; 07/03/2035; 11; 2(B); B24; Medio; 2 Hora(s); Fraude
+PPL 105; 5037136110; Roberto Paulo Gonzales Sanchez; 56; 39; 28/11/1987; 28/11/2026; 2; 2(B); B25; Medio; 2 Hora(s); Fraude
+PPL 106; 3948714451; Victor Paulo Garcia Reyes; 29; 6; 18/10/2020; 18/10/2026; 2; 2(B); B26; Medio; 2 Hora(s); Hurto
+PPL 107; 1843856044; Roberto Antonio Cuenca Sanchez; 26; 24; 05/12/2018; 05/12/2042; 18; 2(B); B27; Medio; 2 Hora(s); Hurto
+PPL 108; 1370757834; Carlos Adrian Perero Roman; 47; 28; 18/09/2004; 18/09/2032; 8; 2(B); B28; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 109; 2604212966; Fabian Antonio Garcia Rivera; 51; 34; 15/09/1992; 15/09/2026; 2; 2(B); B29; Medio; 2 Hora(s); Fraude
+PPL 110; 2851130436; Victor Adrian Paredes Sanchez; 58; 43; 15/08/1987; 15/08/2030; 6; 2(B); B30; Medio; 2 Hora(s); Hurto
+PPL 111; 7705086306; Fabian Angel Garcia Morales; 45; 23; 18/12/2005; 18/12/2028; 4; 2(B); B31; Medio; 2 Hora(s); Robo
+PPL 112; 1040667166; Michael Diego Gonzales Rivera; 43; 18; 29/11/2008; 29/11/2026; 2; 2(B); B32; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 113; 5278846192; Roberto Diego Guerrero Sanchez; 57; 41; 04/10/1987; 04/10/2028; 4; 2(B); B33; Medio; 2 Hora(s); Fraude
+PPL 114; 6250989493; Carlos Pablo Guerrero Sanchez; 48; 29; 10/07/1998; 10/07/2027; 3; 2(B); B34; Medio; 2 Hora(s); Fraude
+PPL 115; 1710218442; Roberto Paulo Cuenca Espinosa; 49; 29; 23/04/1998; 23/04/2027; 3; 2(B); B35; Medio; 2 Hora(s); Hurto
+PPL 116; 1440023256; Roberto Sergio Torres Gomez; 31; 16; 25/02/2013; 25/02/2029; 5; 2(B); B36; Medio; 2 Hora(s); Hurto
+PPL 117; 7076379812; Dario Sergio Romero Gomez; 56; 42; 06/10/1987; 06/10/2029; 5; 2(B); B37; Medio; 2 Hora(s); Hurto
+PPL 118; 8749043628; Dario Antonio Torres Roman; 48; 32; 10/10/1997; 10/10/2029; 5; 2(B); B38; Medio; 2 Hora(s); Fraude
+PPL 119; 6485713888; Victor Antonio Romero Morales; 56; 38; 19/02/1989; 19/02/2027; 3; 2(B); B39; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 120; 1537314563; Roberto Angel Romero Rivera; 60; 45; 06/01/1983; 06/01/2028; 4; 2(B); B40; Medio; 2 Hora(s); Hurto
+PPL 121; 6991484409; Pedro Antonio Gonzales Gomez; 44; 30; 29/04/1999; 29/04/2029; 5; 2(B); B41; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 122; 4341227651; Michael Diego Romero Hidalgo; 56; 42; 11/12/1987; 11/12/2029; 5; 2(B); B42; Medio; 2 Hora(s); Fraude
+PPL 123; 4661013312; Carlos Julian Paredes Sanchez; 52; 33; 28/01/1993; 28/01/2026; 2; 2(B); B43; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 124; 5188918255; Fabian Julian Perero Roman; 63; 45; 27/07/1981; 27/07/2026; 2; 2(B); B44; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 125; 5421990951; Carlos Julian Guerrero Sanchez; 47; 32; 25/10/1996; 25/10/2028; 4; 2(B); B45; Medio; 2 Hora(s); Hurto
+PPL 126; 8356581057; Michael Pablo Cevallos Espinosa; 41; 25; 04/12/2003; 04/12/2028; 4; 2(B); B46; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 127; 2285086917; Mario Antonio Cevallos Roman; 33; 28; 25/06/2011; 25/06/2039; 15; 2(B); B47; Medio; 2 Hora(s); Fraude
+PPL 128; 4906886744; Gonzalo Sergio Cuenca Hidalgo; 64; 45; 11/03/1982; 11/03/2027; 3; 2(B); B48; Medio; 2 Hora(s); Robo
+PPL 129; 6542287574; Michael Angel Paredes Morales; 38; 23; 16/01/2007; 16/01/2030; 6; 2(B); B49; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 130; 4683640518; Gonzalo Antonio Cuenca Hidalgo; 48; 33; 16/05/1996; 16/05/2029; 5; 2(B); B50; Medio; 2 Hora(s); Fraude
+PPL 131; 4586334070; Mario Paulo Paredes Morales; 65; 49; 23/05/1980; 23/05/2029; 5; 2(B); B51; Medio; 2 Hora(s); Fraude
+PPL 132; 7080658863; Fabian Antonio Torres Hidalgo; 19; 8; 31/06/2024; 31/06/2032; 8; 2(B); B52; Medio; 2 Hora(s); Fraude
+PPL 133; 2163144355; Roberto Pablo Guerrero Roman; 51; 31; 05/09/1995; 05/09/2026; 2; 2(B); B53; Medio; 2 Hora(s); Fraude
+PPL 134; 6126363766; Michael Antonio Garcia Sanchez; 23; 5; 06/09/2021; 06/09/2026; 2; 2(B); B54; Medio; 2 Hora(s); Fraude
+PPL 135; 6886340255; Pedro Antonio Paredes Sanchez; 41; 28; 09/09/2011; 09/09/2039; 15; 2(B); B55; Medio; 2 Hora(s); Robo
+PPL 136; 8302568718; Gonzalo Angel Paredes Hidalgo; 57; 41; 10/09/1988; 10/09/2029; 5; 2(B); B56; Medio; 2 Hora(s); Robo
+PPL 137; 4972983320; Mario Sergio Perero Sanchez; 47; 30; 27/06/1997; 27/06/2027; 3; 2(B); B57; Medio; 2 Hora(s); Robo
+PPL 138; 3514395779; Pedro Antonio Garcia Rivera; 34; 17; 14/10/2009; 14/10/2026; 2; 2(B); B58; Medio; 2 Hora(s); Hurto
+PPL 139; 6612877243; Roberto Antonio Torres Ramirez; 55; 38; 28/04/1990; 28/04/2028; 4; 2(B); B59; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 140; 5895084323; Victor Paulo Torres Reyes; 59; 44; 19/04/1986; 19/04/2030; 6; 2(B); B60; Medio; 2 Hora(s); Robo
+PPL 141; 3080922532; Victor Angel Gonzales Reyes; 42; 25; 27/08/2022; 27/08/2047; 23; 2(B); B61; Medio; 2 Hora(s); Hurto
+PPL 142; 4924634644; Pedro Julian Gonzales Espinosa; 63; 45; 16/01/1983; 16/01/2028; 4; 2(B); B62; Medio; 2 Hora(s); Hurto
+PPL 143; 8574279720; Roberto Antonio Perero Reyes; 44; 29; 30/09/2000; 30/09/2029; 5; 2(B); B63; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 144; 1849164417; Victor Diego Guerrero Sanchez; 53; 36; 15/07/1990; 15/07/2026; 2; 2(B); B64; Medio; 2 Hora(s); Robo
+PPL 145; 7372668508; Michael Julian Romero Gomez; 32; 13; 30/03/2016; 30/03/2029; 5; 2(B); B65; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 146; 8216534281; Fabian Adrian Paredes Sanchez; 48; 31; 04/02/1995; 04/02/2026; 2; 2(B); B66; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 147; 6916970937; Dario Antonio Perero Hidalgo; 51; 33; 02/01/1993; 02/01/2026; 2; 2(B); B67; Medio; 2 Hora(s); Hurto
+PPL 148; 6683591840; Roberto Cesar Gonzales Morales; 55; 39; 29/12/1991; 29/12/2030; 6; 2(B); B68; Medio; 2 Hora(s); Fraude
+PPL 149; 5033538719; Gonzalo Angel Paredes Sanchez; 36; 18; 15/06/2010; 15/06/2028; 4; 2(B); B69; Medio; 2 Hora(s); Robo
+PPL 150; 4617643382; Fabian Antonio Garcia Hidalgo; 53; 35; 10/10/1993; 10/10/2028; 4; 2(B); B70; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 151; 1522163161; Gonzalo Adrian Paredes Gomez; 43; 5; 17/06/2021; 17/06/2026; 2; 2(B); B71; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 152; 6938244560; Roberto Paulo Torres Sanchez; 57; 42; 05/06/1988; 05/06/2030; 6; 2(B); B72; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 153; 4266014680; Michael Pablo Gonzales Roman; 63; 49; 24/04/1980; 24/04/2029; 5; 2(B); B73; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 154; 5233445057; Victor Pablo Gonzales Morales; 38; 28; 30/02/2010; 30/02/2038; 14; 2(B); B74; Medio; 2 Hora(s); Robo
+PPL 155; 9740331721; Dario Angel Perero Ramirez; 48; 20; 13/08/2009; 13/08/2029; 5; 2(B); B75; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 156; 6430299943; Carlos Paulo Romero Roman; 44; 23; 26/08/2014; 26/08/2037; 13; 2(B); B76; Medio; 2 Hora(s); Fraude
+PPL 157; 6081232663; Dario Antonio Romero Gomez; 37; 29; 17/08/2006; 17/08/2035; 11; 2(B); B77; Medio; 2 Hora(s); Fraude
+PPL 158; 3507851488; Dario Antonio Perero Reyes; 32; 16; 08/10/2011; 08/10/2027; 3; 2(B); B78; Medio; 2 Hora(s); Fraude
+PPL 159; 9582013711; Carlos Pablo Torres Hidalgo; 43; 28; 23/07/2000; 23/07/2028; 4; 2(B); B79; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 160; 1368856557; Roberto Adrian Perero Sanchez; 46; 32; 29/08/1998; 29/08/2030; 6; 2(B); B80; Medio; 2 Hora(s); Robo
+PPL 161; 2593045630; Victor Julian Romero Sanchez; 50; 22; 02/06/2004; 02/06/2026; 2; 2(B); B81; Medio; 2 Hora(s); Fraude
+PPL 162; 5165111599; Dario Sergio Torres Morales; 27; 16; 27/12/2022; 27/12/2038; 14; 2(B); B82; Medio; 2 Hora(s); Robo
+PPL 163; 5020944482; Roberto Cesar Gonzales Sanchez; 28; 20; 26/01/2016; 26/01/2036; 12; 2(B); B83; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 164; 3961375584; Roberto Sergio Cuenca Reyes; 43; 28; 11/06/2001; 11/06/2029; 5; 2(B); B84; Medio; 2 Hora(s); Hurto
+PPL 165; 4385461034; Victor Adrian Guerrero Espinosa; 47; 29; 29/08/1996; 29/08/2025; 1; 2(B); B85; Medio; 2 Hora(s); Fraude
+PPL 166; 7126582623; Roberto Sergio Perero Ramirez; 59; 45; 10/11/1985; 10/11/2030; 6; 2(B); B86; Medio; 2 Hora(s); Fraude
+PPL 167; 9872528015; Mario Paulo Romero Roman; 44; 27; 13/08/2002; 13/08/2029; 5; 2(B); B87; Medio; 2 Hora(s); Hurto
+PPL 168; 6143460276; Mario Diego Cevallos Rivera; 30; 22; 16/12/2014; 16/12/2036; 12; 2(B); B88; Medio; 2 Hora(s); Hurto
+PPL 169; 2662021206; Gonzalo Cesar Torres Roman; 58; 39; 23/03/1987; 23/03/2026; 2; 2(B); B89; Medio; 2 Hora(s); Hurto
+PPL 170; 7373127003; Roberto Cesar Torres Ramirez; 54; 41; 07/10/1989; 07/10/2030; 6; 2(B); B90; Medio; 2 Hora(s); Hurto
+PPL 171; 1246020194; Michael Angel Cevallos Sanchez; 62; 49; 11/12/1981; 11/12/2030; 6; 2(B); B1; Medio; 2 Hora(s); Fraude
+PPL 172; 2570150247; Fabian Julian Cevallos Hidalgo; 45; 28; 10/03/1999; 10/03/2027; 3; 2(B); B2; Medio; 2 Hora(s); Fraude
+PPL 173; 8404396811; Gonzalo Angel Paredes Morales; 55; 42; 31/05/1988; 31/05/2030; 6; 2(B); B3; Medio; 2 Hora(s); Robo
+PPL 174; 3837332587; Victor Sergio Perero Morales; 53; 36; 30/08/1993; 30/08/2029; 5; 2(B); B4; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 175; 3943274997; Victor Antonio Paredes Espinosa; 50; 35; 10/09/1993; 10/09/2028; 4; 2(B); B5; Medio; 2 Hora(s); Robo
+PPL 176; 5047165446; Pedro Pablo Torres Reyes; 27; 29; 12/04/2020; 12/04/2049; 25; 2(B); B6; Medio; 2 Hora(s); Robo
+PPL 177; 6674214054; Roberto Sergio Paredes Gomez; 28; 10; 07/02/2018; 07/02/2028; 4; 2(B); B7; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 178; 5728150677; Fabian Antonio Perero Gomez; 51; 38; 13/08/1992; 13/08/2030; 6; 2(B); B8; Medio; 2 Hora(s); Robo
+PPL 179; 9912187562; Mario Cesar Cuenca Roman; 47; 32; 30/12/1998; 30/12/2030; 6; 2(B); B9; Medio; 2 Hora(s); Hurto
+PPL 180; 9860719593; Mario Angel Gonzales Sanchez; 48; 33; 31/12/1995; 31/12/2028; 4; 2(B); B10; Medio; 2 Hora(s); Fraude
+PPL 181; 8830923299; Michael Antonio Guerrero Hidalgo; 36; 24; 18/09/2018; 18/09/2042; 18; 2(B); B11; Medio; 2 Hora(s); Robo
+PPL 182; 1855485035; Michael Adrian Cuenca Rivera; 46; 32; 08/01/1997; 08/01/2029; 5; 2(B); B12; Medio; 2 Hora(s); Fraude
+PPL 183; 6756190632; Roberto Angel Garcia Ramirez; 42; 26; 14/10/2004; 14/10/2030; 6; 2(B); B13; Medio; 2 Hora(s); Robo
+PPL 184; 7862875122; Victor Sergio Romero Sanchez; 31; 13; 04/11/2014; 04/11/2027; 3; 2(B); B14; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 185; 9262812381; Dario Angel Cevallos Hidalgo; 49; 32; 11/12/1997; 11/12/2029; 5; 2(B); B15; Medio; 2 Hora(s); Hurto
+PPL 186; 3967113097; Carlos Diego Garcia Rivera; 33; 25; 15/07/2010; 15/07/2035; 11; 2(B); B16; Medio; 2 Hora(s); Fraude
+PPL 187; 4114041765; Pedro Antonio Torres Sanchez; 54; 36; 23/09/1992; 23/09/2028; 4; 2(B); B17; Medio; 2 Hora(s); Robo
+PPL 188; 3276532118; Roberto Paulo Gonzales Gomez; 48; 31; 12/02/1995; 12/02/2026; 2; 2(B); B18; Medio; 2 Hora(s); Hurto
+PPL 189; 6880048040; Mario Cesar Perero Gomez; 45; 26; 13/06/2003; 13/06/2029; 5; 2(B); B19; Medio; 2 Hora(s); Hurto
+PPL 190; 6047366021; Mario Julian Cuenca Morales; 44; 27; 02/12/1999; 02/12/2026; 2; 2(B); B20; Medio; 2 Hora(s); Robo
+PPL 191; 3040953353; Victor Julian Cuenca Roman; 42; 28; 24/03/2002; 24/03/2030; 6; 2(B); B21; Medio; 2 Hora(s); Hurto
+PPL 192; 9440060483; Roberto Diego Paredes Sanchez; 45; 29; 13/01/2015; 13/01/2044; 20; 2(B); B22; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 193; 1582765145; Roberto Paulo Paredes Roman; 28; 20; 07/01/2017; 07/01/2037; 13; 2(B); B23; Medio; 2 Hora(s); Fraude
+PPL 194; 9123053248; Pedro Antonio Paredes Morales; 27; 29; 11/11/2020; 11/11/2049; 25; 2(B); B24; Medio; 2 Hora(s); Hurto
+PPL 195; 8944457799; Mario Cesar Romero Reyes; 43; 29; 16/07/2000; 16/07/2029; 5; 2(B); B25; Medio; 2 Hora(s); Robo
+PPL 196; 9979661346; Victor Antonio Guerrero Reyes; 46; 11; 22/09/2015; 22/09/2026; 2; 2(B); B26; Medio; 2 Hora(s); Fraude
+PPL 197; 4317049928; Roberto Antonio Guerrero Reyes; 57; 39; 07/11/1989; 07/11/2028; 4; 2(B); B27; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 198; 2086234995; Mario Diego Gonzales Sanchez; 56; 37; 12/07/1989; 12/07/2026; 2; 2(B); B28; Medio; 2 Hora(s); Hurto
+PPL 199; 1670885155; Carlos Paulo Guerrero Espinosa; 42; 17; 05/05/2013; 05/05/2030; 6; 2(B); B29; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 200; 2297911996; Fabian Pablo Torres Morales; 47; 29; 20/10/1997; 20/10/2026; 2; 2(B); B30; Medio; 2 Hora(s); Robo
+PPL 201; 2465813689; Gonzalo Julian Guerrero Reyes; 42; 27; 19/06/2003; 19/06/2030; 6; 2(B); B31; Medio; 2 Hora(s); Fraude
+PPL 202; 7531832796; Carlos Diego Garcia Rivera; 38; 14; 30/07/2022; 30/07/2036; 12; 2(B); B32; Medio; 2 Hora(s); Hurto
+PPL 203; 3840610401; Mario Adrian Torres Espinosa; 58; 42; 24/04/1986; 24/04/2028; 4; 2(B); B33; Medio; 2 Hora(s); Hurto
+PPL 204; 8251767033; Mario Angel Gonzales Roman; 54; 36; 25/07/1991; 25/07/2027; 3; 2(B); B34; Medio; 2 Hora(s); Robo
+PPL 205; 4784867028; Fabian Antonio Garcia Ramirez; 26; 24; 27/05/2018; 27/05/2042; 18; 2(B); B35; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 206; 6529984931; Mario Adrian Gonzales Reyes; 40; 24; 24/09/2003; 24/09/2027; 3; 2(B); B36; Medio; 2 Hora(s); Hurto
+PPL 207; 3350882833; Roberto Diego Cevallos Sanchez; 38; 10; 09/02/2021; 09/02/2031; 7; 2(B); B37; Medio; 2 Hora(s); Robo
+PPL 208; 2215321915; Roberto Cesar Perero Gomez; 38; 26; 15/04/2011; 15/04/2037; 13; 2(B); B38; Medio; 2 Hora(s); Fraude
+PPL 209; 4014626194; Fabian Angel Garcia Hidalgo; 50; 33; 09/11/1993; 09/11/2026; 2; 2(B); B39; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 210; 9015283952; Roberto Antonio Guerrero Morales; 54; 37; 10/04/1990; 10/04/2027; 3; 2(B); B40; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 211; 1790958570; Victor Antonio Cevallos Espinosa; 66; 46; 03/09/1980; 03/09/2026; 2; 2(B); B41; Medio; 2 Hora(s); Fraude
+PPL 212; 6318220111; Mario Antonio Cuenca Gomez; 23; 4; 13/10/2021; 13/10/2025; 1; 2(B); B42; Medio; 2 Hora(s); Robo
+PPL 213; 3902678013; Pedro Sergio Romero Sanchez; 52; 37; 20/12/1993; 20/12/2030; 6; 2(B); B43; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 214; 7121627369; Gonzalo Antonio Perero Ramirez; 48; 28; 17/07/1997; 17/07/2025; 1; 2(B); B44; Medio; 2 Hora(s); Hurto
+PPL 215; 3255395725; Dario Julian Torres Roman; 61; 43; 20/06/1983; 20/06/2026; 2; 2(B); B45; Medio; 2 Hora(s); Robo
+PPL 216; 1211082738; Pedro Adrian Guerrero Roman; 34; 17; 24/05/2012; 24/05/2029; 5; 2(B); B46; Medio; 2 Hora(s); Hurto
+PPL 217; 7333487868; Roberto Antonio Perero Gomez; 37; 30; 30/02/2006; 30/02/2036; 12; 2(B); B47; Medio; 2 Hora(s); Hurto
+PPL 218; 1559573667; Victor Antonio Gonzales Reyes; 39; 14; 02/02/2012; 02/02/2026; 2; 2(B); B48; Medio; 2 Hora(s); Fraude
+PPL 219; 3560616883; Roberto Pablo Guerrero Reyes; 35; 21; 21/06/2009; 21/06/2030; 6; 2(B); B49; Medio; 2 Hora(s); Robo
+PPL 220; 5764426540; Mario Cesar Cuenca Sanchez; 54; 40; 10/10/1989; 10/10/2029; 5; 2(B); B50; Medio; 2 Hora(s); Fraude
+PPL 221; 8683623282; Dario Adrian Cevallos Sanchez; 54; 40; 14/08/1989; 14/08/2029; 5; 2(B); B51; Medio; 2 Hora(s); Robo
+PPL 222; 5054288643; Gonzalo Antonio Guerrero Ramirez; 52; 35; 15/10/1992; 15/10/2027; 3; 2(B); B52; Medio; 2 Hora(s); Fraude
+PPL 223; 6090053384; Michael Sergio Cuenca Hidalgo; 60; 45; 29/05/1983; 29/05/2028; 4; 2(B); B53; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 224; 5593497197; Michael Antonio Cevallos Reyes; 40; 23; 13/10/2007; 13/10/2030; 6; 2(B); B54; Medio; 2 Hora(s); Robo
+PPL 225; 8738023647; Dario Antonio Paredes Sanchez; 38; 21; 06/05/2005; 06/05/2026; 2; 2(B); B55; Medio; 2 Hora(s); Fraude
+PPL 226; 1199511421; Michael Diego Paredes Rivera; 48; 29; 09/02/2000; 09/02/2029; 5; 2(B); B56; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 227; 2634981501; Pedro Adrian Torres Roman; 56; 39; 21/04/1989; 21/04/2028; 4; 2(B); B57; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 228; 7222154493; Victor Antonio Garcia Reyes; 44; 26; 19/02/2000; 19/02/2026; 2; 2(B); B58; Medio; 2 Hora(s); Robo
+PPL 229; 9684420720; Fabian Antonio Torres Gomez; 61; 44; 27/10/1982; 27/10/2026; 2; 2(B); B59; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 230; 1519149380; Michael Antonio Cevallos Sanchez; 25; 15; 09/12/2020; 09/12/2035; 11; 2(B); B60; Medio; 2 Hora(s); Fraude
+PPL 231; 4022359559; Michael Angel Paredes Roman; 40; 30; 08/02/2021; 08/02/2051; 27; 2(B); B61; Medio; 2 Hora(s); Hurto
+PPL 232; 1400554728; Victor Angel Guerrero Sanchez; 64; 46; 24/07/1981; 24/07/2027; 3; 2(B); B62; Medio; 2 Hora(s); Robo
+PPL 233; 4021698473; Roberto Sergio Cuenca Sanchez; 36; 15; 22/10/2019; 22/10/2034; 10; 2(B); B63; Medio; 2 Hora(s); Hurto
+PPL 234; 3388694145; Mario Sergio Cevallos Gomez; 40; 24; 23/02/2004; 23/02/2028; 4; 2(B); B64; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 235; 9343772668; Michael Antonio Paredes Gomez; 27; 29; 14/11/2017; 14/11/2046; 22; 2(B); B65; Medio; 2 Hora(s); Robo
+PPL 236; 8770630758; Roberto Antonio Torres Sanchez; 58; 43; 26/12/1985; 26/12/2028; 4; 2(B); B66; Medio; 2 Hora(s); Robo
+PPL 237; 9502710212; Carlos Adrian Paredes Roman; 24; 20; 19/04/2022; 19/04/2042; 18; 2(B); B67; Medio; 2 Hora(s); Hurto
+PPL 238; 5126325902; Victor Paulo Garcia Espinosa; 28; 14; 08/03/2017; 08/03/2031; 7; 2(B); B68; Medio; 2 Hora(s); Fraude
+PPL 239; 3076436099; Pedro Antonio Cuenca Reyes; 62; 43; 20/05/1984; 20/05/2027; 3; 2(B); B69; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 240; 4908459056; Pedro Adrian Perero Sanchez; 42; 19; 26/05/2016; 26/05/2035; 11; 2(B); B70; Medio; 2 Hora(s); Robo
+PPL 241; 6270677731; Mario Diego Guerrero Hidalgo; 54; 39; 25/05/1990; 25/05/2029; 5; 2(B); B71; Medio; 2 Hora(s); Fraude
+PPL 242; 2544372916; Gonzalo Cesar Romero Sanchez; 51; 34; 07/12/1992; 07/12/2026; 2; 2(B); B72; Medio; 2 Hora(s); Hurto
+PPL 243; 8572331898; Roberto Sergio Garcia Hidalgo; 51; 33; 18/11/1995; 18/11/2028; 4; 2(B); B73; Medio; 2 Hora(s); Hurto
+PPL 244; 1557181081; Roberto Angel Gonzales Morales; 45; 19; 29/04/2011; 29/04/2030; 6; 2(B); B74; Medio; 2 Hora(s); Fraude
+PPL 245; 4007343318; Roberto Antonio Cuenca Hidalgo; 38; 28; 17/09/2006; 17/09/2034; 10; 2(B); B75; Medio; 2 Hora(s); Fraude
+PPL 246; 1629455311; Dario Julian Cuenca Hidalgo; 35; 24; 26/01/2009; 26/01/2033; 9; 2(B); B76; Medio; 2 Hora(s); Robo
+PPL 247; 3385923268; Carlos Antonio Garcia Sanchez; 61; 46; 21/07/1982; 21/07/2028; 4; 2(B); B77; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 248; 4490171752; Roberto Pablo Cevallos Morales; 58; 45; 04/04/1985; 04/04/2030; 6; 2(B); B78; Medio; 2 Hora(s); Hurto
+PPL 249; 9655136589; Gonzalo Adrian Garcia Reyes; 29; 29; 13/10/2014; 13/10/2043; 19; 2(B); B79; Medio; 2 Hora(s); Robo
+PPL 250; 3181358815; Dario Julian Garcia Morales; 39; 21; 13/02/2005; 13/02/2026; 2; 2(B); B80; Medio; 2 Hora(s); Fraude
+PPL 251; 8734056475; Carlos Angel Cuenca Reyes; 42; 16; 31/12/2010; 31/12/2026; 2; 2(B); B81; Medio; 2 Hora(s); Fraude
+PPL 252; 3183158499; Roberto Julian Gonzales Reyes; 51; 37; 12/07/1992; 12/07/2029; 5; 2(B); B82; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 253; 1896391802; Mario Diego Romero Morales; 56; 41; 31/06/1988; 31/06/2029; 5; 2(B); B83; Medio; 2 Hora(s); Robo
+PPL 254; 7593261042; Victor Diego Perero Sanchez; 61; 46; 18/01/1984; 18/01/2030; 6; 2(B); B84; Medio; 2 Hora(s); Fraude
+PPL 255; 98924100289; Fabian Antonio Cuenca Rivera; 66; 47; 08/12/1980; 08/12/2027; 3; 2(B); B85; Medio; 2 Hora(s); Hurto
+PPL 256; 5563647518; Mario Antonio Romero Roman; 42; 27; 03/05/2002; 03/05/2029; 5; 2(B); B86; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 257; 2809680017; Mario Diego Paredes Morales; 42; 22; 24/05/2005; 24/05/2027; 3; 2(B); B87; Medio; 2 Hora(s); Hurto
+PPL 258; 9117419850; Gonzalo Cesar Perero Morales; 31; 6; 28/10/2021; 28/10/2027; 3; 2(B); B88; Medio; 2 Hora(s); Fraude
+PPL 259; 6308447007; Carlos Cesar Romero Morales; 31; 15; 20/06/2014; 20/06/2029; 5; 2(B); B89; Medio; 2 Hora(s); Evacion de Impuestos
+PPL 260; 7217726544; Mario Antonio Guerrero Morales; 31; 22; 31/11/2023; 31/11/2045; 21; 2(B); B90; Medio; 2 Hora(s); Fraude

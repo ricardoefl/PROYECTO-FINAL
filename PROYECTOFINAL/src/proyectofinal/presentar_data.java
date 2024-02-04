@@ -24,6 +24,10 @@ public class presentar_data {
         generardelitos(principal, filas);//12
         generarcsvCompleto(principal, filas, nombreArchivoCompleto);
         generarcsvPabellon1(principal, filas, pabellon1);
+        generarcsvPabellon2(principal, filas, pabellon2);
+        generarcsvPabellon3(principal, filas, pabellon3);
+        generarcsvPabellon4(principal, filas, pabellon4);
+        generarcsvPabellon5(principal, filas, pabellon5);
     }
     
     public static void generarcsvCompleto(String[][] principal, int filas, String nombreArchivoCompleto){
@@ -49,6 +53,62 @@ public class presentar_data {
             }
             e.close();
             System.out.println("La informacion se guardo correctamente en: "+pabellon1);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+    
+    public static void generarcsvPabellon2(String[][] principal, int filas, String pabellon2){
+        try {
+            Formatter e = new Formatter(pabellon2);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            for (int i = 80; i < 260; i++) {
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+pabellon2);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+    
+    public static void generarcsvPabellon3(String[][] principal, int filas, String pabellon3){
+        try {
+            Formatter e = new Formatter(pabellon3);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            for (int i = 260; i <440; i++) {
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+pabellon3);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+    
+    public static void generarcsvPabellon4(String[][] principal, int filas, String pabellon4){
+        try {
+            Formatter e = new Formatter(pabellon4);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            for (int i = 440; i < 620; i++) {
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+pabellon4);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+    
+    public static void generarcsvPabellon5(String[][] principal, int filas, String pabellon5){
+        try {
+            Formatter e = new Formatter(pabellon5);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            for (int i = 620; i < 799; i++) {
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+pabellon5);
         } catch (FileNotFoundException ex) {
             System.out.println(ex.getMessage());
         }

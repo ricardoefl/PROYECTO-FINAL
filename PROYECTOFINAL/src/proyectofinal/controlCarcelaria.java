@@ -6,10 +6,14 @@ import java.io.*;
 public class controlCarcelaria {
     public static void main(String[] args) {
         String archivoPrincipal = "datosCarcel.csv", archivoInfo = "informacionCarcel.txt", contraseña = null;
+        String pabellon1 = "pabellon1.csv", pabellon2 = "pabellon2.csv",pabellon3 = "pabellon3.csv",pabellon4 = "pabellon4.csv",pabellon5 = "pabellon5.csv";
+        String cedula = null;
         int filas = 801, columnas = 13, opcion = 0, seguir = 0;
         Scanner tc = new Scanner(System.in);
         String [][] principal = new String [filas][columnas];
         do{
+            leercsv(principal, archivoPrincipal);
+            presentarMatriz(principal, filas, columnas);
             System.out.println(opcionesInicio());
             opcion = tc.nextInt();
             switch(opcion){
@@ -30,19 +34,24 @@ public class controlCarcelaria {
                             opcion = tc.nextInt();
                             switch(opcion){
                                 case 1:
-                                    System.out.println("Pabellon 1");
+                                    System.out.println("ABRIENDO ARCHIVO...");
+                                    abrirArchivoPabellon1(pabellon1);
                                     break;
                                 case 2:
-                                    System.out.println("Pabellon 2");
+                                    System.out.println("ABRIENDO ARCHIVO...");
+                                    abrirArchivoPabellon2(pabellon2);
                                     break;
                                 case 3:
-                                    System.out.println("Pabellon 3");
+                                    System.out.println("ABRIENDO ARCHIVO...");
+                                    abrirArchivoPabellon3(pabellon3);
                                     break;
                                 case 4:
-                                    System.out.println("Pabellon 4");
+                                    System.out.println("ABRIENDO ARCHIVO...");
+                                    abrirArchivoPabellon4(pabellon4);
                                     break;
                                 case 5:
-                                    System.out.println("Pabellon 5");
+                                    System.out.println("ABRIENDO ARCHIVO...");
+                                    abrirArchivoPabellon5(pabellon5);
                                     break;
                                 default:
                                     System.out.println("Opcion incorrecta");
@@ -58,6 +67,9 @@ public class controlCarcelaria {
                     switch(opcion){
                         case 1:
                             System.out.println("Ingresa la identificacion del PPL");
+                            cedula = tc.next();
+                            leercsv(principal, archivoPrincipal);
+                            buscarPPLcedula(cedula, principal);
                             break;
                         case 2:
                             System.out.println("Ingresa la celda");
@@ -163,6 +175,7 @@ public class controlCarcelaria {
         return cadena;
     }
     
+    //Leer archivo principal
     public static void leercsv(String[][] principal, String archivoPrincipal){
         try {
             int i = 0;
@@ -189,7 +202,7 @@ public class controlCarcelaria {
             System.out.println(ex.getMessage());
         }  
     }
-    
+    //Metodos para abrir achivos especificos
     public static void abrirArchivoInfo(String archivoInfo){
         // Ruta
         String rutaArchivo = System.getProperty("user.dir") + File.separator + archivoInfo;
@@ -212,6 +225,74 @@ public class controlCarcelaria {
         }
     }
     
+    public static void abrirArchivoPabellon1(String pabellon1) {
+        // Ruta
+        String rutaArchivo = System.getProperty("user.dir") + File.separator + pabellon1;
+        try {
+            abrirArchivos(rutaArchivo);
+            System.out.println("Puedes visualizar la informacion en el archivo "+pabellon1);
+        } catch (IOException e) {
+            System.out.println("Error al abrir el archivo CSV: " + e.getMessage());
+        }
+    }
+    
+    public static void abrirArchivoPabellon2(String pabellon2) {
+        // Ruta
+        String rutaArchivo = System.getProperty("user.dir") + File.separator + pabellon2;
+        try {
+            abrirArchivos(rutaArchivo);
+            System.out.println("Puedes visualizar la informacion en el archivo "+pabellon2);
+        } catch (IOException e) {
+            System.out.println("Error al abrir el archivo CSV: " + e.getMessage());
+        }
+    }
+    
+    public static void abrirArchivoPabellon3(String pabellon3) {
+        // Ruta
+        String rutaArchivo = System.getProperty("user.dir") + File.separator + pabellon3;
+        try {
+            abrirArchivos(rutaArchivo);
+            System.out.println("Puedes visualizar la informacion en el archivo "+pabellon3);
+        } catch (IOException e) {
+            System.out.println("Error al abrir el archivo CSV: " + e.getMessage());
+        }
+    }
+    
+    public static void abrirArchivoPabellon4(String pabellon4) {
+        // Ruta
+        String rutaArchivo = System.getProperty("user.dir") + File.separator + pabellon4;
+        try {
+            abrirArchivos(rutaArchivo);
+            System.out.println("Puedes visualizar la informacion en el archivo "+pabellon4);
+        } catch (IOException e) {
+            System.out.println("Error al abrir el archivo CSV: " + e.getMessage());
+        }
+    }
+    
+    public static void abrirArchivoPabellon5(String pabellon5) {
+        // Ruta
+        String rutaArchivo = System.getProperty("user.dir") + File.separator + pabellon5;
+        try {
+            abrirArchivos(rutaArchivo);
+            System.out.println("Puedes visualizar la informacion en el archivo "+pabellon5);
+        } catch (IOException e) {
+            System.out.println("Error al abrir el archivo CSV: " + e.getMessage());
+        }
+    }
+    
+    public static void buscarPPLcedula(String cedula, String[][] principal){
+        int i = 0;
+        while(cedula.equals(principal[i][1])){
+            if(cedula.equals(principal[i][1])){
+                System.out.printf("|#PPL\t|Cedula\t|Nombres\t|Edad(Anios)|\tPena(anios)\t|Fecha(Ingreso)(d/m/a)\t|Fecha(Salida)(d/m/a)\t|Anios Restantes (pena)\t|Pabellon\t|Celda\t|Clasificacion\t|Visitas semanales(Horas)\t|Delito\n");
+                System.out.printf("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }else
+                System.out.println("SE FUGO EN EL MOTIN");
+            i++;
+        }
+    }
+    
+    //Metodo para abrir cualquier archivo
     private static void abrirArchivos(String rutaArchivo) throws IOException {
         File archivoCSV = new File(rutaArchivo);
 
@@ -228,4 +309,16 @@ public class controlCarcelaria {
             System.out.println("La apertura de archivos no es compatible en este sistema.");
         }
     }
+    
+    public static String presentarMatriz(String principal[][], int limF, int limC){
+    String cadena = "";
+    cadena += String.format("|#PPL\t|Cedula\t|Nombres\t|Edad(Anios)|\tPena(anios)\t|Fecha(Ingreso)(d/m/a)\t|Fecha(Salida)(d/m/a)\t|Anios Restantes (pena)\t|Pabellon\t|Celda\t|Clasificacion\t|Visitas semanales(Horas)\t|Delito\n");
+    for (int i = 0; i < limF; i++) {
+    	for (int j = 0; j < limC; j++){
+    		cadena += String.format("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+    	} 
+        cadena += "\n";
+    }
+    return cadena;
+}
 }
