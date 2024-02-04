@@ -1,10 +1,8 @@
 package proyectofinal;
 //AUTOR: Ricardo Espinosa Y Juan Diego Camargo
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.time.LocalDate;
-import java.util.Random;
+import java.util.*;
 public class presentar_data {
     public static void main(String[] args) {
         int filas = 800;
@@ -23,25 +21,20 @@ public class presentar_data {
         generarCelda(principal, filas);//9
         generarVisita(principal, filas);//11
         generardelitos(principal, filas);//12
-        guardarEnCSV(principal, filas, "datosCarcel.csv");
+        generarcsv(principal, filas, "datosCarcel.csv");
     }
     
-    
-    public static void guardarEnCSV(String[][] principal, int filas, String nombreArchivo) {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(nombreArchivo))) {
-            // Escribir encabezados
-            writer.write("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
-
-            // Escribir datos
+    public static void generarcsv(String[][] principal, int filas, String nombreArchivo){
+        try {
+            Formatter e = new Formatter(nombreArchivo);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
             for (int i = 0; i < filas; i++) {
-                writer.write(String.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",
-                        principal[i][0], principal[i][1], principal[i][2], principal[i][3], principal[i][4], principal[i][5],
-                        principal[i][6], principal[i][7], principal[i][8], principal[i][9], principal[i][10], principal[i][11], principal[i][12]));
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
             }
-
-            System.out.println("Datos guardados correctamente en " + nombreArchivo);
-        } catch (IOException e) {
-            e.printStackTrace();
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+nombreArchivo);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
         }
     }
     
@@ -124,7 +117,7 @@ public class presentar_data {
         for (int i = 0; i < filas; i++) {
             dia = (int) (Math.random() * 31) + 1;
             mes = (int) (Math.random() * 12) + 1;
-            anio = rand.nextInt(Integer.valueOf(anioActual)- 1985 + 1) + 1980;
+            anio = rand.nextInt(Integer.valueOf(anioActual)- 1980 + 1) + 1980;
             if((dia < 10)&&(mes < 10))
                 principal[i][5] = "0" + String.valueOf(dia) + "/0" + String.valueOf(mes) + "/" + String.valueOf(anio);
             else if(dia < 10)
