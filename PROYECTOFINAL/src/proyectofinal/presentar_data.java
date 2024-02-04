@@ -7,6 +7,7 @@ public class presentar_data {
     public static void main(String[] args) {
         int filas = 800;
         int columnas = 13;
+        String nombreArchivoCompleto = "datoscarcel.csv", pabellon1 = "pabellon1.csv", pabellon2 = "pabellon2.csv",pabellon3 = "pabellon3.csv",pabellon4 = "pabellon4.csv",pabellon5 = "pabellon5.csv";
         String [][]principal = new String [filas][columnas];
         generarNumeracion(principal, filas);//0
         generarCedulas(principal, filas);//1
@@ -21,18 +22,33 @@ public class presentar_data {
         generarCelda(principal, filas);//9
         generarVisita(principal, filas);//11
         generardelitos(principal, filas);//12
-        generarcsv(principal, filas, "datosCarcel.csv");
+        generarcsvCompleto(principal, filas, nombreArchivoCompleto);
+        generarcsvPabellon1(principal, filas, pabellon1);
     }
     
-    public static void generarcsv(String[][] principal, int filas, String nombreArchivo){
+    public static void generarcsvCompleto(String[][] principal, int filas, String nombreArchivoCompleto){
         try {
-            Formatter e = new Formatter(nombreArchivo);
+            Formatter e = new Formatter(nombreArchivoCompleto);
             e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
             for (int i = 0; i < filas; i++) {
                 e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
             }
             e.close();
-            System.out.println("La informacion se guardo correctamente en: "+nombreArchivo);
+            System.out.println("La informacion se guardo correctamente en: "+nombreArchivoCompleto);
+        } catch (FileNotFoundException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+    
+    public static void generarcsvPabellon1(String[][] principal, int filas, String pabellon1){
+        try {
+            Formatter e = new Formatter(pabellon1);
+            e.format("#PPL; Cedula; Nombres; Edad(Anios); Pena(anios); Fecha(Ingreso)(d/m/a); Fecha(Salida)(d/m/a); Anios Restantes (pena); Pabellon; Celda; Clasificacion; Visitas semanales(Horas); Delito\n");
+            for (int i = 0; i < 80; i++) {
+                e.format("%s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s; %s\n",principal[i][0],principal[i][1],principal[i][2],principal[i][3],principal[i][4],principal[i][5],principal[i][6],principal[i][7],principal[i][8],principal[i][9],principal[i][10],principal[i][11],principal[i][12]);
+            }
+            e.close();
+            System.out.println("La informacion se guardo correctamente en: "+pabellon1);
         } catch (FileNotFoundException ex) {
             System.out.println(ex.getMessage());
         }
